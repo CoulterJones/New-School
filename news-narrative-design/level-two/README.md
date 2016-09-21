@@ -3,9 +3,7 @@
 ### Who am I?
 
 Shane Shifflett, Data Reporter for The Wall Street Journal
-
 shiffles@newschool.edu
-
 415-323-5830
 
 ### Resources
@@ -36,7 +34,7 @@ shiffles@newschool.edu
 * PivotTables
 * Filtering and subtotals
 
-### What you should have covered in prior semesters with an embed:
+### What you hopefully covered in prior semesters with an embed:
 
 * Overview of using data in journalism
 * Understand sourcing of data and origin of records	

@@ -23,9 +23,9 @@ shiffles@newschool.edu
 * Oct. 13
 * Nov. 3
 
-### Where?
+### Where will we meet?
 
-[GitHub](https://github.com/CoulterJones/New-School/tree/master/news-narrative-design/level-two)
+65 West 11th St., Room 102
 
 ### Basic outline we'll cover over three classes:
 

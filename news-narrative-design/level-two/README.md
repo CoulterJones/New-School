@@ -19,7 +19,7 @@ shiffles@newschool.edu
 
 ### Dates
 
-* Sept. 21
+* [Sept. 21](https://github.com/CoulterJones/New-School/blob/master/news-narrative-design/level-two/campaign-finance.ipynb)
 * Oct. 13
 * Nov. 3
 

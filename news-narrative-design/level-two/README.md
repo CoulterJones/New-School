@@ -25,7 +25,7 @@ shiffles@newschool.edu
 
 ### Where will we meet?
 
-65 West 11th St., Room 102
+65 West 11th St., Room 102 @ 5:15pm
 
 ### Basic outline we'll cover over three classes:
 

@@ -22,7 +22,7 @@ shiffles@newschool.edu
 
 ### Where?
 
-https://github.com/CoulterJones/New-School/tree/master/news-narrative-design/level-two
+[GitHub](https://github.com/CoulterJones/New-School/tree/master/news-narrative-design/level-two)
 
 ### Basic outline we'll cover over three classes:
 

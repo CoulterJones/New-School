@@ -3,7 +3,9 @@
 ### Who am I?
 
 Shane Shifflett, Data Reporter for The Wall Street Journal
+
 shiffles@newschool.edu
+
 415-323-5830
 
 ### Resources

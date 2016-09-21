@@ -3,12 +3,15 @@
 ### Who am I?
 
 Shane Shifflett, Data Reporter for The Wall Street Journal
+
 shiffles@newschool.edu
+
+415-323-5830
 
 ### Resources
 
-[Excel tipsheet](https://drive.google.com/file/d/0B0F8GZ4RI4ZDUHpzYzUtR3dIUjA/view?usp=sharing)
-[Data sets for journalists](http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/)
+* [Excel tipsheet](https://drive.google.com/file/d/0B0F8GZ4RI4ZDUHpzYzUtR3dIUjA/view?usp=sharing)
+* [Data sets for journalists](http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/)
 
 ### Where to find materials?
 

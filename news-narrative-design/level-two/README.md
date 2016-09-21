@@ -4,7 +4,6 @@
 
 Shane Shifflett, Data Reporter for The Wall Street Journal
 shiffles@newschool.edu
-@shaneshifflett
 
 ### Resources
 
@@ -13,9 +12,19 @@ shiffles@newschool.edu
 
 ### Where to find materials?
 
-[GitHub](https://github.com/shaneshifflett/guides/tree/master/news-narrative-design/level-two/)
+[GitHub](https://github.com/CoulterJones/New-School/tree/master/news-narrative-design/level-two)
 
-Basic outline we'll cover over three classes:
+### Dates
+
+* Sept. 21
+* Oct. 13
+* Nov. 3
+
+### Where?
+
+https://github.com/CoulterJones/New-School/tree/master/news-narrative-design/level-two
+
+### Basic outline we'll cover over three classes:
 
 * Data in context
 * Review issues to consider when writing about numbers
@@ -24,7 +33,7 @@ Basic outline we'll cover over three classes:
 * PivotTables
 * Filtering and subtotals
 
-What you should have covered in prior semesters with an embed:
+### What you should have covered in prior semesters with an embed:
 
 * Overview of using data in journalism
 * Understand sourcing of data and origin of records	

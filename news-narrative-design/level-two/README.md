@@ -3,19 +3,31 @@
 ### Who am I?
 
 Shane Shifflett, Data Reporter for The Wall Street Journal
+
 shiffles@newschool.edu
-@shaneshifflett
+
+415-323-5830
 
 ### Resources
 
-[Excel tipsheet](https://drive.google.com/file/d/0B0F8GZ4RI4ZDUHpzYzUtR3dIUjA/view?usp=sharing)
-[Data sets for journalists](http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/)
+* [Excel tipsheet](https://drive.google.com/file/d/0B0F8GZ4RI4ZDUHpzYzUtR3dIUjA/view?usp=sharing)
+* [Data sets for journalists](http://cjlab.stanford.edu/2015/09/30/lab-launch-and-data-sets/)
 
 ### Where to find materials?
 
-[GitHub](https://github.com/shaneshifflett/guides/tree/master/news-narrative-design/level-two/)
+[GitHub](https://github.com/CoulterJones/New-School/tree/master/news-narrative-design/level-two)
 
-Basic outline we'll cover over three classes:
+### Dates
+
+* [Sept. 21](https://github.com/CoulterJones/New-School/blob/master/news-narrative-design/level-two/campaign-finance.ipynb)
+* Oct. 13
+* Nov. 3
+
+### Where will we meet?
+
+65 West 11th St., Room 102 @ 5:15pm
+
+### Basic outline we'll cover over three classes:
 
 * Data in context
 * Review issues to consider when writing about numbers
@@ -24,7 +36,7 @@ Basic outline we'll cover over three classes:
 * PivotTables
 * Filtering and subtotals
 
-What you should have covered in prior semesters with an embed:
+### What you hopefully covered in prior semesters with an embed:
 
 * Overview of using data in journalism
 * Understand sourcing of data and origin of records	

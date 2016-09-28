@@ -1,0 +1,148 @@
+UNITID_P,INSTNM,BRANCH,Address,City,State,ZIP,sector_cd,Sector_desc,men_total,women_total,Total_Students,WEAPON11,DRUG11,LIQUOR11,WEAPON12,DRUG12,LIQUOR12,WEAPON13,DRUG13,LIQUOR13
+128498001,Albertus Magnus College,Main Campus,700 PROSPECT ST,NEW HAVEN,CT,065111189,2,"Private nonprofit, 4-year or above",520,1062,1582,0,5,75,0,37,58,0,3,49
+128744001,University of Bridgeport,Main Campus,126 Park Avenue,Bridgeport,CT,06604,2,"Private nonprofit, 4-year or above",1820,3022,4842,0,8,8,0,0,3,2,0,10
+128771001,Central Connecticut State University,Main Campus,1615 STANLEY ST,NEW BRITAIN,CT,06050,1,"Public, 4-year or above",5828,6037,11865,0,24,320,0,26,189,0,40,163
+128902001,Connecticut College,Connecticut College,270 MOHEGAN AVE,NEW LONDON,CT,06320,2,"Private nonprofit, 4-year or above",759,1163,1922,3,133,186,2,107,168,1,91,138
+129020001,University of Connecticut,Main Campus,126 North Eagleville Road,STORRS,CT,062693070,1,"Public, 4-year or above",12957,12954,25911,0,100,571,1,177,554,1,125,483
+129215001,Eastern Connecticut State University,Eastern Connecticut State University,83 WINDHAM ST,WILLIMANTIC,CT,06226,1,"Public, 4-year or above",2444,2924,5368,0,62,629,0,43,516,3,70,315
+129242001,Fairfield University,Main Campus,1073 NORTH BENSON RD,FAIRFIELD,CT,068245195,2,"Private nonprofit, 4-year or above",1905,3014,4919,1,38,1153,0,69,1055,0,94,1270
+129525001,University of Hartford,Main Campus,200 BLOOMFIELD AVE,WEST HARTFORD,CT,061171599,2,"Private nonprofit, 4-year or above",3228,3592,6820,2,266,506,1,176,295,1,192,176
+129941001,University of New Haven,University of New Haven,300 Boston Post Rd.,WEST HAVEN,CT,06516,2,"Private nonprofit, 4-year or above",3300,3255,6555,1,69,250,0,45,273,1,22,442
+130226001,Quinnipiac University,Main Campus,275 MOUNT CARMEL AVE,HAMDEN,CT,06518,2,"Private nonprofit, 4-year or above",3275,5528,8803,7,160,684,5,111,634,0,79,663
+130253001,Sacred Heart University,Main Campus,5151 PARK AVE,FAIRFIELD,CT,068251000,2,"Private nonprofit, 4-year or above",2265,4718,6983,1,45,458,0,39,439,1,26,441
+130493001,Southern Connecticut State University,Main Campus,501 CRESCENT STREET,NEW HAVEN,CT,065151355,1,"Public, 4-year or above",3887,6917,10804,0,41,358,0,78,373,0,83,308
+130590001,Trinity College,Main Campus Trinity College,300 SUMMIT ST,HARTFORD,CT,061063100,2,"Private nonprofit, 4-year or above",1217,1173,2390,0,52,176,0,149,275,1,58,243
+130697001,Wesleyan University,Main Campus,229 HIGH ST,MIDDLETOWN,CT,06459,2,"Private nonprofit, 4-year or above",1539,1666,3205,1,154,379,0,281,604,1,240,571
+130776001,Western Connecticut State University,Mid Town Campus,181 WHITE ST,DANBURY,CT,068106860,1,"Public, 4-year or above",2752,3273,6025,1,9,58,0,2,40,1,5,47
+130776002,Western Connecticut State University,West Side Campus,43 Lake Ave. Extension,Danbury,CT,068106860,1,"Public, 4-year or above",2752,3273,6025,1,5,63,1,4,67,0,5,77
+130794001,Yale University,Main Campus,105 Wall Street,NEW HAVEN,CT,06520,2,"Private nonprofit, 4-year or above",6148,5961,12109,0,8,7,0,1,52,0,10,33
+183822001,Bloomfield College,Main Campus,467 FRANKLIN ST,BLOOMFIELD,NJ,070033494,2,"Private nonprofit, 4-year or above",688,1291,1979,0,1,4,1,0,0,0,2,2
+183910001,Caldwell College,Main Campus,120 Bloomfield AVE,CALDWELL,NJ,070066195,2,"Private nonprofit, 4-year or above",602,1558,2160,0,2,65,0,7,47,0,7,28
+183974001,Centenary College,Hackettstown,400 JEFFERSON ST,HACKETTSTOWN,NJ,07840,2,"Private nonprofit, 4-year or above",883,1517,2400,0,2,42,0,0,32,0,1,33
+184348001,Drew University,Main Campus,36 MADISON AVE,MADISON,NJ,07940,2,"Private nonprofit, 4-year or above",942,1349,2291,1,98,258,2,93,323,2,152,291
+184603001,Fairleigh Dickinson University-Metropolitan Campus,Metropolitan,1000 RIVER RD,TEANECK,NJ,07666,2,"Private nonprofit, 4-year or above",3455,5091,8546,0,7,19,0,15,16,0,10,5
+184612001,Felician College,Main Campus,1 Felician Way,Rutherford,NJ,07070,2,"Private nonprofit, 4-year or above",501,1432,1933,1,0,64,0,3,36,1,1,67
+184694001,Fairleigh Dickinson University-College at Florham,Florham,285 MADISON AVE,MADISON,NJ,07940,2,"Private nonprofit, 4-year or above",1302,1727,3029,0,25,142,0,0,187,1,13,63
+184773001,Georgian Court University,Main Campus,900 LAKEWOOD AVE,LAKEWOOD,NJ,087012697,2,"Private nonprofit, 4-year or above",420,1837,2257,0,2,5,0,0,5,0,0,6
+184782001,Rowan University,Main Campus,201 MULLICA HILL RD,GLASSBORO,NJ,08028,1,"Public, 4-year or above",6483,6866,13349,0,51,477,0,29,440,0,31,311
+185129001,New Jersey City University,Main Campus,2039 KENNEDY BLVD,JERSEY CITY,NJ,07305,1,"Public, 4-year or above",3135,5307,8442,1,2,2,0,1,4,1,0,3
+185262001,Kean University,Main Campus,1000 MORRIS AVE,UNION,NJ,070830411,1,"Public, 4-year or above",5349,9055,14404,1,24,86,1,8,174,0,44,88
+185572001,Monmouth University,Monmouth University,400 CEDAR AVE,WEST LONG BRANCH,NJ,077641898,2,"Private nonprofit, 4-year or above",2285,4031,6316,1,10,74,1,11,123,3,20,100
+185590001,Montclair State University,Main Campus,VALLEY RD AND NORMAL AVE,MONTCLAIR,NJ,070431624,1,"Public, 4-year or above",7152,12312,19464,0,1,2,0,2,2,0,3,4
+185828001,New Jersey Institute of Technology,Main Campus,UNIVERSITY HTS,NEWARK,NJ,071021982,1,"Public, 4-year or above",7547,2583,10130,1,19,13,0,5,2,0,9,17
+186131001,Princeton University,Main Campus,1 Nassau Hall,PRINCETON,NJ,085440070,2,"Private nonprofit, 4-year or above",4397,3617,8014,3,56,35,0,45,28,0,27,36
+186201001,Ramapo College of New Jersey,Main Campus,505 RAMAPO VALLEY RD,MAHWAH,NJ,074301680,1,"Public, 4-year or above",2576,3276,5852,2,24,592,6,13,397,8,21,350
+186283001,Rider University,Main Campus,2083 LAWRENCEVILLE ROAD,LAWRENCEVILLE,NJ,086483099,2,"Private nonprofit, 4-year or above",2171,3239,5410,0,13,271,0,9,208,0,6,219
+186283002,Rider University,Westminster Choir College of Rider University,101 Walnut Lane,Princeton,NJ,08540,2,"Private nonprofit, 4-year or above",2171,3239,5410,0,2,17,0,0,4,0,0,9
+186371001,Rutgers University-Camden,Rutgers University-Camden Division,303 Cooper Street,CAMDEN,NJ,08102,1,"Public, 4-year or above",2995,3269,6264,0,15,43,2,36,52,6,46,63
+186380001,Rutgers University-New Brunswick,Main Campus,83 SOMERSET ST,NEW BRUNSWICK,NJ,089011281,1,"Public, 4-year or above",22267,25769,48036,0,105,792,0,0,632,0,0,694
+186399001,Rutgers University-Newark,Rutgers University - Newark,123 Washington Street,NEWARK,NJ,07102,1,"Public, 4-year or above",5842,5370,11212,0,13,58,0,36,83,0,27,62
+186432001,Saint Peter's University,Main Campus,2641 KENNEDY BLVD,JERSEY CITY,NJ,073065997,2,"Private nonprofit, 4-year or above",1214,1980,3194,0,16,31,2,26,25,0,21,45
+186584001,Seton Hall University,Main Campus,400 S ORANGE AVE,SOUTH ORANGE,NJ,070792697,2,"Private nonprofit, 4-year or above",4061,5842,9903,0,22,199,0,34,213,1,50,212
+186618001,College of Saint Elizabeth,College of Saint Elizabeth,2 Convent Road,Morristown,NJ,079606989,2,"Private nonprofit, 4-year or above",178,1374,1552,0,0,2,0,0,18,0,2,25
+186867001,Stevens Institute of Technology,Main Campus,1 CASTLE POINT ON HUDSON,HOBOKEN,NJ,070305991,2,"Private nonprofit, 4-year or above",4261,1523,5784,0,4,33,0,14,37,0,18,44
+186876001,The Richard Stockton College of New Jersey,Main Campus,101 Vera King Farris Drive,Galloway,NJ,082059441,1,"Public, 4-year or above",3279,5179,8458,1,34,154,1,35,222,2,34,397
+187134001,The College of New Jersey,Main Campus,2000 Pennington Road,Ewing,NJ,086280718,1,"Public, 4-year or above",2958,4382,7340,0,23,317,3,14,367,0,6,352
+187444001,William Paterson University of New Jersey,Main Campus,300 POMPTON RD,WAYNE,NJ,074702103,1,"Public, 4-year or above",4904,6510,11414,0,159,548,0,120,452,1,156,327
+188340001,Vaughn College of Aeronautics and Technology,Main Campus,86-01 23RD AVE,Flushing,NY,11369,2,"Private nonprofit, 4-year or above",1524,217,1741,0,6,11,0,8,15,0,15,12
+188429001,Adelphi University,Main Campus,ONE SOUTH AVE,GARDEN CITY,NY,11530,2,"Private nonprofit, 4-year or above",2068,5577,7645,0,18,144,0,15,83,0,9,59
+188526001,Albany College of Pharmacy and Health Sciences,Albany College of Pharmacy and Health Sciences,106 NEW SCOTLAND AVE,ALBANY,NY,122083492,2,"Private nonprofit, 4-year or above",658,981,1639,0,30,45,0,11,52,0,8,91
+188641001,Alfred University,Main Campus,ONE SAXON DR,ALFRED,NY,148021205,2,"Private nonprofit, 4-year or above",1120,1311,2431,0,98,144,0,92,99,0,60,76
+189088001,Bard College,Main Campus,30 Campus Road,Red Hook,NY,12571,2,"Private nonprofit, 4-year or above",1028,1327,2355,0,57,116,0,76,109,0,93,158
+189097001,Barnard College,Main Campus,3009 BROADWAY,NEW YORK,NY,100276598,2,"Private nonprofit, 4-year or above",0,2489,2489,0,12,104,0,13,136,0,10,71
+189705001,Canisius College,Main Campus,2001 MAIN ST,BUFFALO,NY,142081098,2,"Private nonprofit, 4-year or above",2078,2459,4537,0,40,149,0,23,237,0,27,190
+189848001,Cazenovia College,Main Campus,22 Sullivan St,CAZENOVIA,NY,13035,2,"Private nonprofit, 4-year or above",297,780,1077,0,2,139,2,12,132,0,9,257
+190044001,Clarkson University,Main Campus,10 Clarkson Ave.,POTSDAM,NY,136995557,2,"Private nonprofit, 4-year or above",2616,1110,3726,3,33,127,13,61,146,8,92,129
+190099001,Colgate University,Main Campus,13 OAK DR,HAMILTON,NY,133461398,2,"Private nonprofit, 4-year or above",1297,1603,2900,1,123,151,2,111,243,4,134,227
+190150001,Columbia University in the City of New York,Morningside Campus,116 ST AND BROADWAY,NEW YORK,NY,10027,2,"Private nonprofit, 4-year or above",13303,13654,26957,0,134,169,2,147,136,3,176,100
+190415001,Cornell University,Main Campus,G-2 Barton Hall Cornell University,ITHACA,NY,148531701,2,"Private nonprofit, 4-year or above",11074,10519,21593,0,31,240,1,46,251,5,122,389
+190503001,Culinary Institute of America,The Culinary Institute of America - Main Campus,1946 Campus Drive,Hyde Park,NY,12538,2,"Private nonprofit, 4-year or above",1497,1317,2814,0,32,164,0,53,105,0,32,70
+190558001,College of Staten Island CUNY,Main Campus,2800 VICTORY BLVD,STATEN ISLAND,NY,10314,1,"Public, 4-year or above",6234,8207,14441,0,0,0,1,0,6,1,4,2
+190567001,CUNY City College,The City College of New York,160 CONVENT AVE,NEW YORK,NY,10031,1,"Public, 4-year or above",7221,8110,15331,0,13,15,0,10,9,0,2,27
+190594001,CUNY Hunter College,Main Campus,695 Park Avenue,New York,NY,10065,1,"Public, 4-year or above",7396,15623,23019,0,0,0,0,0,1,0,1,2
+190664001,CUNY Queens College,Queens College,65 30 Kissena Blvd,Flushing,NY,113670904,1,"Public, 4-year or above",7720,11254,18974,0,8,27,0,12,67,1,9,9
+190716001,D'Youville College,Main Campus,320 PORTER AVE,BUFFALO,NY,142011084,2,"Private nonprofit, 4-year or above",961,2189,3150,0,0,14,0,0,11,0,1,27
+190725001,Daemen College,Main Campus,4380 Main Street,AMHERST,NY,142263592,2,"Private nonprofit, 4-year or above",746,2125,2871,0,6,46,0,8,33,0,2,66
+190761001,Dominican College of Blauvelt,Main Campus,470 Western Highway,Orangeburg,NY,109621210,2,"Private nonprofit, 4-year or above",689,1309,1998,0,50,161,0,17,119,0,28,72
+190770001,Dowling College,Dowling College,150 Idle Hour Blvd.,Oakdale,NY,117691999,2,"Private nonprofit, 4-year or above",1398,1800,3198,0,3,21,0,0,36,0,0,21
+190770002,Dowling College,Dowling College / Brookhaven Campus,1300 William Floyd Parkway,Shirley,NY,119671822,2,"Private nonprofit, 4-year or above",1398,1800,3198,0,4,8,0,1,13,0,0,5
+190983001,Elmira College,Main Campus,One Park Place,Elmira,NY,14901,2,"Private nonprofit, 4-year or above",432,1110,1542,0,6,29,0,8,14,0,10,30
+191126001,Fashion Institute of Technology,FASHION INSTITUTE OF TECHNOLOGY,7th Avenue  at  27th Street,NEW YORK,NY,100015992,1,"Public, 4-year or above",1503,8252,9755,0,0,10,0,6,3,0,1,12
+191241001,Fordham University,Main Campus,441 E FORDHAM RD,BRONX,NY,10458,2,"Private nonprofit, 4-year or above",6412,8685,15097,4,143,592,1,57,539,3,67,546
+191241002,Fordham University,FORDHAM UNI-LINCOLN CENTER CAMPUS,113 W 60 ST,NEW YORK,NY,10023,2,"Private nonprofit, 4-year or above",6412,8685,15097,1,12,83,0,41,81,1,19,127
+191515001,Hamilton College,Main Campus,198 COLLEGE HILL RD,CLINTON,NY,13323,2,"Private nonprofit, 4-year or above",938,988,1926,1,31,144,1,74,159,0,74,101
+191533001,Hartwick College,Main Campus,One Hartwick Drive,ONEONTA,NY,138204020,2,"Private nonprofit, 4-year or above",656,962,1618,0,25,96,1,20,89,0,26,72
+191621001,Hilbert College,Main Campus,5200 S PARK AVE,HAMBURG,NY,140751597,2,"Private nonprofit, 4-year or above",479,591,1070,2,7,77,0,8,48,0,8,50
+191630001,Hobart William Smith Colleges,Main Campus,300 Pulteney Street,GENEVA,NY,14456,2,"Private nonprofit, 4-year or above",1089,1283,2372,0,96,263,1,63,314,0,140,325
+191649001,Hofstra University,Main Campus,1000 Hempstead Turnpike,HEMPSTEAD,NY,115491170,2,"Private nonprofit, 4-year or above",4843,6085,10928,1,200,63,0,106,51,1,121,49
+191676001,Houghton College,Main Campus,1 WILLARD AVE,HOUGHTON,NY,14744,2,"Private nonprofit, 4-year or above",397,703,1100,0,3,11,0,0,8,0,2,9
+191931001,Iona College,Main Campus,715 NORTH AVE,NEW ROCHELLE,NY,108011890,2,"Private nonprofit, 4-year or above",1897,2344,4241,0,87,391,0,132,418,0,141,482
+191968001,Ithaca College,Main Campus,953 DANBY RD,ITHACA,NY,148507000,2,"Private nonprofit, 4-year or above",2865,3858,6723,8,288,658,9,269,426,8,181,440
+192192001,Keuka College,Main Campus,Central Avenue,Keuka Park,NY,14478,2,"Private nonprofit, 4-year or above",470,1566,2036,4,18,157,3,14,132,2,21,166
+192323001,Le Moyne College,Main Campus,1419 SALT SPRINGS RD,SYRACUSE,NY,132141399,2,"Private nonprofit, 4-year or above",1327,1992,3319,2,27,100,1,22,179,2,19,186
+192439001,LIU Brooklyn,Main Campus,UNIVERSITY PLAZA,BROOKLYN,NY,112015372,2,"Private nonprofit, 4-year or above",2499,5984,8483,0,0,0,0,54,24,0,11,1
+192448001,LIU Post,LIU Post,720 NORTHERN BLVD,BROOKVILLE,NY,115481300,2,"Private nonprofit, 4-year or above",4089,6510,10599,0,46,245,0,100,234,0,54,153
+192703001,Manhattan College,Main Campus,MANHATTAN COLLEGE PKY,BRONX,NY,104714098,2,"Private nonprofit, 4-year or above",2110,1773,3883,1,79,144,0,43,185,1,106,208
+192749001,Manhattanville College,Main Campus,2900 PURCHASE ST,PURCHASE,NY,10577,2,"Private nonprofit, 4-year or above",945,1805,2750,0,41,252,0,50,187,3,66,305
+192819001,Marist College,Main Campus,3399 NORTH RD,POUGHKEEPSIE,NY,12601,2,"Private nonprofit, 4-year or above",2663,3702,6365,2,37,274,1,56,368,1,56,494
+192925001,Medaille College,Main Campus,18 AGASSIZ CIR,BUFFALO,NY,142142695,2,"Private nonprofit, 4-year or above",730,1660,2390,1,13,36,0,1,19,0,8,8
+193016001,Mercy College,Mercy College - Dobbs Ferry Campus,555 Broadway,Dobbs Ferry,NY,10522,2,"Private nonprofit, 4-year or above",3182,8466,11648,1,6,1,0,0,0,0,9,63
+193292001,Molloy College,Main Campus,1000 HEMPSTEAD AVE,ROCKVILLE CENTRE,NY,115715002,2,"Private nonprofit, 4-year or above",1108,3347,4455,0,0,2,0,0,8,0,0,15
+193353001,Mount Saint Mary College,Main Campus,330 POWELL AVE,NEWBURGH,NY,12550,2,"Private nonprofit, 4-year or above",754,1802,2556,0,48,192,0,30,244,0,35,182
+193399001,College of Mount Saint Vincent,College of Mount Saint Vincent,6301 RIVERDALE AVE,BRONX,NY,104711093,2,"Private nonprofit, 4-year or above",520,1418,1938,0,16,101,0,52,129,2,60,170
+193584001,Nazareth College,Main Campus,4245 EAST AVE,ROCHESTER,NY,146183790,2,"Private nonprofit, 4-year or above",716,2107,2823,0,21,96,0,46,98,0,25,58
+193645001,The College of New Rochelle,Main Campus,29 CASTLE PL,NEW ROCHELLE,NY,108052339,2,"Private nonprofit, 4-year or above",419,3547,3966,0,0,0,0,1,1,0,1,2
+193654001,The New School,Main Campus,66 W 12 ST,NEW YORK,NY,10011,2,"Private nonprofit, 4-year or above",3172,7129,10301,0,37,153,0,34,156,0,36,142
+193900001,New York University,NYU Main Campus,70 WASHINGTON SQ SOUTH,NEW YORK,NY,10012,2,"Private nonprofit, 4-year or above",18619,25980,44599,0,193,241,1,125,457,0,107,203
+193973001,Niagara University,Main Campus,5795 Lewiston Road,NIAGARA UNIVERSITY,NY,14109,2,"Private nonprofit, 4-year or above",1588,2468,4056,2,24,256,0,44,289,1,60,105
+194091001,New York Institute of Technology,Main Campus,NORTHERN BLVD,OLD WESTBURY,NY,115688000,2,"Private nonprofit, 4-year or above",4320,3225,7545,0,0,0,0,4,18,0,5,8
+194310001,Pace University-New York,Pace University,1 PACE PLAZA,NEW YORK,NY,100381598,2,"Private nonprofit, 4-year or above",4986,7638,12624,0,62,156,0,91,202,0,120,302
+194310003,Pace University-New York,Pleasantville/Briarcliff,861 Bedford Rd,Pleasantville,NY,10570,2,"Private nonprofit, 4-year or above",4986,7638,12624,0,40,175,0,40,253,0,41,164
+194541001,Polytechnic Institute of New York University,Main Campus,SIX METROTECH CTR,BROOKLYN,NY,112013840,2,"Private nonprofit, 4-year or above",3603,1287,4890,0,15,39,0,6,39,0,15,53
+194578001,Pratt Institute-Main,Pratt Institute,200 WILLOUGHBY AVE,BROOKLYN,NY,11205,2,"Private nonprofit, 4-year or above",1522,3271,4793,0,90,202,0,89,95,0,156,178
+194824001,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,110 8TH ST,TROY,NY,121803590,2,"Private nonprofit, 4-year or above",4728,1986,6714,0,17,127,0,13,69,1,10,50
+194958001,Roberts Wesleyan College,Roberts Wesleyan College,2301 WESTSIDE DR,ROCHESTER,NY,14624,2,"Private nonprofit, 4-year or above",485,1250,1735,0,0,14,0,3,7,0,2,8
+195003001,Rochester Institute of Technology,Main Campus,1 LOMB MEMORIAL DR,ROCHESTER,NY,146235603,2,"Private nonprofit, 4-year or above",11235,5348,16583,0,59,107,1,125,100,0,84,61
+195030001,University of Rochester,Main Campus,500 Wilson Boulevard,Rochester,NY,146270011,2,"Private nonprofit, 4-year or above",5342,5678,11020,0,133,369,0,148,422,1,118,353
+195128001,The Sage Colleges,Russell Sage College for Women,65 First St.,TROY,NY,12180,2,"Private nonprofit, 4-year or above",549,2283,2832,0,2,10,0,8,12,0,2,7
+195128002,The Sage Colleges,Sage College of Albany,140 New Scotland Ave.,Albany,NY,12208,2,"Private nonprofit, 4-year or above",549,2283,2832,0,11,35,0,13,33,2,18,28
+195164001,St Bonaventure University,Main Campus,3261 West State Road,ST BONAVENTURE,NY,14778,2,"Private nonprofit, 4-year or above",1057,1187,2244,0,46,437,0,32,423,0,6,321
+195216001,St Lawrence University,St. Lawrence University,23 Romoda Drive,CANTON,NY,13617,2,"Private nonprofit, 4-year or above",1114,1392,2506,6,118,148,10,151,215,3,137,141
+195234001,The College of Saint Rose,Main Campus,432 WESTERN AVE,ALBANY,NY,122031490,2,"Private nonprofit, 4-year or above",1420,3122,4542,0,17,187,0,10,115,0,13,124
+195243001,St Thomas Aquinas College,Main Campus,125 RTE 340,SPARKILL,NY,109761050,2,"Private nonprofit, 4-year or above",898,1074,1972,0,56,116,0,28,164,1,18,79
+195304001,Sarah Lawrence College,Sarah Lawrence College,ONE MEADWAY,BRONXVILLE,NY,107085940,2,"Private nonprofit, 4-year or above",462,1320,1782,2,40,70,0,36,35,0,24,58
+195474001,Siena College,Main Campus,515 LOUDON RD,LOUDONVILLE,NY,122111462,2,"Private nonprofit, 4-year or above",1518,1689,3207,5,80,642,3,112,789,7,104,730
+195526001,Skidmore College,Skidmore College,815 N BROADWAY,SARATOGA SPRINGS,NY,12866,2,"Private nonprofit, 4-year or above",1057,1645,2702,0,79,157,0,72,114,0,94,128
+195720001,Saint John Fisher College,Main Campus,3690 EAST AVE,ROCHESTER,NY,14618,2,"Private nonprofit, 4-year or above",1541,2446,3987,0,28,94,0,25,164,2,16,171
+195809001,St John's University-New York,Main Campus,8000 UTOPIA PKY,JAMAICA,NY,11439,2,"Private nonprofit, 4-year or above",9055,11674,20729,0,212,450,4,255,320,3,127,160
+195809004,St John's University-New York,St. John's University-Manhatten,101 Murray Street,Manhattan,NY,10007,2,"Private nonprofit, 4-year or above",9055,11674,20729,0,3,5,0,1,13,0,5,9
+196006001,SUNY College of Technology at Alfred,Alfred State College - Alfred Campus,10 Campus Drive,ALFRED,NY,14802,1,"Public, 4-year or above",2137,1418,3555,2,51,196,2,17,222,1,113,157
+196015001,SUNY College of Technology at Canton,Main Campus,CORNELL DR,CANTON,NY,13617,1,"Public, 4-year or above",1561,1951,3512,0,30,118,1,20,86,1,23,53
+196024001,SUNY College of Technology at Delhi,Main Campus,2 Main Street,DELHI,NY,13753,1,"Public, 4-year or above",1562,1746,3308,0,105,158,4,113,163,5,198,145
+196033001,SUNY College of Agriculture and Technology at Cobleskill,Main Campus,State Rt 7,COBLESKILL,NY,12043,1,"Public, 4-year or above",1174,1279,2453,0,36,79,2,55,100,2,57,99
+196042001,Farmingdale State College,Main Campus,2350 Broadhollow Road,FARMINGDALE,NY,117351021,1,"Public, 4-year or above",4696,3466,8162,0,17,15,0,25,20,0,50,12
+196051001,Morrisville State College,Morrisville State College,State Route 20,MORRISVILLE,NY,134080901,1,"Public, 4-year or above",1587,1441,3028,0,34,75,1,54,164,0,63,150
+196060001,SUNY at Albany,Main Campus,1400 WASHINGTON AVE,ALBANY,NY,12222,1,"Public, 4-year or above",8400,8938,17338,6,60,127,5,171,287,14,158,234
+196079001,SUNY at Binghamton,Main Campus,"P. O. Box 6000, VESTAL PARKWAY EAST",BINGHAMTON,NY,139026000,1,"Public, 4-year or above",8474,7603,16077,1,109,168,0,116,170,4,176,253
+196088001,University at Buffalo,Main Campus,CAPEN HALL,BUFFALO,NY,142604900,1,"Public, 4-year or above",15804,14046,29850,2,441,886,2,332,616,5,287,481
+196097001,Stony Brook University,Stony Brook University,100 Nicolls Road,STONY BROOK,NY,11794,1,"Public, 4-year or above",12210,11933,24143,8,192,205,1,149,285,8,162,178
+196103001,SUNY College of Environmental Science and Forestry,SUNY College of Environmental Science and Forestry,ONE FORESTRY DR,SYRACUSE,NY,13210,1,"Public, 4-year or above",1225,1004,2229,0,14,30,0,26,79,0,24,65
+196112001,SUNY Institute of Technology at Utica-Rome,Main Campus,100 Seymour Raod,UTICA,NY,13502,1,"Public, 4-year or above",1346,1134,2480,0,6,49,0,16,23,0,4,10
+196121001,SUNY College at Brockport,Main Campus,350 NEW CAMPUS DR,BROCKPORT,NY,14420,1,"Public, 4-year or above",3542,4586,8128,5,95,436,4,107,366,3,76,412
+196130001,Buffalo State SUNY,Buffalo State College,1300 ELMWOOD AVE,BUFFALO,NY,142221095,1,"Public, 4-year or above",4578,6513,11091,8,169,56,1,234,205,0,151,187
+196149001,SUNY College at Cortland,Main Campus,PO BOX 2000,CORTLAND,NY,13045,1,"Public, 4-year or above",3070,4040,7110,0,70,363,0,53,292,0,34,280
+196158001,SUNY at Fredonia,Main Campus,CENTRAL AVE,FREDONIA,NY,14063,1,"Public, 4-year or above",2348,3043,5391,0,115,442,1,93,325,0,32,163
+196167001,SUNY College at Geneseo,SUNY at Geneseo,1 College Circle,Geneseo,NY,144541477,1,"Public, 4-year or above",2357,3287,5644,0,20,138,0,0,151,0,9,31
+196176001,State University of New York at New Paltz,"State University of New York, College at New Paltz",1 Hawk Drive,NEW PALTZ,NY,12561,1,"Public, 4-year or above",2753,4825,7578,4,43,43,2,79,39,5,32,29
+196185001,SUNY Oneonta,Main Campus,RAVINE PKY,ONEONTA,NY,13820,1,"Public, 4-year or above",2356,3678,6034,0,63,255,0,39,229,0,28,174
+196194001,SUNY College at Oswego,Main Campus,Route 104 West,OSWEGO,NY,13126,1,"Public, 4-year or above",3873,4244,8117,1,45,198,2,47,242,0,44,177
+196200001,SUNY College at Potsdam,Main Campus,Pierrepont Avenue,Potsdam,NY,136762294,1,"Public, 4-year or above",1661,2381,4042,0,47,164,4,50,113,1,32,84
+196219001,SUNY at Purchase College,Main Campus,735 ANDERSON HILL RD,PURCHASE,NY,10577,1,"Public, 4-year or above",1937,2416,4353,0,90,21,0,122,147,0,186,123
+196237001,SUNY College at Old Westbury,SUNY College at Old Westbury,223 STORE HILL RD  PO Box 210,OLD WESTBURY,NY,115680210,1,"Public, 4-year or above",1850,2517,4367,0,58,80,1,40,80,3,29,34
+196246001,SUNY College at Plattsburgh,Main Campus,101 Broad Street,PLATTSBURGH,NY,12901,1,"Public, 4-year or above",2577,3474,6051,1,27,27,0,28,26,0,20,17
+196291001,SUNY Maritime College,SUNY Maritime College,6 PENNYFIELD AVE,BRONX,NY,10465,1,"Public, 4-year or above",1548,207,1755,0,3,30,0,1,9,3,6,18
+196413001,Syracuse University,Main Campus,900 S. Crouse Ave.,SYRACUSE,NY,13244,2,"Private nonprofit, 4-year or above",9789,11478,21267,1,181,1057,1,155,1020,3,263,1258
+196866001,Union College,Main Campus,807 UNION ST,SCHENECTADY,NY,123082311,2,"Private nonprofit, 4-year or above",1210,1036,2246,0,121,547,0,144,503,2,115,550
+197045001,Utica College,Main Campus,1600 BURRSTONE RD,UTICA,NY,135024892,2,"Private nonprofit, 4-year or above",1595,2433,4028,2,55,106,2,80,104,4,94,96
+197133001,Vassar College,Main Campus,124 RAYMOND AVE,POUGHKEEPSIE,NY,12604,2,"Private nonprofit, 4-year or above",1099,1378,2477,0,123,358,0,77,224,0,61,167
+197197001,Wagner College,Main Campus,ONE CAMPUS RD,STATEN ISLAND,NY,103014495,2,"Private nonprofit, 4-year or above",768,1477,2245,0,27,112,0,19,83,0,33,66

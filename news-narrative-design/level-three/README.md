@@ -20,7 +20,7 @@ shiffles@newschool.edu
 ### When will we meet?
 
 * Oct 10.
-* Oct 14.
+* Oct 24.
 * Nov 21.
 
 ### Where will we meet?

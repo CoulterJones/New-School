@@ -90,7 +90,9 @@ Three approaches: hard news, anecdotal and conversational. All have the basics (
 * [Anecdotal + nut graph](http://www.pulitzer.org/winners/wall-street-journal-staff)
 
 > Ronald S. Weaver isn't a cardiologist. Yet 98% of the $2.3 million that the Los Angeles doctor's practice received from Medicare in 2012 was for a cardiac procedure, according to recently released government data.
+
 > The procedure is rarely used by the nation's heart doctors. Patients are strapped to a bed with three large cuffs that inflate and deflate rhythmically to increase blood flow through the arteries—a last resort to treat severe chest pain in people who can't have surgery.
+
 > The government data show that out of the thousands of cardiology providers who treated Medicare patients in 2012, just 239 billed for the procedure, and they used it on fewer than 5% of their patients on average. The 141 cardiologists at the Cleveland Clinic, renowned for heart care, performed it on just six patients last year. Dr. Weaver's clinic administered it to 99.5% of his Medicare patients—615 in all—billing the federal health-insurance program for the elderly and disabled 16,619 times, according to the data.
 
 * [Conversational](http://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html?action=click&contentCollection=upshot&region=rank&module=package&version=highlights&contentPlacement=1&pgtype=sectionfront)

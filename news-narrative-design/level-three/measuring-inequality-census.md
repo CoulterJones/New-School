@@ -97,11 +97,11 @@ Three approaches: hard news, anecdotal and conversational. All have the basics (
 
 > For years, the standard knock on this economic expansion has been twofold: Growth has been slow, and big businesses and wealthy investors have been its major beneficiaries, rather than middle-class wage earners.
 
-And it has been a fair criticism. At least until recently.
+> And it has been a fair criticism. At least until recently.
 
-The growth rate is still disappointingly slow, but that second part no longer appears to be true. After all these years, the fruits of the recovery are now being delivered more broadly. While all the attention is focused on new census data confirming the change, it is actually a broad range of evidence that makes the case compelling.
+> The growth rate is still disappointingly slow, but that second part no longer appears to be true. After all these years, the fruits of the recovery are now being delivered more broadly. While all the attention is focused on new census data confirming the change, it is actually a broad range of evidence that makes the case compelling.
 
-The most decisive evidence of improving fortunes is found in new census data released Tuesday showing that median household income rose a whopping 5.2 percent in 2015, to around $56,500. According to that data, incomes rose for black families, white families, Hispanic families and Asian-American families. It rose for young people and in households headed by middle-aged adults and older people. In short, the improvement was across the board to a remarkable degree.
+> The most decisive evidence of improving fortunes is found in new census data released Tuesday showing that median household income rose a whopping 5.2 percent in 2015, to around $56,500. According to that data, incomes rose for black families, white families, Hispanic families and Asian-American families. It rose for young people and in households headed by middle-aged adults and older people. In short, the improvement was across the board to a remarkable degree.
 
 
 # Homework

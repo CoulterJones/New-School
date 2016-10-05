@@ -82,7 +82,7 @@ Using the [Consumer Price Index](http://www.usinflationcalculator.com/inflation/
 
 # Homework
 
-Read the Census report discussed and sift through data on sites like [DataUSA](https://datausa.io/profile/geo/new-york-ny). Identify a datapoint describing inequality write a paragraph about it. Ideally this is your lede paragraph of a story you would pitch.
+Read the Census report discussed and sift through data on sites like [DataUSA](https://datausa.io/profile/geo/new-york-ny). Identify a datapoint describing inequality and write a paragraph about it. Ideally this is your lede paragraph of a story you would pitch.
 
 Sift through earnings data and write a paragraph that functions as your lede for a story 
 

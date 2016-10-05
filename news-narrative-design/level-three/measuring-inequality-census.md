@@ -96,14 +96,17 @@ Three approaches: hard news, anecdotal and conversational. All have the basics (
 * [Conversational](http://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html?action=click&contentCollection=upshot&region=rank&module=package&version=highlights&contentPlacement=1&pgtype=sectionfront)
 
 > For years, the standard knock on this economic expansion has been twofold: Growth has been slow, and big businesses and wealthy investors have been its major beneficiaries, rather than middle-class wage earners.
-> And it has been a fair criticism. At least until recently.
-> The growth rate is still disappointingly slow, but that second part no longer appears to be true. After all these years, the fruits of the recovery are now being delivered more broadly. While all the attention is focused on new census data confirming the change, it is actually a broad range of evidence that makes the case compelling.
+
+And it has been a fair criticism. At least until recently.
+
+The growth rate is still disappointingly slow, but that second part no longer appears to be true. After all these years, the fruits of the recovery are now being delivered more broadly. While all the attention is focused on new census data confirming the change, it is actually a broad range of evidence that makes the case compelling.
+
 The most decisive evidence of improving fortunes is found in new census data released Tuesday showing that median household income rose a whopping 5.2 percent in 2015, to around $56,500. According to that data, incomes rose for black families, white families, Hispanic families and Asian-American families. It rose for young people and in households headed by middle-aged adults and older people. In short, the improvement was across the board to a remarkable degree.
 
 
 # Homework
 
-Using the data analysis we conducted in class, the Census report or any other new inequality-related data set like [DataUSA](https://datausa.io/profile/geo/new-york-ny), identify a datapoint and write a paragraph about it. Ideally this is your lede paragraph of a story you would pitch.
+Using the data analysis we conducted in class, the Census report or any other new inequality-related data set like [DataUSA](https://datausa.io/profile/geo/new-york-ny), identify a datapoint and write a paragraph about it. Ideally this is your lede paragraph of a story you would pitch. Email it to Allison and myself.
  
 ## Notes
 

@@ -79,13 +79,31 @@ Using the [Consumer Price Index](http://www.usinflationcalculator.com/inflation/
 * Calculate the 2009-2015 percent change in household income
 * Discuss: What do our findings indicate?
 
+# Writing a Lede
+
+Three approaches: hard news, anecdotal and conversational. All have the basics (Who, what, why, when (and where if applicable)) but approach them at a different pace.
+
+* [Hard news](http://www.wsj.com/articles/rising-incomes-juice-consumer-spending-1473798203)
+
+> The Census Bureau on Tuesday reported that the income at the median U.S. household—the one at the statistical middle of the middle—rose an inflation-adjusted 5.2% to $56,500 last year from 2014. While still 1.6% below the precrisis level, that marked the biggest annual gain on record. Income inequality eased, with income growing faster for middle class than the rich, and lower-income households improving even more.
+
+* [Anecdotal + nut graph](http://www.pulitzer.org/winners/wall-street-journal-staff)
+
+> Ronald S. Weaver isn't a cardiologist. Yet 98% of the $2.3 million that the Los Angeles doctor's practice received from Medicare in 2012 was for a cardiac procedure, according to recently released government data.
+> The procedure is rarely used by the nation's heart doctors. Patients are strapped to a bed with three large cuffs that inflate and deflate rhythmically to increase blood flow through the arteries—a last resort to treat severe chest pain in people who can't have surgery.
+> The government data show that out of the thousands of cardiology providers who treated Medicare patients in 2012, just 239 billed for the procedure, and they used it on fewer than 5% of their patients on average. The 141 cardiologists at the Cleveland Clinic, renowned for heart care, performed it on just six patients last year. Dr. Weaver's clinic administered it to 99.5% of his Medicare patients—615 in all—billing the federal health-insurance program for the elderly and disabled 16,619 times, according to the data.
+
+* [Conversational](http://www.nytimes.com/interactive/2016/09/20/upshot/the-error-the-polling-world-rarely-talks-about.html?action=click&contentCollection=upshot&region=rank&module=package&version=highlights&contentPlacement=1&pgtype=sectionfront)
+
+> For years, the standard knock on this economic expansion has been twofold: Growth has been slow, and big businesses and wealthy investors have been its major beneficiaries, rather than middle-class wage earners.
+> And it has been a fair criticism. At least until recently.
+> The growth rate is still disappointingly slow, but that second part no longer appears to be true. After all these years, the fruits of the recovery are now being delivered more broadly. While all the attention is focused on new census data confirming the change, it is actually a broad range of evidence that makes the case compelling.
+The most decisive evidence of improving fortunes is found in new census data released Tuesday showing that median household income rose a whopping 5.2 percent in 2015, to around $56,500. According to that data, incomes rose for black families, white families, Hispanic families and Asian-American families. It rose for young people and in households headed by middle-aged adults and older people. In short, the improvement was across the board to a remarkable degree.
+
 
 # Homework
 
-Read the Census report discussed and sift through data on sites like [DataUSA](https://datausa.io/profile/geo/new-york-ny). Identify a datapoint describing inequality and write a paragraph about it. Ideally this is your lede paragraph of a story you would pitch.
-
-Sift through earnings data and write a paragraph that functions as your lede for a story 
-
+Using the data analysis we conducted in class, the Census report or any other new inequality-related data set like [DataUSA](https://datausa.io/profile/geo/new-york-ny), identify a datapoint and write a paragraph about it. Ideally this is your lede paragraph of a story you would pitch.
  
 ## Notes
 

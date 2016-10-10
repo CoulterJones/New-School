@@ -1,5 +1,7 @@
 # NND3 Overview
 
+## [http://bit.ly/nnd3-fall-2016](http://bit.ly/nnd3-fall-2016)
+
 ### Who am I?
 
 Shane Shifflett, Data Reporter for The Wall Street Journal
@@ -19,7 +21,7 @@ shiffles@newschool.edu
 
 ### When will we meet?
 
-* Oct 10.
+* [Oct 10.](https://github.com/CoulterJones/New-School/blob/master/news-narrative-design/level-three/measuring-inequality-census.md)
 * Oct 24.
 * Nov 21.
 

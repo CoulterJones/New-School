@@ -21,7 +21,7 @@ shiffles@newschool.edu
 
 ### When will we meet?
 
-* [Oct 10.](https://github.com/CoulterJones/New-School/blob/master/news-narrative-design/level-three/measuring-inequality-census.md)
+* [Oct 17.](https://github.com/CoulterJones/New-School/blob/master/news-narrative-design/level-three/measuring-inequality-census.md)
 * Oct 24.
 * Nov 21.
 

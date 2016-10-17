@@ -108,7 +108,7 @@ Three approaches: hard news, anecdotal and conversational. All have the basics (
 
 # Homework
 
-Using the data analysis we conducted in class, the Census report or any other new inequality-related data set like [DataUSA](https://datausa.io/profile/geo/new-york-ny), identify a datapoint and write a paragraph about it. Ideally this is your lede paragraph of a story you would pitch. Email it to Allison and myself.
+Using the data analysis we conducted in class, the Census report or any other new inequality-related data set like [DataUSA](https://datausa.io/profile/geo/new-york-ny), identify a datapoint and write a paragraph about it. Ideally this is your lede paragraph of a story you would write. Email it to Allison and myself.
 
 __due__: October 23
  

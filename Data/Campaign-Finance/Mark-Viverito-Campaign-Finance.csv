@@ -1,0 +1,882 @@
+REFNO,DATE,REFUNDDATE,NAME,C_CODE,BOROUGHCD,CITY,STATE,ZIP,OCCUPATION,EMPNAME,EMPSTRNO,EMPSTRNAME,EMPCITY,EMPSTATE,AMNT,MATCHAMNT,PREVAMNT
+R0003390,1/4/2014,,"Abdelghany, Abdelwahab",IND,X,Bronx,NY,10462,Teacher,Bronx Lighthouse Charter,1005,Intervale Ave,Bronx,NY,50,0,0
+R0004485,8/14/2015,,"Abdelhaleem, Khaled",IND,Q,Astoria,NY,11105,Owner,The Halal Guys,30-91,Steinway Street,Astoria,NY,1000,175,0
+R0003394,1/4/2014,,"Abdulla, Abdulrahman",IND,X,Bronx,NY,10467,Student,Lehman College - CUNY,250,Bedford Park Blvd W,Bronx,NY,50,0,0
+R0004094,4/20/2015,,"Abreu, Braulio E",IND,X,Bronx,NY,10462,Bookkeeper,"Kiss Car Service, Inc.",2774,Webster Avenue,Bronx,NY,500,175,0
+R0004749,1/11/2016,,"Acosta, Luis G",IND,K,Brooklyn,NY,11249,President,El Puente,211,South 4th Street,Brooklyn,NY,150,0,0
+R0003867,4/2/2015,,"Acosta, Thomas I",IND,M,New York,NY,10025,Consultant,Self Employed,220,W 98th St,New York,NY,50,50,0
+R0003824,4/1/2015,,"Acosta, Vasthi R",IND,M,New York,NY,10034,Educator,Amber Charter School,220,E 106th Street,New York,NY,50,50,0
+R0004817,2/5/2016,,"Aden, Kent",IND,Z,Coronado,CA,92118,Community Developer,Home Fed Corporation,1903,Wright Place,Carlsbad,CA,250,0,0
+R0005160,4/15/2016,,"Aguais, Jesus",IND,M,New York,NY,10013,Executive Director,AID FOR AIDS,515,Greenwich Street,New York,NY,50,50,0
+R0005086,4/18/2016,,"Aguirre, Nelson",IND,Q,Jackson Heights,NY,11372,Photographer,Self Employed,35-63,89th Street,Jackson Heights,NY,50,50,0
+R0004462,8/5/2015,,"Ahmad, Motiur R",IND,K,Brooklyn,NY,11219,,Self Employed,4109,15th Avenue,Brooklyn,NY,100,0,0
+R0003355,1/5/2014,,"Ahmed, Saleh",IND,Q,Fresh Meadows,NY,11366,Senior Manager,WELLCARE,110,5th Avenue,New York,NY,100,0,0
+R0003388,1/4/2014,,"Ajjaj, Saber",IND,X,Bronx,NY,10458,Store Manager,Jaclyn's Boutique,300,East Fordham Rd,Bronx,NY,500,0,0
+R0004115,4/20/2015,,"Alam, Mohamad M",IND,X,Bronx,NY,10467,Taxi Driver,Self Employed,840,Burke Avenue,Bronx,NY,25,25,0
+R0003318,12/28/2013,,"Alam, Mohammed A",IND,S,Staten Island,NY,10314,unemployed,unemployed,,,,,20,0,0
+R0004720,1/9/2016,,"Albanese, Christopher",IND,Z,Port Washington,NY,11050,RE Developer,"Albanese Org., Inc.",1050,Franklin Ave,Garden City,NY,500,0,0
+R0004722,1/9/2016,,"Albanese, Russell",IND,Z,Muttontown,NY,11771,RE Developer,"Albanese Organization, Inc.",1050,Franklin Ave,Garden City,NY,500,0,0
+R0005052,4/14/2016,,"Albert, John P",IND,Q,Jamaica,NY,11432,Attorney,Bolton St. Johns,7,World Trade Center,New York,NY,100,0,0
+R0003813,4/2/2015,,"Albors, Lymaris",IND,M,New York,NY,10039,Director of Project Management,Acacia Network,300,E 175th Street,Bronx,NY,250,175,0
+R0004747,1/11/2016,,"Albors, Lymaris",IND,M,New York,NY,10039,Director of Project Management,Acacia Network,300,E 175th Street,Bronx,NY,175,0,250
+R0003408,1/4/2014,,"Ali, Waqar",IND,X,Bronx,NY,10467,Police Officer,NYPD,1,Police Plaza,New York,NY,50,0,0
+R0003392,1/4/2014,,"Alkady, Kasem",IND,X,Bronx,NY,10469,Student,Indiana Tech,1600,E Washington Blvd,Fort Wayne,IN,50,0,0
+R0003198,12/11/2013,,"Almontaser, Debbie",IND,K,Brooklyn,NY,11230,Educator,NYC DOE,65,Court Street,Brooklyn,NY,100,0,0
+R0004460,8/5/2015,,"Almontaser, Debbie",IND,K,Brooklyn,NY,11230,Educator,NYC DOE,65,Court Street,Brooklyn,NY,2000,175,100
+R0004445,8/5/2015,,"Almontaser, Khalil",IND,K,Brooklyn,NY,11220,Law Enforcement,Dept. Homeland Security,7520,Astoria Blvd.,East Elmhurst,NY,200,175,0
+R0003276,12/22/2013,,"Almontaser, Mosad M",IND,K,Brooklyn,NY,11215,retired,retired,,,,,100,0,0
+R0003288,12/22/2013,,"Almontaser, Naji",IND,K,Brooklyn,NY,11230,Banquet Supervisor,NY Hilton Hotel,1325,6th Avenue,New York,NY,2000,0,0
+R0003347,1/5/2014,,"Almontaser, Naji",IND,K,Brooklyn,NY,11230,Banquet Supervisor,NY Hilton Hotel,1325,6th Avenue,New York,NY,300,0,2000
+R0003893,4/2/2015,,"Almontaser, Naji",IND,K,Brooklyn,NY,11230,Banquet Supervisor,NY Hilton Hotel,1325,6th Avenue,New York,NY,100,100,2300
+R0004443,8/5/2015,,"Almontaser, Naji",IND,K,Brooklyn,NY,11230,Banquet Supervisor,NY Hilton Hotel,1325,6th Avenue,New York,NY,2000,75,2400
+R0004447,8/5/2015,,"Almontaser, Yahya",IND,K,Brooklyn,NY,11220,Concierge,Seaport South Condominium,130,Water Street,New York,NY,300,175,0
+R0004654,1/7/2016,,"Alper, Scott C",IND,M,New York,NY,10021,President / CEO,Witkoff,40,West 57th Street,New York,NY,4950,175,0
+R0004184,4/29/2015,,"Alschuler, John H",IND,M,New York,NY,10013,Chairman,HR&A Advisors,99,Hudson Street,New York,NY,1000,0,0
+R0004439,4/29/2015,8/10/2015,"Alschuler, John H",IND,M,New York,NY,10013,,,,,,,-600,0,0
+R0003168,12/5/2013,,"Altamirano, Jose",IND,X,Bronx,NY,10461,President,Barrios Car Service,218,E 116th Street,New York,NY,300,0,0
+R0004089,4/20/2015,,"Altamirano, Jose",IND,X,Bronx,NY,10461,President,Barrios Car Service,218,E 116th Street,New York,NY,3500,0,300
+R0004409,8/8/2015,,"Altamirano, Jose",IND,X,Bronx,NY,10461,President,Barrios Car Service,218,E 116th Street,New York,NY,3500,0,3800
+R0004320,4/20/2015,4/30/2015,"Altamirano, Jose",IND,X,Bronx,NY,10461,,,,,,,-3500,0,0
+R0004034,4/20/2015,,"Altman, Calire H",IND,M,New York,NY,10036,Consultant,Altman Strategies LLC,271,W 47th Street,New York,NY,400,0,0
+R0003880,4/2/2015,,"Ambrosecchia, Jennifer",IND,M,New York,NY,10016,RE Development,Richman Real Estate Investment,340,Pemberwick Rd,Greenwich,CT,50,50,0
+R0004466,8/5/2015,,"Amen, Mohamed I",IND,M,New York,NY,10010,Police Officer,NYPD,1,Police Plaza Path,New York,NY,200,175,0
+R0004885,3/1/2016,,"Andersen, Holly S",IND,M,New York,NY,10075,Cardiologist,New York Presbyterian,425,East 61st Street,New York,NY,500,175,0
+R0005087,4/18/2016,,"Anderson, Belina",IND,M,New York,NY,10025,Manager,DEP,59-17,Junction Blvd,Elmhurst,NY,50,50,0
+R0005080,4/18/2016,,"Andre, Yvette",IND,Z,Patterson,NY,12563,CEO,Unique People Services,4234,Vireo Avenue,Bronx,NY,100,0,0
+R0005369,6/17/2016,,"Annex, Alan I",IND,Z,Scarsdale,NY,10583,Attorney,Greenberg Traurig LLP,200,Park Avenue,New York,NY,250,0,0
+R0004936,3/26/2016,,"Antebi, Marcus",IND,M,New York,NY,10012,CEO & FOUNDER,The Juice Press LLC,110,East 59th Street,New York,NY,2500,175,0
+R0003410,1/4/2014,,"Anwar, Arshad",IND,K,Brooklyn,NY,11218,Business,Universal Construction Corp.,5224,3rd Avenue,Brooklyn,NY,1000,0,0
+R0003411,1/4/2014,1/13/2014,"Anwar, Arshad",IND,K,Brooklyn,NY,11218,,,,,,,-680,0,0
+R0004059,4/20/2015,,"Argento, Anthony",IND,Q,Astoria,NY,11103,CEO,Broadway Stages,203,Meserole Ave,Brooklyn,NY,2500,175,0
+R0004804,2/1/2016,,"Argento, Anthony",IND,Q,Astoria,NY,11103,CEO,Broadway Stages,203,Meserole Ave,Brooklyn,NY,4950,0,2500
+R0004899,2/1/2016,3/22/2016,"Argento, Anthony",IND,Q,Astoria,NY,11103,,,,,,,-2500,0,0
+R0004151,4/28/2015,,"Argento, Gina",IND,Q,Astoria,NY,11103,Film,Broadway Stages,203,Meserole Avenue,Brooklyn,NY,1000,175,0
+R0004805,2/5/2016,,"Argento, Gina",IND,Q,Astoria,NY,11103,Film,Broadway Stages,203,Meserole Avenue,Brooklyn,NY,4950,0,1000
+R0004900,2/5/2016,3/22/2016,"Argento, Gina",IND,Q,Astoria,NY,11103,,,,,,,-1000,0,0
+R0004553,11/17/2015,,"Arjune, Ismael A",IND,K,Brooklyn,NY,11238,VP Enrollment Services,Winston Benefits,2399,Hwy 34 BLDG C-2,Manasquan,NJ,250,175,0
+R0004986,4/12/2016,,"Armenteros, Alfredo",IND,Z,Peekskill,NY,10566,Ground Transportation,A.A. Private Network,6,Derby Drive,Peekskill,NY,100,0,0
+R0003898,4/2/2015,,"Armonti, Fausto",IND,M,New York,NY,10021,CEO,SOLOFRESCO Brands LLC,400,Park Avenue,New York,NY,42,42,0
+R0004688,1/8/2016,,"Aron, Jeffrey",IND,M,New York,NY,10009,Director of External Affairs,Fountain House,425,West 47th Street,New York,NY,500,175,0
+R0003381,1/5/2014,,"Aronova, Ester",IND,Z,Valley Stream,NY,11581,Attorney,Aronova & Associates,100,Garden City Plaza,Garden City,NY,500,0,0
+R0003733,3/12/2015,,"Arzt, George D",IND,M,New York,NY,10014,Public Relations,George Arzt Communications,123,Williams Street,New York,NY,400,0,0
+R0004933,3/25/2016,,"Arzt, George D",IND,M,New York,NY,10014,Public Relations,George Arzt Communications,123,Williams Street,New York,NY,400,0,400
+R0004470,8/5/2015,,"Aslam Dhillon, Mohammad",IND,K,Brooklyn,NY,11230,Construction,A1 Paris Construction,687,Coney Island Avenue,Brooklyn,NY,600,175,0
+R0003677,11/26/2014,,"Aufgang, Ariel",IND,Z,Montbello,NY,10901,Architect,Self Employed,49,N. Airmont,Suffern,NY,1000,0,0
+R0004782,1/7/2016,,"Autones, Isabelle",IND,M,New York,NY,10011,Homemaker,,,,,,1260,0,0
+R0004195,4/24/2015,,"Avanessians, Natasha",IND,M,New York,NY,10025,Associate,Bolton-St Johns,7,World Trade Center,New York,NY,250,0,0
+R0003316,12/28/2013,,"Aziz, Mohammad A",IND,K,Brooklyn,NY,11219,,self employed,4109,15th Avenue,Brooklyn,NY,50,0,0
+R0003290,12/21/2013,,"Bahiabah, Abdulkani M",IND,K,Brooklyn,NY,11215,Handyman,Board of Education,594,Audubon Avenue,New York,NY,150,0,0
+R0005036,4/13/2016,,"Banks, Donald",IND,S,Staten Island,NY,10314,Owner,Bedford Carp Construction,77,Bloomfield Ave,Staten Island,NY,4950,175,0
+R0004078,4/20/2015,,"Barahona, Juan R",IND,K,Brooklyn,NY,11215,Principal,BFC Partners Development,150,Myrtle Avenue,Brooklyn,NY,400,175,0
+R0003437,3/5/2014,,"Barany, Kenneth T",IND,M,New York,NY,10028,Attorney,"Rappaport, Hertz, Cherson & Ro",118-35,Queens Blvd,Forest Hills,NY,250,0,0
+R0005780,7/8/2016,,"Barbot, Heriberto",IND,K,Brooklyn,NY,11215,Senior Manager,NYS DMV,6,Empire State Plaza,Albany,NY,250,175,0
+R0003361,1/6/2014,,"Barnes, Ben",IND,Z,Austin,TX,78701,Consultant,Ben Barnes Group,901,S. Mopac Expressway,Austin,TX,3850,0,0
+R0004082,4/20/2015,,"Baron, Brandon",IND,Z,Westhampton,NY,11978,Principal,BFC Partners Development,150,Myrtle Avenue,Brooklyn,NY,400,0,0
+R0005034,4/13/2016,,"Barrios-Paoli, Lilliam",IND,M,New York,NY,10025,Advisor,"Hunter College, CUNY",695,Park Avenue,New York,NY,250,0,0
+R0004963,4/8/2016,,"Barry, David",IND,Z,Hoboken,NJ,7030,Real Estate Developer,Ironstate Development,50,Washington ST,Hoboken,NJ,500,0,0
+R0004617,1/4/2016,,"Barsky, Neil",IND,M,New York,NY,10019,Founder,The Marshall Project,156,West 56th Street,New York,NY,250,175,0
+R0004560,11/30/2015,,"Bartos, Adam",IND,M,New York,NY,10021,Artist,La Forest Inc.,5,East 16th Street,New York,NY,500,175,0
+R0003858,4/2/2015,,"Basinski, Sean J",IND,M,New York,NY,10022,Lawyer,Urban Justice Center,40,Rector Street,New York,NY,100,0,0
+R0004270,5/13/2015,,"Bassolino, George",IND,Z,Ossining,NY,10562,Owner,George Bassolino Plumbing LLC,390A,Tiffany Street,Bronx,NY,250,0,0
+R0003371,1/5/2014,,"Bathla, Balwinder S",IND,Z,Muttontown,NY,11791,Businessman,self employed,,PO Box 4,Syosset,NY,500,0,0
+R0003200,12/11/2013,,"Batista, Genoveva",IND,K,Brooklyn,NY,11220,Owner,Milagros Batista Collection,24,E 125th St,New York,NY,100,0,0
+R0003918,4/2/2015,,"Batista, Genoveva",IND,K,Brooklyn,NY,11220,Owner,Milagros Batista Collection,24,E 125th St,New York,NY,50,50,100
+R0003905,4/2/2015,,"Batiz, Heriberto",IND,M,New York,NY,10035,CEO,E Batiz & Associates,993,S Santa Fe,Vista,CA,150,150,0
+R0003860,4/2/2015,,"Bechara, Antonio",IND,M,New York,NY,10003,Artist / Painter,self-employed,47,E 19th Street,New York,NY,1000,175,0
+R0004575,12/1/2015,,"Bechara, Antonio",IND,M,New York,NY,10003,Artist / Painter,self-employed,47,E 19th Street,New York,NY,3950,0,1000
+R0004951,4/6/2016,,"Beckerman, Stuart",IND,M,New York,NY,10003,Lawyer,"Slater & Beckerman, PC",61,Broadway,New York,NY,250,0,0
+R0003923,4/2/2015,,"Beckstrom, Brad",IND,Z,Adamstown,MD,21710,Director Govt Affairs,Mount Sinai,1,Gustave L Levy Place,New York,NY,50,0,0
+R0005191,4/28/2016,,"Beckstrom, Brad",IND,Z,Adamstown,MD,21710,Director Govt Affairs,Mount Sinai,1,Gustave L Levy Place,New York,NY,150,0,50
+R0005198,4/28/2016,,"Behar, Manny",IND,Q,Forest Hills,NY,11375,Tour Guide,JAD Transportation,777,8th Avenue,Forest Hills,NY,50,50,0
+R0003657,11/17/2014,,"Beida, Lisa",IND,Z,Mount Kisco,NY,10549,Energy Consultant,Sustainability Partners,487,E. Main Street,Mount Kisco,NY,2750,0,0
+R0003656,11/17/2014,,"Beida, Mark",IND,Z,Mount Kisco,NY,10549,Real Estate,Carson Equities,200,Bus. Park Drive,Armonk,NY,2750,0,0
+R0004165,4/26/2015,,"Beier, David",IND,Z,Fairfield,CT,6824,Lawyer,Taxi Office LLC,54-11,Queens Blvd,Woodside,NY,250,0,0
+R0004577,12/4/2015,,"Beinecke, Gaily",IND,M,New York,NY,10075,Unemployed,,,,,,500,175,0
+R0004762,1/7/2016,,"Bell, Kristin",IND,M,New York,NY,10019,Unemployed,,,,,,4950,175,0
+R0005271,4/29/2016,,"Belt, Antonia",IND,K,Brooklyn,NY,11215,Housewife,,,,,,2000,175,0
+R0003756,3/20/2015,,"Belt, David E",IND,K,Brooklyn,NY,11215,R/E Development,"Macro Sea, Inc.",1261,Broadway,New York,NY,4950,175,0
+R0004483,8/14/2015,,"Ben Othman, Alexandra",IND,Q,Kew Gardens,NY,11415,Marketing,LaGuardia Community College,31-10,Thomson Avenue,Kew Gardens,NY,20,20,0
+R0004177,4/24/2015,,"Bender, Neil",IND,M,New York,NY,10014,Owner,William Gottlieb Real Estate,160,Perry Street,New York,NY,500,0,0
+R0005378,6/17/2016,,"Benedict, Daniel",IND,Q,Kew Gardens,NY,11415,Management,BRG,150,Great Neck Road,Great Neck,NY,400,0,0
+R0004632,1/5/2016,,"Beninati, Joseph",IND,Z,Greenwich,CT,6831,Real Estate Developer,Bauhouse Group,500,W. Putnam Ave,Greenwich,CT,500,0,0
+R0003781,3/24/2015,,"Benjamin, Vlad",IND,Q,Forest Hills,NY,11375,President,VB Enterprises NY Corp,1400,Avenue Z,Brooklyn,NY,1500,175,0
+R0004010,4/16/2015,,"Bennardo, John J",IND,Z,Cold Spring Harbor,NY,11724,Contractor,Legacy Builders/Developers,519,8th Avenue,New York,NY,4950,0,0
+R0003939,4/15/2015,,"Bennett, Robert J",IND,M,New York,NY,10017,Real Estate,Omni New York LLC,885,2nd Avenue,New York,NY,250,0,0
+R0003906,4/2/2015,,"Benson Haskins, Kathleen",IND,M,New York,NY,10025,Retired,Retired,,,,,50,0,0
+R0005028,4/12/2016,,"Benson Haskins, Kathleen",IND,M,New York,NY,10025,Retired,Retired,,,,,50,50,50
+R0003976,4/17/2015,,"Benzi, Michael",IND,Z,Monroe Township,NJ,8831,Attorney,Self Employed,100,Lakeview Avenue,Jamesburg,NJ,2000,0,0
+R0005117,4/18/2016,,"Bergamini, Ronald S",IND,Z,Glen Rock,NJ,7452,Executive,Action Environmental Group,300,Frank W Burr Blvd.,Teaneck,NJ,400,0,0
+R0004599,12/21/2015,,"Berk, Marine",IND,M,New York,NY,10013,Pro Bono-Director,NY Lawyers for Public Interest,151,West 30th Street,New York,NY,2000,175,0
+R0005397,6/23/2016,,"Berlin, Michael",IND,Z,Valatie,NY,12184,Lawyer,Greenberg Traurig,54,State Street,Albany,NY,400,0,0
+R0003822,3/31/2015,,"Berlin, Richard",IND,M,New York,NY,10026,Executive Director,Harlem RBI,333,E 100th St,New York,NY,250,0,0
+R0005784,7/8/2016,,"Berman, Elizabeth C",IND,Z,Montclair,NJ,7043,Executive,Continental Food & Beverage,495,River Rd,Clifton,NJ,1000,0,0
+R0003353,1/5/2014,,"Bhuiyan, Mohammed M",IND,Z,Roslyn Heights,NY,11577,Websites,BIPONON Corporation,37-11,73rd Street,Astoria,NY,100,0,0
+R0004449,8/5/2015,,"Bhutta, Tahir",IND,K,Brooklyn,NY,11214,President,SASCO Tools & Equipment,432,Coney Island Avenue,Brooklyn,NY,250,175,0
+R0003365,1/5/2014,,"Billing, Kirpal S",IND,Q,Queens Village,NY,11427,Producer,"k s billing & assoc., inc",118-12,Atlantic Avenue,South Richmond Hill,NY,500,0,0
+R0004098,4/20/2015,,"Bing, Jonathan L",IND,M,New York,NY,10022,Attorney,Wilson Elser,150,E 42nd Street,New York,NY,250,0,0
+R0004988,4/12/2016,,"Birmingham, Rebecca",IND,K,Brooklyn,NY,11218,General Counsel,"Macro Sea, Inc.",1261,Broadway,New York,NY,100,100,0
+R0005069,4/22/2016,,"Blasig, John R",IND,M,New York,NY,10005,CEO,Universal Management Solutions,1461,First Avenue,New York,NY,400,0,0
+R0005302,5/13/2016,,"Bletsas, John",IND,Q,Whitestone,NY,11357,President,Bletsas Plumbing,3720,58th Street,Woodside,NY,500,175,0
+R0004830,2/18/2016,,"Block, Holly",IND,M,New York,NY,10038,Executive Director,The Bronx Museum of the Arts,1040,Grand Concourse,Bronx,NY,100,100,0
+R0004182,4/28/2015,,"Boardman, Paul",IND,M,New York,NY,10025,Architect,Self Employed,322,West 57th St.,New York,NY,2000,175,0
+R0004834,2/18/2016,,"Bonan, Michele",IND,K,Brooklyn,NY,11217,VP Govt Relations,Brooklyn Public Library,10,Grand Army Plaza,Brooklyn,NY,150,0,0
+R0003706,2/14/2015,,"Bonbrest, James William",IND,M,New York,NY,10028,COO,TAO Group,1350,Avenue of the Americas,New York,NY,2000,175,0
+R0005365,6/16/2016,,"Bond, Thomas F",IND,Z,Georgetown,TX,78628,Attorney,Greenberg Traurig LLP,300,West 6th Street,Austin,TX,250,0,0
+R0004258,5/13/2015,,"Bonelli, Richard",IND,Q,Beechhurst,NY,11357,Master Plumber,Ranshaw Fuel Plumbing Heating,151-01,14th Avenue,Whitestone,NY,250,175,0
+R0004329,6/26/2015,,"Borak, Marc",IND,Z,Roslyn,NY,11576,President,"Borax Paper Products, Inc.",1390,Spofford Ave,Bronx,NY,400,0,0
+R0004807,2/5/2016,,"Borden, Paul J",IND,Z,Medford,NJ,8055,President,Home Fed Corporation,1903,Wright Place,Carlsbad,CA,250,0,0
+R0004550,11/17/2015,,"Bradley, Colin B",IND,Z,Rumson,NJ,7760,Employee Benefits,Winston Benefits,2399,Hwy 34 BLDG C-2,Manasquan,NJ,500,0,0
+R0003436,1/18/2014,,"Braunstein, Barry",IND,K,Brooklyn,NY,11204,Administrator,Laconia Nursing Home,1050,E 230th St,Bronx,NY,250,0,0
+R0004351,7/2/2015,,"Braunstein, Barry",IND,K,Brooklyn,NY,11204,Administrator,Laconia Nursing Home,1050,E 230th St,Bronx,NY,400,175,250
+R0004103,4/20/2015,,"Brecher, David",IND,Z,Lawrence,NY,11559,CEO,First Meridian Mortgage,2329,Nostrand Avenue,Brooklyn,NY,500,0,0
+R0003973,4/17/2015,,"Brier, Pamela",IND,K,Brooklyn,NY,11201,President & CEO,Maimonides Medical Center,4802,Tenth Avenue,Brooklyn,NY,500,0,0
+R0004441,4/17/2015,8/10/2015,"Brier, Pamela",IND,K,Brooklyn,NY,11201,,,,,,,-100,0,0
+R0004731,1/9/2016,,"Brinn, Gloria",IND,Z,Leonia,NJ,7605,Unemployed,,,,,,500,0,0
+R0005786,7/8/2016,,"Brinn, Gloria",IND,Z,Leonia,NJ,7605,Retired,,,,,,200,0,500
+R0004574,12/11/2015,,"Brodsky, Daniel",IND,M,New York,NY,10075,Real Estate Developer,The Brodsky Organization,400,W 59th Street,New York,NY,250,175,0
+R0004579,12/19/2015,,"Brodsky, Daniel",IND,M,New York,NY,10075,Real Estate Developer,The Brodsky Organization,400,W 59th Street,New York,NY,3500,0,250
+R0005399,6/23/2016,,"broitman, elana",IND,M,New York,NY,10065,law,Greenberg Traurig,200,Park Avenue,New York,NY,400,0,0
+R0005093,4/18/2016,,"Brown, Tara C",IND,M,New York,NY,10035,Project Director,Urban Youth Alliance,432,East 149th Street,Bronx,NY,50,50,0
+R0005318,5/14/2016,,"Bruno, Joseph F",IND,K,Brooklyn,NY,11231,Sr. Strategic Advisor,Redland Strategies,519,Eighth Avenue,New York,NY,250,0,0
+R0005076,4/18/2016,,"Bubbins, Harry",IND,X,Bronx,NY,10454,Advocate,GVSHP,232,East 11th Street,New York,NY,20,20,0
+R0004686,1/8/2016,,"Buksbaum, Jacob",IND,M,New York,NY,10024,Architect,"Times Equities, Inc.",55,Fifth Avenue,New York,NY,100,100,0
+R0004077,4/20/2015,,"Bunsee, Rishi",IND,Z,Rahway,NJ,7065,President,KLK Electric Inc,58-09,28th Avenue,Woodside,NY,250,0,0
+R0004365,7/9/2015,,"Burger, Alison J",IND,M,New York,NY,10021,Homemaker,,,,,,2500,175,0
+R0005741,7/7/2016,,"Burger, Alison J",IND,M,New York,NY,10021,Homemaker,,,,,,1500,0,2500
+R0004544,11/17/2015,,"Butler, Craig A",IND,Z,Point Pleasant,NJ,8742,Senior VP,Winston Benefits,2399,Hwy 34 BLDG C-2,Manasquan,NJ,500,0,0
+R0004264,5/13/2015,,"Butler, Julia M",IND,M,New York,NY,10021,Senior VP,iStar Financial,1114,Avenue of the Americas,New York,NY,250,175,0
+R0003833,4/2/2015,,"Cafaro, Renee",IND,M,New York,NY,10019,Political Consultant,Self Employed,1,Central Park South,New York,NY,50,50,0
+R0004305,6/15/2015,,"Caiazzo, Anthony",IND,Z,Franklin Square,NY,11010,Master Plumber,J Caiazzo Plumbing,1381,Utica Avenue,Brooklyn,NY,250,0,0
+R0005095,4/18/2016,,"Caifano, Anthony R",IND,M,New York,NY,10075,Secretary / Treasurer,"ALA Local 1, IBT",113,University Place,New York,NY,100,100,0
+R0004909,3/17/2016,,"Calderon Serra, Sila M",IND,Z,San Juan,PR,907,Politician,Self Employed,2,Madrid Street,San Juan,PR,300,0,0
+R0005102,4/18/2016,,"Calderon, John C",IND,Z,Beacon,NY,12508,Architect,Calderon Architecture & Design,5,Cliff ST,Beacon,NY,50,0,0
+R0005083,4/18/2016,,"Calderon-Payne, Wendy",IND,S,Staten Island,NY,10303,Executive Director,Urban Youth Alliance,432,East 149th Street,Bronx,NY,60,0,0
+R0004840,2/25/2016,,"Calvelli, John F",IND,X,Pelham Manor,NY,10803,Executive,Wildlife Conservation Society,2300,Southern Blvd,Bronx,NY,400,0,0
+R0003588,12/6/2013,,"Calvert, David G",IND,M,New York,NY,10025,Executive Director,Youth Action Programs & Homes,206,E 118th Street,New York,NY,50,0,0
+R0005075,4/18/2016,,"Cameron, Ray",IND,Q,Queens Village,NY,11429,Executive Director,Project Hope The New Direction,105-03,220th Street,Queens Village,NY,80,0,0
+R0003876,4/2/2015,,"Campaz, Alexander",IND,K,Brooklyn,NY,11221,Designer,Self Employed,250,Kosciuszko Street,Brooklyn,NY,20,20,0
+R0004024,4/20/2015,,"Capalino, James F",IND,M,New York,NY,10029,Government Relations Advocate,Capalino & Company,233,Broadway,New York,NY,400,0,0
+R0004021,4/20/2015,,"Capalino, Reid F",IND,M,New York,NY,10029,Govt Relations Advocate,Capalino & Company,233,Broadway,New York,NY,400,175,0
+R0004080,4/20/2015,,"Capoccia, Donald A",IND,M,New York,NY,10022,Principal,BFC Partners Development,150,Myrtle Avenue,Brooklyn,NY,400,0,0
+R0003888,4/2/2015,,"Carey, Dru B",IND,M,New York,NY,10024,Attorney,Self Employed,585,West End Avenue,New York,NY,100,100,0
+R0003870,4/2/2015,,"Carey, Michael G",IND,M,New York,NY,10024,Consultant,The Carey Group LLC,100,Wall Street,New York,NY,250,0,0
+R0005195,4/28/2016,,"Carey, Michael G",IND,M,New York,NY,10024,Consultant,The Carey Group LLC,100,Wall Street,New York,NY,250,0,250
+R0003628,10/8/2014,,"Carone, Frank V",IND,K,Brooklyn,NY,11234,Lawyer,"Abrams, Fensterman LLP",One,MetroTech Center,Brooklyn,NY,1000,175,0
+R0003777,3/24/2015,,"Carone, Frank V",IND,K,Brooklyn,NY,11234,Lawyer,"Abrams, Fensterman LLP",One,MetroTech Center,Brooklyn,NY,2500,0,1000
+R0005678,6/27/2016,,"Carson, Deirdre A",IND,K,Brooklyn,NY,11201,Attorney,Greenberg Traurig LLP,200,Park Avenue,New York,NY,250,0,0
+R0005779,7/8/2016,,"Cartagena, Juan",IND,Z,Jersey City,NJ,7302,Attorney,Latino Justice PRLDEF,99,Hudson Street,New York,NY,250,0,0
+R0003720,2/26/2015,,"Cary, Larry L",IND,Z,Westfield,NJ,7090,Partner,Cary Kane LLP,1350,Broadway,New York,NY,500,0,0
+R0005351,6/2/2016,,"Cary, Larry L",IND,M,New York,NY,10016,Partner,Cary Kane LLP,1350,Broadway,New York,NY,500,175,500
+R0003415,1/14/2014,,"Casellas, Gilbert F",IND,Z,Chevy Chase,MD,20815,Lawyer,Self Employed,7100,Beechwood Drive,Chevy Chase,MD,100,0,0
+R0004664,1/7/2016,,"Cassell, Lauren S",IND,M,New York,NY,10075,Physician,L S Cassell MD,114A,E 78th Street,New York,NY,250,175,0
+R0005197,4/28/2016,,"Castro, Maria A",IND,M,New York,NY,10019,Consultant,Self Employed,150,West 51st Street,New York,NY,100,0,0
+R0004637,12/31/2015,,"Catsimatidis, John A",IND,M,New York,NY,10065,Chairman & CEO,United Refining Company,800,3rd Avenue,New York,NY,4950,0,0
+R0004799,12/31/2015,2/19/2016,"Catsimatidis, John A",IND,M,New York,NY,10065,,,,,,,-4550,0,0
+R0004638,12/31/2015,,"Catsimatidis, Margo",IND,M,New York,NY,10065,Vice Chair,Hellenic Times Scholarship Fun,823,11th Street,New York,NY,4950,175,0
+R0004157,5/1/2015,,"Cayre, Jack",IND,M,New York,NY,10010,Chairman,Midtown Equities,141,Fifth Avenue,New York,NY,400,0,0
+R0005348,5/31/2016,,"Cayre, Joseph",IND,K,Brooklyn,NY,11223,CEO,Midtown Equities,141,Fifth Avenue,New York,NY,250,175,0
+R0004159,5/1/2015,,"Cayre, Michael",IND,M,New York,NY,10010,Chairman,Midtown Equities,141,Fifth Avenue,New York,NY,1050,175,0
+R0004734,1/10/2016,,"Centeno, Miguel",IND,Q,Rego Park,NY,11374,"Senior Director, Community Rel",Aetna,100,Park Avenue,New York,NY,500,175,0
+R0003796,3/18/2015,,"Cerchione, Gregory T",IND,K,Brooklyn,NY,11234,Attorney,"Subin Associates, LLP",150,Broadway,New York,NY,1500,175,0
+R0005297,5/2/2016,,"Cerrito, Anthony",IND,Q,Elmhurst,NY,11373,Controller,A&R Electric,85-47,Grand Avenue,Elmhurst,NY,1000,175,0
+R0003919,4/2/2015,,"Cerrud, Dario R",IND,M,New York,NY,10280,Director,Urban Dove,40,Exchange Place,New York,NY,100,0,0
+R0005097,4/18/2016,,"Cerrud, Dario R",IND,M,New York,NY,10280,Director,Urban Dove,40,Exchange Place,New York,NY,100,100,100
+R0004755,1/10/2016,,"Chacon, Guillermo A",IND,X,Bronx,NY,10468,President,Latino Commission on AIDS,24,West 25th Street,New York,NY,250,175,0
+R0003985,4/20/2015,,"Chakrabarti, Vishaan",IND,M,New York,NY,10011,Partner,SHoP Architects,233,Broadway,New York,NY,400,0,0
+R0004028,4/20/2015,,"Chan, Ming ""Miriam"" Y",IND,M,New York,NY,10013,Investments,Self Employed,221,Canal Street,New York,NY,500,175,0
+R0004113,4/20/2015,,"Chipman, Richard",IND,Z,Old Westbury,NY,11568,Taxi Broker,West Way Taxi,657,Tenth Avenue,New York,NY,500,0,0
+R0004332,6/26/2015,,"Choudhary, Baber J",IND,K,Brooklyn,NY,11209,Construction,Stealth Contracting Inc.,422,Philips Ave,Staten Island,NY,250,0,0
+R0003310,12/28/2013,,"Chowdhury Shoran, Dilruba",IND,K,Brooklyn,NY,11205,unemployed,unemployed,,,,,50,0,0
+R0004843,1/21/2016,,"Ciliberti, Louis",IND,Z,Melville,NY,11747,Financial Advisor,Self Employed,1800,Walt Whitman Road,Melville,NY,150,0,0
+R0004252,5/13/2015,,"Ciparick, Carmen B",IND,M,New York,NY,10028,Attorney,Greenberg Traurig LLP,200,Park Avenue,New York,NY,250,175,0
+R0005376,6/17/2016,,"Ciparick, Carmen B",IND,M,New York,NY,10028,Attorney,Greenberg Traurig LLP,200,Park Avenue,New York,NY,400,0,250
+R0004650,1/7/2016,,"Clark, Douglas S",IND,Z,Delmar,NY,12054,Attorney,Shenker Russo & Clark LLP,121,State Street,Albany,NY,250,0,0
+R0004619,1/5/2016,,"Cohen, Andrew",IND,M,New York,NY,10069,Principal,Atlas Capital Group,450,Park Avenue,New York,NY,400,0,0
+R0003264,12/23/2013,,"Cohen, Joseph M",IND,M,New York,NY,10022,Chairman,JM Cohen & Company,70,E 55th ST,New York,NY,500,0,0
+R0004972,4/11/2016,,"Cohen, Larry",IND,Z,Mt Kisco,NY,10549,Marketing,Axis Promotions,8,West 38th Street,New York,NY,4950,0,0
+R0004047,4/20/2015,,"Coletti, Louis J",IND,Z,Warren,NJ,7059,Executive,Building Trades Employers Asso,1430,Broadway,New York,NY,1000,0,0
+R0004797,1/18/2016,,"Coletti, Louis J",IND,Z,Warren,NJ,7059,Executive,Building Trades Employers Asso,1430,Broadway,New York,NY,500,0,1000
+R0003238,12/17/2013,,"Collier, Diane",IND,M,New York,NY,10037,Self Employed,Self Employed,45,E 135th Street,New York,NY,75,0,0
+R0003892,4/2/2015,,"Collier, Diane",IND,M,New York,NY,10037,Self Employed,Self Employed,45,E 135th Street,New York,NY,25,25,75
+R0005169,4/18/2016,,"Collier, Diane",IND,M,New York,NY,10037,Self Employed,Self Employed,45,E 135th Street,New York,NY,50,50,100
+R0004138,4/23/2015,,"Collins, Christopher",IND,M,New York,NY,10011,Gov't Relations,Capalino & Company,233,Broadway,New York,NY,400,0,0
+R0005781,7/8/2016,,"Colon, Elizabeth",IND,M,New York,NY,10009,President,Self Employed,200,East Broadway,New York,NY,200,175,0
+R0004322,6/25/2015,,"Condon, Larry",IND,M,New York,NY,10003,Retired,,,,,,500,0,0
+R0004350,6/25/2015,7/1/2015,"Condon, Larry",IND,M,New York,NY,10003,,,,,,,-100,0,0
+R0004999,4/6/2016,,"Conford, Pamela B",IND,M,New York,NY,10003,Social Worker,The Epilepsy Institute,65,Broadway,New York,NY,500,0,0
+R0003680,11/25/2014,,"Constantinople, Lisa B",IND,Z,Township of Washington,NJ,7676,Homemaker,,,,,,635.26,0,0
+R0004623,1/5/2016,,"Copperman, Joel",IND,K,Brooklyn,NY,11215,CEO / President,CASES,151,Lawrence Street,Brooklyn,NY,250,0,0
+R0005783,7/8/2016,,"Cordero, Jeannette",IND,X,Bronx,NY,10461,Admin HR,ACACIA Network,311,East 175th Street,Bronx,NY,250,175,0
+R0003857,4/2/2015,,"Cortes-Vazquez, Lorraine",IND,X,Bronx,NY,10469,Executive Vice President,AARP,601,"E Street, NW",Washington,DC,500,175,0
+R0004625,1/5/2016,,"Coston, Seth",IND,K,Brooklyn,NY,11211,Asset Manager,"Times Equities, Inc.",55,Fifth Avenue,New York,NY,250,175,0
+R0003624,10/8/2014,,"Cotter-Jenkins, Dawn C",IND,Q,Jamaica,NY,11436,Speech Therapist,World Class Speech Services,114-35,140th Street,Jamaica,NY,250,0,0
+R0004003,4/16/2015,,"Cotton, Ashley C",IND,K,Brooklyn,NY,11238,SVP,FCRC,1,MetroTech Center,Brooklyn,NY,250,0,0
+R0004879,3/7/2016,,"Courtemanche, Susan",IND,Z,Wilton,CT,6897,Fundraising Consultant,Self Employed,40,Powder Horn Hill Road,Wilton,CT,250,0,0
+R0004794,1/20/2016,,"Crespo, Luis",IND,Z,Nutley,NJ,7110,VP,Tangoe,35,Executive Blvd,Orange,CT,1000,0,0
+R0003878,4/2/2015,,"Cruet, Lionel",IND,M,New York,NY,10029,Artist / Educator,Lionel Cruet,138,E 112th St,New York,NY,20,20,0
+R0003863,4/2/2015,,"Cruz, Michelle",IND,M,New York,NY,10029,Owner,East Harlem Cafe,1651,Lexington Avenue,New York,NY,50,50,0
+R0003696,1/31/2015,,"Cruz-Tejeda, Cirilo F",IND,Z,San Juan,PR,918,Managing Partner,"LGA Strategies, LLC",380,Escorial Avenue,Caparra Heights,PR,2500,0,0
+R0004130,4/20/2015,,"Cudahy, Kathleen B",IND,M,New York,NY,10128,Counsel,Connelly McLaughlin & Woloz,233,Broadway,New York,NY,400,0,0
+R0003961,4/17/2015,,"Cullman, Lewis B",IND,M,New York,NY,10065,Retired,,,,,,1000,175,0
+R0003864,4/2/2015,,"Cunningham-Gross, Elaine",IND,M,New York,NY,10029,Substitute Teacher,NYC DOE,52,Chambers Street,New York,NY,25,25,0
+R0004342,4/20/2015,,"Cutler, Alice",IND,M,New York,NY,10024,President,Alicart Group LLC,1501,Broadway,New York,NY,4950,0,0
+R0003315,12/20/2013,,"Czaja, Richard F",IND,M,New York,NY,10128,Co President,The Stahl Organization,277,Park Avenue,New York,NY,1000,0,0
+R0005059,4/14/2016,,"D'Amato, Alfonse M",IND,Z,Long Beach,NY,11561,Managing Director,"Park Strategies, LLC",101,Park Avenue,New York,NY,400,0,0
+R0004067,4/20/2015,,"D'Amato, Amy",IND,Q,Forest Hills,NY,11375,Homemaker,,,,,,2500,0,0
+R0005057,4/14/2016,,"D'Amato, Armand P",IND,,,,,Partner,"Park Strategies, LLC",101,Park Avenue,New York,NY,400,0,0
+R0005055,4/14/2016,,"D'Amato, Christopher P",IND,Q,Forest Hills,NY,11375,Attorney,"Park Strategies, LLC",101,Park Avenue,New York,NY,400,0,0
+R0004847,2/18/2016,,"Daly, Lewis",IND,K,Brooklyn,NY,11231,Carpenter,Saks Fifth Avenue,611,Fifth Avenue,New York,NY,1500,175,0
+R0003927,4/7/2015,,"Daly, Samara",IND,K,Brooklyn,NY,11231,Public Affairs Consultant,Self Employed,249,President Street,Brooklyn,NY,400,175,0
+R0003435,2/6/2014,,"Damiani, Marco R",IND,Z,North Salem,NY,10560,Executive VP,YAI,460,W 34th Street,New York,NY,200,0,0
+R0004301,6/4/2015,,"Dart, Ariane",IND,Z,Sarasota,FL,34243,Unemployed,,,,,,4950,0,0
+R0003357,1/5/2014,,"Datta, Sujan",IND,Q,Woodside,NY,11377,,self employed,,,,,100,0,0
+R0004564,11/17/2015,,"Dawes, Andrea",IND,K,Brooklyn,NY,11203,,,,,,,25,25,0
+R0005090,4/18/2016,,"Dawes, Gary",IND,Q,Glendale,NY,11385,President,Campbell and Dawes,8448,129th Street,Kew Gardens,NY,200,175,0
+R0004712,1/8/2016,,"De Jesus, Edna",IND,M,New York,NY,10029,Freelance,Self Employed,1633,Lexington Avenue,New York,NY,100,100,0
+R0005196,4/28/2016,,"De Jesus, Edna",IND,M,New York,NY,10029,Freelance,Self Employed,1633,Lexington Avenue,New York,NY,50,50,100
+R0003701,2/10/2015,,"De La Cruz, Maria M",IND,Z,San Juan,PR,901,housewife,,,,,,3000,0,0
+R0005349,5/31/2016,,"De Lao, Eva",IND,M,New York,NY,10029,Director,Musica de Camara,1215,Fifth Avenue,New York,NY,200,175,0
+R0003728,3/6/2015,,"Deacy, John P",IND,M,New York,NY,10013,Retired,,,,,,250,175,0
+R0004542,11/23/2015,,"DeBiasi, Stephen E",IND,Z,Towaco,NJ,7082,CEO,Union Benefits Planners Inc.,151,New Road,Parsippany,NJ,1000,0,0
+R0004591,12/17/2015,,"Del Mastro, Rick",IND,Z,Wainscott,NY,11975,CEO,City Outdoor,1333,Broadway,New York,NY,1000,0,0
+R0004593,12/17/2015,,"Del Mastro, Rick",IND,Z,Wainscott,NY,11975,CEO,City Outdoor,1333,Broadway,New York,NY,1000,0,0
+R0004592,12/17/2015,12/17/2015,"Del Mastro, Rick",IND,Z,Wainscott,NY,11975,,,,,,,-1000,0,0
+R0003909,4/2/2015,,"DeSena, Robert J",IND,Z,Muttontown,NY,11753,President,"Council for Unity, Inc.",50,Avenue X,Brooklyn,NY,100,0,0
+R0004758,1/9/2016,,"DeSena, Robert J",IND,Z,Muttontown,NY,11753,President,"Council for Unity, Inc.",50,Avenue X,Brooklyn,NY,250,0,100
+R0005314,5/20/2016,,"Devlin, Robert M",IND,M,New York,NY,10128,Chairman,Curragh Capital Partners,680,Fifth Avenue,New York,NY,1000,175,0
+R0003369,1/5/2014,,"Dhaliwal, Karamjit",IND,Q,Glendale,NY,11385,,,,,,,750,0,0
+R0004726,1/9/2016,,"Diaz, Clara M",IND,M,New York,NY,10011,Paralegal,"Times Equities, Inc.",55,Fifth Avenue,New York,NY,100,100,0
+R0004682,1/8/2016,,"DiClerico, Daniel",IND,K,Brooklyn,NY,11216,Editor,Consumer Reports,101,Truman Avenue,Yonkers,NY,100,100,0
+R0004997,4/6/2016,,"Dinan, James G",IND,M,New York,NY,10075,CEO,York Capital Management,767,Fifth Avenue,New York,NY,4950,175,0
+R0004621,1/5/2016,,"Doering, Matthew",IND,K,Brooklyn,NY,11249,Consultant,Global Gateway Advisors,20,Jay Street,Brooklyn,NY,250,175,0
+R0003306,12/20/2013,,"Doherty, Michael",IND,K,Brooklyn,NY,11215,retired,retired,,,,,100,0,0
+R0005329,5/27/2016,,"Donaghy, Celestine A",IND,Z,Franklin Lakes,NJ,7417,Chairman,Sweeney & Harkin Carpentry,6517,68th Avenue,Ridgewood,NY,500,0,0
+R0004852,3/1/2016,,"Donhauser, Whitney",IND,M,New York,NY,10025,Director & President,MCNY,1220,Fifth Avenue,New York,NY,500,0,0
+R0004901,3/1/2016,3/22/2016,"Donhauser, Whitney",IND,M,New York,NY,10025,,,,,,,-100,0,0
+R0003262,12/19/2013,,"Donini, Patricia E",IND,Z,Yardville,NJ,8620,VP of Development,YAI,460,W 34th Street,New York,NY,100,0,0
+R0004266,5/13/2015,,"Donohue, Timothy",IND,S,Staten Island,NY,10314,Plumber,Weiss I & Son Plumbing,99,Atlantic Avenue,Brooklyn,NY,250,175,0
+R0004968,4/11/2016,,"Duport, Dunis",IND,M,New York,NY,10019,COO,New Lab LLC,1261,Broadway,New York,NY,100,100,0
+R0004739,1/11/2016,,"Durst, Anita",IND,M,New York,NY,10038,Artistic Director,Chashama,675,3rd Avenue,New York,NY,250,175,0
+R0003298,12/28/2013,,"EC Meligy, Hesham",IND,S,Staten Island,NY,10314,COA,CUNY,524,West 59th ST,New York,NY,100,0,0
+R0003587,12/19/2013,,"Edelman, Brian",IND,M,New York,NY,10014,CEO,RAIN,207,West 25th Street,New York,NY,3850,0,0
+R0004373,7/10/2015,,"Edelman, Brian",IND,M,New York,NY,10014,CEO,RAIN,207,West 25th Street,New York,NY,1100,175,3850
+R0003249,12/19/2013,,"Edelman, Margaret",IND,M,New York,NY,10024,Manager,Bespoke Theatricals,230,W 41st ST,New York,NY,3850,0,0
+R0004275,5/20/2015,,"Edelman, Nancy",IND,Z,Rye,NY,10580,Retired,,,,,,4950,0,0
+R0004254,5/13/2015,,"Edwards, Thomas J",IND,K,Brooklyn,NY,11209,President,HKSB,57,Willoughby Street,Brooklyn,NY,250,175,0
+R0004175,4/24/2015,,"Eisenberg, Douglas",IND,M,New York,NY,10003,Partner,Eisenberg & Baum LLP,24,Union Square East,New York,NY,500,175,0
+R0003776,3/24/2015,,"Elefterakis, Ariana",IND,M,New York,NY,10038,Student,,,,,,1500,175,0
+R0003774,3/24/2015,,"Elefterakis, John",IND,S,Staten Island,NY,10306,Attorney,Elefterakis Elefterakis Parek,111,John Street,New York,NY,1500,175,0
+R0003383,1/5/2014,,"Elgindy, Hamdy H",IND,Z,Yonkers,NY,10710,CFO,EIHAB Human Services,168-18,S. Conduit Avenue,Jamaica,NY,500,0,0
+R0003384,1/5/2014,1/13/2014,"Elgindy, Hamdy H",IND,Z,Yonkers,NY,10710,,,,,,,-180,0,0
+R0004457,8/5/2015,,"Esa, Nadi H",IND,K,Brooklyn,NY,11220,Homemaker,,,,,,200,175,0
+R0004514,11/16/2015,,"Escava, Hyman",IND,K,Brooklyn,NY,11223,Salesman,Madison Title,56,West 45th Street,New York,NY,4950,175,0
+R0004520,11/12/2015,,"Escava, Isaac",IND,K,Brooklyn,NY,11223,Merchant,Extraordinary Coffee,54,2nd Avenue,New York,NY,4950,175,0
+R0004516,11/12/2015,,"Escava, Jacqueline",IND,K,Brooklyn,NY,11223,Housewife,,,,,,4950,175,0
+R0004522,11/12/2015,,"Escava, Lisa",IND,K,Brooklyn,NY,11223,Housewife,,,,,,4950,175,0
+R0004680,1/8/2016,,"Evangeline, Margaret",IND,K,Brooklyn,NY,11216,Artist,Self Employed,80,39th Street,Brooklyn,NY,100,100,0
+R0003278,12/22/2013,,"Fakir, Saeed F",IND,K,Brooklyn,NY,11201,Travel Agent,Fakir Travel,199,Atlantic Avenue,Brooklyn,NY,100,0,0
+R0003406,1/4/2014,,"Falifel, Omran",IND,Z,Yonkers,NY,10701,Manager,Ridge St Auto,93,S Ridge St,Rye Brook,NY,100,0,0
+R0004327,6/26/2015,,"Familant, Robert A",IND,Z,Ridgewood,NJ,7450,CEO,"Progressive Credit Union, Inc.",131,West 33rd Street,New York,NY,500,0,0
+R0004851,2/29/2016,,"Familant, Robert A",IND,Z,Ridgewood,NJ,7450,CEO,"Progressive Credit Union, Inc.",131,West 33rd Street,New York,NY,250,0,500
+R0004241,5/11/2015,,"Farber, Jorge",IND,Q,Neponsit,NY,11694,CEO,Madelaine Chocolate Novelties,9603,Beach Channel Drive,Far Rockaway,NY,250,0,0
+R0004562,11/30/2015,,"Farias, Pablo",IND,M,New York,NY,10022,Consultant,Independent,45,Sutton Place South,New York,NY,250,175,0
+R0004473,8/5/2015,,"Farooq, Khawaja",IND,K,Brooklyn,NY,11229,,,,,,,100,0,0
+R0003431,2/6/2014,,"Feibusch, Fredric",IND,K,Brooklyn,NY,11217,Social Worker,Young Adult Institute,460,W 34th ST,New York,NY,100,0,0
+R0003433,1/28/2014,,"Feiman, Jules",IND,Z,Teaneck,NJ,7666,VP of HR,YAI,460,West 34th Street,New York,NY,100,0,0
+R0004162,4/24/2015,,"Feldman, Ziel",IND,M,New York,NY,10028,Chairman,HFZ Capital Group,600,Madison Avenue,New York,NY,1000,175,0
+R0005193,4/28/2016,,"Fernandez, Maria T",IND,X,Bronx,NY,10461,Poet / Writer,Self Employed,1580,Pelham Pkwy South,Bronx,NY,25,25,0
+R0004084,4/20/2015,,"Ferrara, Joseph",IND,S,Staten Island,NY,10312,Principal,BFC Partners Development,150,Myrtle Avenue,Brooklyn,NY,400,0,0
+R0005677,6/27/2016,,"Ferrara, Joseph",IND,Z,Garden City,NY,11530,Executive,Ferrara Bros. / U.S. Concrete,120-05,31st Avenue,Flushing,NY,250,0,0
+R0003158,12/5/2013,,"Ferrari, Michael",IND,Z,Hastings On Hudson,NY,10706,VP,"Monadnock Construction, Inc.",155,Third Street,Brooklyn,NY,100,0,0
+R0005361,6/16/2016,,"Ferreira, G. Michelle",IND,Z,Oakland,CA,94611,Managing Shareholder,Greenberg Traurig,Four,Embarcadero Center,San Francisco,CA,300,0,0
+R0004405,7/16/2015,,"Ferrer, Aramina",IND,X,Bronx,NY,10463,Professor,Mercy College,555,Broadway,Dobbs Ferry,NY,1000,175,0
+R0005165,4/15/2016,,"Fesser, George",IND,Z,Hoboken,NJ,7030,Unemployed,AID FOR AIDS,515,Greenwich Street,Hoboken,NJ,50,0,0
+R0004733,1/10/2016,,"Figueroa, Arminda",IND,Z,Fort Lauderdale,FL,33301,Self Employed,Latin2Latin Marketing + Comm,333,North New River Dr.,Fort Lauderdale,FL,400,0,0
+R0003889,4/2/2015,,"Figueroa, Jonathan",IND,M,New York,NY,10035,Director of Marketing,Peace on the Street,307,E 116th Street,New York,NY,50,50,0
+R0004167,4/24/2015,,"Filice, John D",IND,Z,Eastchester,NY,10709,Executive,Fleetwood Agency Inc,65,Broadway,New York,NY,2000,0,0
+R0004277,5/21/2015,,"Fisher, Jessica",IND,M,New York,NY,10075,Marketing,Drill Fitness,136,Church Street,New York,NY,4950,175,0
+R0004660,1/7/2016,,"Fisher, Winston",IND,M,New York,NY,10128,Partner,Fisher Brothers,299,Park Avenue,New York,NY,4950,175,0
+R0004572,11/30/2015,,"Fishman, Alan H",IND,K,Brooklyn,NY,11201,Chairman,Ladder Capital,345,Park Avenue,New York,NY,1000,175,0
+R0005013,4/6/2016,,"Fishman, Alan H",IND,K,Brooklyn,NY,11201,Chairman,Ladder Capital,345,Park Avenue,New York,NY,1000,0,1000
+R0004603,12/26/2015,,"Flatto, Adam",IND,M,New York,NY,10065,Real Estate,The Georgetown Company,667,Madison Avenue,New York,NY,400,175,0
+R0004205,4/24/2015,,"Floyd, William S",IND,M,New York,NY,10011,Public Policy,Google,76,Ninth Avenue,New York,NY,100,0,0
+R0003881,4/2/2015,,"Flynn, Gerard",IND,Z,Hillsdale,NJ,7642,Businessman,Eastside Floor Services LTD,129,E 124th Street,New York,NY,2000,0,0
+R0004676,1/4/2016,,"Fonseca, Maureen",IND,Z,Mount Vernon,NJ,10552,President,Sports & Arts in School Founda,58-12,Queens Blvd,Woodside,NY,250,0,0
+R0003608,10/8/2014,,"Fontas, George M",IND,K,Brooklyn,NY,11231,Consultant,Capalino & Co.,233,Broadway,New York,NY,250,0,0
+R0003753,3/23/2015,,"Forrest, Michael I",IND,Z,Syosset,NY,11791,Restauranteur,"Forrest Partners, LLC",133,Ludlow Street,New York,NY,400,0,0
+R0004809,2/5/2016,,"Foulger, Christian E",IND,Z,Carlsbad,CA,92009,Real Estate,Home Fed Corporation,1903,Wright Place,Carlsbad,CA,250,0,0
+R0003322,12/29/2013,,"Fozila, Ismat A",IND,K,Brooklyn,NY,11238,Housewife,,,,,,100,0,0
+R0004941,4/4/2016,,"Freed, Dara",IND,M,New York,NY,10002,Consultant,Dara LC Freed,383,Grand Street,New York,NY,250,175,0
+R0004684,1/8/2016,,"French, Joseph A",IND,Q,Douglaston,NY,11363,Attorney,"French & Casey, LLP",29,Broadway,New York,NY,250,175,0
+R0005007,4/6/2016,,"Frenkel, Elizabeth",IND,K,Brooklyn,NY,11238,Managing Director,Park Avenue Armory,643,Park Avenue,New York,NY,100,100,0
+R0004262,5/13/2015,,"Frey, Karl",IND,Z,New Canaan,CT,6840,Principal,VESPERA,600,Summer Street,Stamford,CT,250,0,0
+R0005173,4/18/2016,,"Friedman, Adam",IND,K,Brooklyn,NY,11216,Urban Planner,Pratt Institute,200,Willoughby Ave,Brooklyn,NY,200,0,0
+R0004086,4/20/2015,,"Fruchthandler, Paul",IND,K,Brooklyn,NY,11234,Managing Director,S & P Realty Group,3021,Quentin Rd,Brooklyn,NY,1000,175,0
+R0005099,4/18/2016,,"Fuste, Maria C",IND,Q,Sunnyside,NY,11104,Producer,Boundless Theatre,41-21,42nd Street,Sunnyside,NY,50,50,0
+R0004965,4/8/2016,,"Fuster, Silvia",IND,K,Brooklyn,NY,11249,CFO,Vamos Architecture,100,N 3rd Street,Brooklyn,NY,100,0,0
+R0003865,4/2/2015,,"Galarza, Jose",IND,X,Bronx,NY,10473,Owner / Chef,SABOR BORINQUENO,205,East 122nd Street,Bronx,NY,50,50,0
+R0003165,12/5/2013,,"Gallego, George",IND,M,New York,NY,10029,Founder & CEO,Wheels of Progress,64,East 111th St,New York,NY,250,0,0
+R0003185,12/10/2013,,"Galvan, Maria D",IND,M,New York,NY,10031,Educator,Retiree,,,,,50,0,0
+R0004199,4/24/2015,,"Garber, Symon",IND,Q,Long Island City,NY,11101,President,Yellow Cab SLSJET,22-05,43rd Avenue,Long Island City,NY,2000,0,0
+R0004566,10/30/2015,,"Garcia, Michael",IND,Z,Irvington,NY,10533,Lawyer,Kirkland + Ellis,601,Lexington Avenue,New York,NY,2500,0,0
+R0004991,4/12/2016,,"Gerena-Rochet, Milagros",IND,M,New York,NY,10031,Housing Specialist,UHAB,120,Wall Street,New York,NY,50,50,0
+R0005187,4/20/2016,,"Gerstman, Cheryl",IND,Z,Roslyn,NY,11576,Unemployed,,,,,,400,0,0
+R0003989,4/20/2015,,"Giannoulis, Harry",IND,Q,Little Neck,NY,11363,Owner,The Parkside Group,132,Nassau Street,New York,NY,400,0,0
+R0005366,6/16/2016,,"Gibbons, John F",IND,Z,Western Springs,IL,60558,Attorney,Greenberg Traurig LLP,77,W Wacker Drive,Chicago,IL,250,0,0
+R0003929,4/7/2015,,"Gil, Rosa Maria",IND,M,New York,NY,10014,President & CEO,"Comunilife, Inc",214,W 29th St,New York,NY,50,0,0
+R0005033,4/13/2016,,"Gil, Rosa Maria",IND,M,New York,NY,10014,President & CEO,"Comunilife, Inc",214,W 29th St,New York,NY,50,0,50
+R0003173,12/5/2013,,"Gleason, Peter J",IND,M,New York,NY,10013,Attorney,self employed,53,N. Moore St.,New York,NY,250,0,0
+R0003213,12/15/2013,,"Gleason, Peter J",IND,M,New York,NY,10013,Attorney,self employed,53,N. Moore St.,New York,NY,1000,0,250
+R0004935,3/25/2016,,"Gleberman, Joseph",IND,M,New York,NY,10023,Investor,The Pritzker Organization,660,Madison Avenue,New York,NY,2500,175,0
+R0003181,12/9/2013,,"Glenn, Anne",IND,Z,Villanova,PA,19085,home maker,,,,,,3850,0,0
+R0004764,1/8/2016,,"Gleser, Caroline",IND,M,New York,NY,10011,Hospitality,Wellington Hotel,871,Seventh Avenue,New York,NY,2500,175,0
+R0003229,12/18/2013,,"Glickman, Leo",IND,M,New York,NY,10033,Attorney,"Stoll, Glickman & Bellini, LLP",475,Atlantic Avenue,Brooklyn,NY,200,0,0
+R0005350,6/2/2016,,"Gluck, Eugen",IND,Q,Forest Hills,NY,11375,CEO,E. Gluck Corporation,60-15,Little Neck Parkway,Little Neck,NY,500,0,0
+R0004155,4/30/2015,,"Gol, Jane",IND,M,New York,NY,10028,Developer,Continental Ventures LLC,641,Lexington Avenue,New York,NY,1000,175,0
+R0004961,4/8/2016,,"Golan, Jay",IND,M,New York,NY,10016,Executive Director,Graduate Center,365,Fifth Avenue,New York,NY,500,175,0
+R0003829,4/2/2015,,"Goldberg Velazquez, Elena M",IND,Z,Bronx,NY,10701,Attorney,NYS Courts,27,Madison Avenue,New York,NY,50,0,0
+R0004955,4/7/2016,,"Goldberg, Israel",IND,K,Brooklyn,NY,11210,Attorney,Goldberg & Rimberg,115,Broadway,New York,NY,500,175,0
+R0004984,4/12/2016,,"Goldberg, Robert",IND,Z,Putney,VT,5346,Executive,Yorke Construction Corp.,140,West 31st Street,New York,NY,500,0,0
+R0005181,4/18/2016,,"Goldstein, Ira J",IND,Q,Bayside,NY,11360,Executive Director,The Black Car Fund,30,Wall Street,New York,NY,500,175,0
+R0005100,4/18/2016,,"Gonzalez, Erica",IND,M,New York,NY,10029,Senior Advisor,NYC Council,250,Broadway,New York,NY,150,150,0
+R0003885,4/2/2015,,"Gonzalez, Louis",IND,M,New York,NY,10029,Developer,Maggy London International,530,Seventh Ave,New York,NY,100,100,0
+R0005025,4/12/2016,,"Gonzalez, Teresa",IND,K,Brooklyn,NY,11211,Principal,DalyGonzalez LLC,85,Broad ST,New York,NY,100,0,0
+R0004773,1/11/2016,,"Gonzalez-Rojas, Jessica",IND,Q,Jackson Heights,NY,11372,Executive Director,NLIRH,50,Broad Street,New York,NY,50,0,0
+R0003798,3/19/2015,,"Goodman, Jeffrey L",IND,Z,Huntington,NY,11743,Attorney,Law Offices of Jeffrey Goodman,450,Seventh Avenue,New York,NY,1500,0,0
+R0004242,3/24/2015,,"Goodman, Jeffrey L",IND,Z,Huntington,NY,11743,Attorney,Law Offices of Jeffrey Goodman,450,Seventh Avenue,New York,NY,1500,0,1500
+R0003779,3/20/2015,,"Gordon, Alana",IND,K,Brooklyn,NY,11201,Sales Rep,Case Cash,520,Eighth Avenue,New York,NY,1500,175,0
+R0004751,1/11/2016,,"Goren, Lela",IND,M,New York,NY,10011,Unemployed,,,,,,4950,0,0
+R0004601,12/30/2015,,"Gottsegen, Paul",IND,M,New York,NY,10021,Real Estate Manager,Halstead Management,770,Lexington Avenue,New York,NY,2,2,0
+R0004609,12/31/2015,,"Gottsegen, Paul",IND,M,New York,NY,10021,Real Estate Manager,Halstead Management,770,Lexington Avenue,New York,NY,248,173,2
+R0003854,4/2/2015,,"Grajales, Jose M",IND,M,New York,NY,10029,Attorney,Law Office of Joseph A. Romano,420,Lexington Avenue,New York,NY,50,0,0
+R0003163,12/5/2013,,"Grajales, Neva M",IND,M,New York,NY,10029,Grants Administrator,Albert Einstein College of Med,1300,Morris Park Ave,Bronx,NY,50,0,0
+R0003920,4/2/2015,,"Greenberg, David",IND,Z,Port Washington,NY,11050,Consultant,Greenberg Capital,1,North End Avenue,New York,NY,50,0,0
+R0005327,5/26/2016,,"Greene, Robert",IND,Z,Levittown,NY,11756,HVAC,Self Employed,11,Ramble Lane,Levittown,NY,2000,0,0
+R0005273,5/4/2016,,"Grimes, Robert S",IND,M,New York,NY,10128,Consultant,Self Employed,1125,Park Avenue,New York,NY,250,175,0
+R0005321,5/26/2016,,"Guazzo, Delia M",IND,M,New York,NY,10011,Attorney,Self Employed,488,Madison Avenue,New York,NY,500,175,0
+R0005107,4/18/2016,,"Guerrero, Manuel",IND,M,New York,NY,10029,Consulting,Self Employed,309,East 110th Street,New York,NY,100,100,0
+R0003845,4/2/2015,,"Guillen, Juan",IND,Q,Woodhaven,NY,11421,CEO,LatinTRENDS,330,West 38th Street,New York,NY,50,50,0
+R0004724,1/9/2016,,"Gural, Jeffrey",IND,M,New York,NY,10024,Real Estate,Newmark Grubb Knight & Frank,125,Park Avenue,New York,NY,400,0,0
+R0004718,1/9/2016,,"Gural, Paula",IND,M,New York,NY,10024,Housewife,,,,,,2500,175,0
+R0004771,1/7/2016,,"Guttman, Jack",IND,Z,Cedarhurst,NY,11516,Real Estate Development,Pearl Management LLC,202,Plymouth Street,Brooklyn,NY,250,0,0
+R0004670,1/7/2016,,"Guzman, Marisol",IND,S,Staten Island,NY,10303,Chief Program Officer,Sports & Arts in School Founda,58-12,Queens Blvd,Woodside,NY,250,0,0
+R0003715,2/16/2015,,"Hager, Chaim",IND,K,Brooklyn,NY,11219,Member,Cornell Realty Management LLC,75,Huntington Street,Brooklyn,NY,2750,175,0
+R0003156,12/4/2013,,"Hansen, Jens Peter",IND,M,New York,NY,10009,Construction,"Monadnock Construction, Inc.",155,Third ST,Brooklyn,NY,100,0,0
+R0003887,4/2/2015,,"Harley, Hope",IND,Z,Teaneck,NJ,7666,retired,,,,,,50,0,0
+R0005183,4/18/2016,,"Haroutunian, Berj",IND,Q,Astoria,NY,11102,Executive,Vital Transportation Inc.,41-24,38th Street,Long Island City,NY,500,175,0
+R0003922,4/2/2015,,"Harrington, Stephen P",IND,Z,Philadelphia,PA,19118,Investor,SPH Investments,600,W Germantown Pike,Plymouth Meeting,PA,250,0,0
+R0004570,11/30/2015,,"Haseltine, William A",IND,M,New York,NY,10017,Retired,,,,,,1000,0,0
+R0005319,11/30/2015,,"Haseltine, William A",IND,M,New York,NY,10017,Retired,,,,,,2045,0,0
+R0003328,12/28/2013,,"Hassan, Khaled",IND,K,Brooklyn,NY,11229,Psychiatry Resident,Brookdale Hospital,1,Brookdale Plaza,Brooklyn,NY,50,0,0
+R0004792,1/20/2016,,"Hawkins, Laura J",IND,Q,Sunnyside,NY,11104,Lobbyist,Hawkins Consulting Inc.,4502,Ditmars Blvd,Astoria,NY,250,0,0
+R0003828,4/2/2015,,"Hayduk, Ron",IND,Q,Jackson Heights,NY,11372,Professor,Queens College CUNY,65-30,Kissena Blvd,Flushing,NY,50,50,0
+R0003894,4/2/2015,,"Hayes, Stephen J",IND,M,New York,NY,10011,Exec. Vice President,Carey Group LLC,100,Wall Street,New York,NY,100,0,0
+R0005037,4/13/2016,,"Hayes, Stephen J",IND,M,New York,NY,10011,Exec. Vice President,Carey Group LLC,100,Wall Street,New York,NY,100,0,100
+R0003258,12/20/2013,,"Hayes, Susan L",IND,Z,Oradell,NJ,7649,President,"Cauldwell Wingate Company, LLC",380,Lexington Avenue,New York,NY,1000,0,0
+R0004197,4/24/2015,,"Hecker, Eric",IND,K,Brooklyn,NY,11215,Attorney,Cuti Hecker Wang LLP,305,Broadway,New York,NY,500,175,0
+R0004105,4/20/2015,,"Hellman, Marvin",IND,K,Brooklyn,NY,11219,Owner,Hellman Management,5414,New Utrecht Avenue,Brooklyn,NY,1000,175,0
+R0003144,11/22/2013,,"Henry, Sherrye",IND,M,New York,NY,10017,retired,retired,,,,,50,0,0
+R0003967,4/15/2015,,"Hera, Issac",IND,M,New York,NY,10024,CEO,BCRE Brack Capital Real Estate,885,Third Avenue,New York,NY,1000,175,0
+R0003712,2/16/2015,,"Herman, Pinches",IND,K,Brooklyn,NY,11219,COO,Cornell Realty Management LLC,75,Huntington St.,Brooklyn,NY,2250,175,0
+R0003223,12/18/2013,,"Hernandez, Ramona",IND,K,Brooklyn,NY,11218,Professor,CUNY,160,Convent Avenue,New York,NY,250,0,0
+R0004858,3/3/2016,,"Hillman, Adria",IND,M,New York,NY,10023,Attorney,Self Employed,41,East 57th Street,New York,NY,500,175,0
+R0005021,4/12/2016,,"Hindy, Stephen K",IND,K,Brooklyn,NY,11215,Founder,Brooklyn Brewery,79,North 11th ST,Brooklyn,NY,500,175,0
+R0004008,4/16/2015,,"Holden, Kimberly J",IND,M,New York,NY,10011,Architect,SHoP Architects PC,233,Broadway,New York,NY,400,175,0
+R0003379,1/5/2014,,"Hossain, Kazi M",IND,Q,Elmhurst,NY,11373,Bartender,Hotel Plaza Athenee,37,E 64th Street,New York,NY,100,0,0
+R0003294,12/28/2013,,"Hossain, Mohd A",IND,Q,New Hyde Park,NY,11040,Medical Doctor,self employed,164-46,84th Avenue,Jamaica,NY,500,0,0
+R0005740,7/7/2016,,"Hossain, Tofathun",IND,Z,Tuckahoe,NY,10707,Construction,B & H Contracting Corp.,7129,Roosevelt Ave,Jackson Heights,NY,1000,0,0
+R0003225,12/18/2013,,"Hughes, Gonzalia",IND,Z,Scarsdale,NY,10583,Real Estate Agent,self employed,48,Carthage Road,Scarsdale,NY,1000,0,0
+R0003851,4/2/2015,,"Hunt, Gregory",IND,M,New York,NY,10023,Owner,Amsterdam Billiard Associates,110,E 11th Street,New York,NY,500,175,0
+R0003698,1/31/2015,,"Ibarria, Antonio",IND,Z,West New York,NJ,7093,Publisher,"U.S.A. Distributors, Inc.",3711,Hudson Avenue,Union City,NJ,1000,0,0
+R0005782,7/8/2016,,"Ibarria, Antonio",IND,Z,West New York,NJ,7093,Publisher,"U.S.A. Distributors, Inc.",3711,Hudson Avenue,Union City,NJ,2000,0,1000
+R0005771,7/8/2016,,"Iglesias, Robinson",IND,S,Staten Island,NY,10304,Attorney,Law Office Robinson Iglesias,16,Court ST,Brooklyn,NY,100,100,0
+R0004672,1/7/2016,,"Imas, Karina",IND,Q,Forest Hills,NY,11375,Managing Director,Connelly McLaughlin & Woloz,233,Broadway,New York,NY,250,0,0
+R0003914,4/2/2015,,"Irizarry, Iris M",IND,M,New York,NY,10025,Program Specialist,NYC DOHM it,42-09,28th Street,Long Island City,NY,100,100,0
+R0003341,1/5/2014,,"Islam, Mohammed F",IND,Q,Jamaica,NY,11432,Businessman,Fatema Grocery,167-11,Hillside Avenue,Jamaica,NY,100,0,0
+R0003271,12/22/2013,,"Jaber, Ahmad M",IND,K,Brooklyn,NY,11209,retired,retired,,,,,100,0,0
+R0004644,1/7/2016,,"Jacobs, Ann L",IND,Z,Hastings On Hudson,NY,10706,Director PRI,CUNY John Jay College,555,W 57th Street,New York,NY,50,0,0
+R0004361,7/8/2015,,"Jaffa, Jack",IND,K,Brooklyn,NY,11210,CEO,Jack Jaffa & Associates,147,Prince Street,Brooklyn,NY,500,175,0
+R0003622,10/8/2014,,"Jenkins, Patrick B",IND,Q,Jamaica,NY,11436,Consultant,Patrick B. Jenkins & Associate,114-35,140th Street,Jamaica,NY,250,0,0
+R0003240,12/18/2013,,"Jimenez, Louis",IND,Z,Cold Sping Harbor,NY,11724,Treasurer,Montauk Credit Union,559,Main Street,New York,NY,150,0,0
+R0004330,6/26/2015,,"Jimenez, Louis",IND,Z,Cold Sping Harbor,NY,11724,Treasurer,Montauk Credit Union,559,Main Street,New York,NY,500,0,150
+R0003955,4/16/2015,,"Jobbagy, John",IND,M,New York,NY,10010,Wholesale Meat,"J.T. Jobbagy, Inc.",832,Washington Street,New York,NY,400,175,0
+R0004019,4/20/2015,,"Jobbagy, John",IND,M,New York,NY,10010,Wholesale Meat,"J.T. Jobbagy, Inc.",832,Washington Street,New York,NY,500,0,400
+R0004604,12/26/2015,,"Jobbagy, John",IND,M,New York,NY,10010,Wholesale Meat,"J.T. Jobbagy, Inc.",832,Washington Street,New York,NY,400,0,900
+R0004546,11/17/2015,,"Joseph, Jahmila",IND,K,Brooklyn,NY,11216,Labor Representative,DC37,125,Barclay St.,New York,NY,100,0,0
+R0004943,4/4/2016,,"Juarez, Nico",IND,K,Brooklyn,NY,11237,Owner,Juarez Custom Metal,1717,Troutman Street,Ridgewood,NY,100,100,0
+R0005192,4/28/2016,,"Junco, Maria T",IND,M,New York,NY,10035,Communications,City of New York DOE,52,Chambers Street,New York,NY,100,100,0
+R0003233,12/18/2013,,"Kabessa, Avik",IND,Z,Rye,NY,10580,CEO,Carmel Car & Limo Service,2642,Broadway,New York,NY,2000,0,0
+R0004551,11/17/2015,,"Kabessa, Avik",IND,Z,Rye,NY,10580,CEO,Carmel Car & Limo Service,2642,Broadway,New York,NY,500,0,2000
+R0004957,4/7/2016,,"Kafin, Robert",IND,M,New York,NY,10021,Lawyer,Proskauer Rose LLP,11,Times Square,New York,NY,500,175,0
+R0003932,4/10/2015,,"Kahn, Ari",IND,M,New York,NY,10011,Business Development,Move Systems,29-28,41st Avenue,Long Island City,NY,50,0,0
+R0004677,1/8/2016,,"Kahn, Ari",IND,M,New York,NY,10011,Business Development,Move Systems,29-28,41st Avenue,Long Island City,NY,250,0,50
+R0004209,4/23/2015,,"Kalafatis, John",IND,Z,Great Neck,NY,11021,CEO,Skyline Restoration,20-Nov,37th Avenue,Long Island City,NY,500,0,0
+R0005039,4/13/2016,,"Kamali, Barry",IND,Z,Great Neck,NY,11021,Real Estate Developer,Self Employed,40,Cutter Mill Road,Great Neck,NY,4950,0,0
+R0003251,12/19/2013,,"Kamali, Norma",IND,M,New York,NY,10014,Owner,Norma Kamali,11,West 56th Street,New York,NY,3850,0,0
+R0004468,8/5/2015,,"Karimzada, Mohammed",IND,Z,Plainview,NY,11803,Police Sergeant,City of NY,1,Police Plaza Path,New York,NY,200,0,0
+R0005368,6/16/2016,,"Karp, Warren J",IND,M,New York,NY,10065,Attorney,Greenberg Traurig LLP,200,Park Avenue,New York,NY,250,0,0
+R0004634,1/6/2016,,"Kato, Ai",IND,M,New York,NY,10010,Art Director,Hyatt,151,E Upper Wacker Drive,Chicago,IL,500,175,0
+R0003177,12/9/2013,,"Katz, Lewis",IND,Z,Boca Raton,FL,33432,Lawyer & Consultant,self employed,905,N. Kings Highway,Cherry Hill,NJ,3850,0,0
+R0004779,1/8/2016,,"Katz, Paul M",IND,M,New York,NY,10014,CEO / Founder,Cause Entertainment Agency,244,West 12th Street,New York,NY,100,100,0
+R0003242,12/18/2013,,"Kaufman, Alan S",IND,Z,Jericho,NY,11753,Banker,Melrose Credit Union,139-30,Queens Blvd,Jamaica,NY,150,0,0
+R0004101,4/20/2015,,"Kaufman, Alan S",IND,Z,Jericho,NY,11753,Banker,Melrose Credit Union,139-30,Queens Blvd,Jamaica,NY,1000,0,150
+R0003917,4/4/2015,,"Kaufman, Gene",IND,M,New York,NY,10014,Architect,Self Employed,525,Broadway,New York,NY,500,175,0
+R0004775,1/12/2016,,"Kay, Jeffrey",IND,Z,Melville,NY,11747,Chief Operating Officer,Muss Development LLC,118-35,Queens Blvd,Forest Hills,NY,250,0,0
+R0003434,2/6/2014,,"Kay, Richard",IND,Z,East Meadow,NY,11554,CEO,LOMTO FCU,180,Riverside Blvd,New York,NY,150,0,0
+R0004273,5/13/2015,,"Kay, Richard",IND,Z,East Meadow,NY,11554,CEO,LOMTO FCU,180,Riverside Blvd,New York,NY,500,0,150
+R0004710,1/8/2016,,"Kay, Richard",IND,Z,East Meadow,NY,11554,CEO,LOMTO FCU,180,Riverside Blvd,New York,NY,250,0,650
+R0003899,4/2/2015,,"Kellner, Elizabeth K",IND,M,New York,NY,10025,attorney,retired,,,,,75,75,0
+R0004845,2/17/2016,,"Kelly, Lynn B",IND,K,Brooklyn,NY,11215,CEO,Snug Harbor Cultural Center,100,Richmond Terrace,Staten Island,NY,250,0,0
+R0003304,12/28/2013,,"Khadr, Mohamed",IND,S,Staten Island,NY,10304,retired,retired,,,,,50,0,0
+R0003273,12/22/2013,,"Khan, Khyume",IND,Q,Hollis,NY,11423,Police Officer,NYPD,One,Police Plaza,New York,NY,50,0,0
+R0004464,8/5/2015,,"Khan, Nasrullah",IND,K,Brooklyn,NY,11230,Physician,Self Employed,29,Newkirk Plaza,Brooklyn,NY,500,175,0
+R0003326,12/28/2013,,"Khan, Yasin",IND,S,Staten Island,NY,10303,,Alexandria Condominium,201,West 72nd ST,New York,NY,50,0,0
+R0005114,4/18/2016,,"Kim, Jean",IND,M,New York,NY,10075,Lobbyist,TLM Associates,233,Broadway,New York,NY,200,0,0
+R0004898,3/10/2016,,"Kimball, Kyle",IND,K,Brooklyn,NY,11215,Government Relations,Con Edison Co of New York,4,Irving Place,New York,NY,400,175,0
+R0004011,4/16/2015,,"Kirby, Paula C",IND,Z,Larchmont,NY,10538,Managing Director,PLAXALL Inc,May-46,46th Avenue,Long Island City,NY,1000,0,0
+R0003207,12/16/2013,,"Klein, Carolyn J",IND,K,Brooklyn,NY,11201,Billing Manager,Stuart A Klein Esquire,90,Broad Street,New York,NY,200,0,0
+R0005121,4/18/2016,,"Klein, George",IND,M,New York,NY,10022,Executive,Park Tower Group,535,Madison Avenue,New York,NY,2000,0,0
+R0003205,12/16/2013,,"Klein, Stuart A",IND,K,Brooklyn,NY,11201,Owner,Stuart A Klein Esquire,90,Broad ST,New York,NY,200,0,0
+R0004026,4/20/2015,,"Kleinbaum, Benjamin R",IND,K,Brooklyn,NY,11238,Consultant,Capalino & Company,233,Broadway,New York,NY,250,0,0
+R0004207,4/23/2015,,"Kleinman, Elly",IND,K,Brooklyn,NY,11210,President,Americare Companies,171,Kings Highway,Brooklyn,NY,500,175,0
+R0004291,5/26/2015,,"Knepper, Robert",IND,Z,Great Neck,NY,11021,Unemployed,,,,,,1000,0,0
+R0003217,12/7/2013,,"Knox, John E",IND,Q,Belle Harbor,NY,11694,retired,retired,,,,,100,0,0
+R0003992,4/22/2015,,"Koehler, Stan",IND,M,New York,NY,10035,Director,Peace on The Streets,451,E 117th Street,New York,NY,200,0,0
+R0005115,4/18/2016,,"Koehler, Stan",IND,M,New York,NY,10035,Director,Peace on The Streets,451,E 117th Street,New York,NY,250,175,200
+R0004119,4/20/2015,,"Konstantinides, Daphne",IND,Z,Great Neck,NY,11021,Legal Counsel,Omega EMS Brokerage,34-20,31st Street,Astoria,NY,1000,0,0
+R0004121,4/20/2015,,"Konstantinides, Savas",IND,Z,Great Neck,NY,11021,President,Omega EMS Brokerage,34-20,31st Street,Astoria,NY,1000,0,0
+R0005017,4/6/2016,,"Konstantinides, Savas",IND,Z,Great Neck,NY,11021,President,Omega EMS Brokerage,34-20,31st Street,Astoria,NY,500,0,1000
+R0004032,4/20/2015,,"Kreizman, Fred A",IND,K,Brooklyn,NY,11238,Lobbyist,Capalino & Company,233,Broadway,New York,NY,400,0,0
+R0005011,4/6/2016,,"Kremer, Arthur J",IND,M,New York,NY,10128,Govt. Affairs,Empire Govt. Strategies,1425,Rxr Plaza,Uniondale,NY,250,0,0
+R0004053,4/20/2015,,"Kretchmer, Jerome",IND,M,New York,NY,10024,Entrepeneur,Self Employed,350,Fifth Avenue,New York,NY,250,0,0
+R0005062,4/12/2016,,"Kristel, Steven",IND,Z,Syosset,NY,11791,Restaurant Owner,Bo's Kitchen & Bar Room,6,West 24th Street,New York,NY,1000,0,0
+R0004371,7/8/2015,,"Kupperman, Janice",IND,Z,Deerfield,IL,60015,Housewife,,,,,,2500,0,0
+R0003296,12/28/2013,,"Kurtulus, Ibrahim",IND,S,Staten Island,NY,10306,Investment Banker,Meyers Associates LP,45,Broadway,New York,NY,250,0,0
+R0004777,1/12/2016,,"Lane, Eric",IND,Z,East Chatham,NY,12060,Law School Dean,Hofstra University,121,California Avenue,Hempstead,NY,250,0,0
+R0005163,4/15/2016,,"LaRue, Les B",IND,M,New York,NY,10029,Graphic Designer,SMART,1223,PO BOX 1223 Hell Gate Station,New York,NY,75,75,0
+R0004662,1/7/2016,,"Lattanzio, Javier M",IND,M,New York,NY,10025,Director of Sales,"Times Equities, Inc.",55,Fifth Avenue,New York,NY,250,175,0
+R0005358,6/11/2016,,"Leacox, Jeffrey F",IND,Z,El Macero,CA,95618,Attorney,Greenberg Traurig LLP,1201,K Street,Sacramento,CA,400,0,0
+R0005706,6/23/2016,,"Lebovits, Meyer",IND,K,Brooklyn,NY,11219,Owner,ML Hallets Holdiongs,1271,45th Street,Brooklyn,NY,1000,175,0
+R0003312,12/19/2013,,"Legrant, Lorin",IND,Z,San Diego,CA,92101,Paralegal,Finkelstein & Krinks LLP,501,W. Broadway,San Diego,CA,3000,0,0
+R0003794,3/20/2015,,"Leigh Gonzalez, Heaven",IND,K,Brooklyn,NY,11226,Personal Assistant,Case Cash,520,8th Avenue,New York,NY,1500,175,0
+R0003800,3/28/2015,,"Lembo, Nicholas",IND,K,Brooklyn,NY,11231,Construction / Real Estate,"Monadnock Construction, Inc.",155,3rd Street,Brooklyn,NY,100,0,0
+R0003862,4/2/2015,,"Lence, George",IND,Z,Sleepy Hollow,NY,10591,President,Nicholas & Lence,28,West 44th St,New York,NY,100,0,0
+R0004803,2/19/2016,,"Leo, Joseph",IND,M,New York,NY,10027,CEO,Def Method Inc.,336,West 37th Street,New York,NY,1,0,0
+R0004811,2/5/2016,,"Levenson, Steve H",IND,Z,Newport Beach,CA,92660,Real Estate,Home Fed Corporation,1903,Wright Place,Carlsbad,CA,100,0,0
+R0005363,6/16/2016,,"Levin, Brenda",IND,M,New York,NY,10017,Land Use Consultant,Self Employed,301,East 48th Street,New York,NY,400,0,0
+R0004608,1/2/2016,,"Levine, Robert A",IND,M,New York,NY,10007,Developer,R.A.L. Development Services,434,Broadway,New York,NY,250,175,0
+R0003799,3/28/2015,,"Levinson, David W",IND,M,New York,NY,10021,Real Estate Investor,"L+L Holding Company, LLC",142,West 57th St,New York,NY,500,175,0
+R0005137,4/27/2016,,"Levinson, David W",IND,M,New York,NY,10021,Real Estate Investor,"L+L Holding Company, LLC",142,West 57th St,New York,NY,500,0,500
+R0005398,6/23/2016,,"Levy, Laurence",IND,Q,New Hyde Park,NY,11040,Attorney,"Greenberg Traurig, LLP",200,Park Avenue,New York,NY,250,0,0
+R0005171,4/18/2016,,"Leynse, Andrew",IND,M,New York,NY,10027,Theater Producer,Primary Stages,307,West 38th Street,New York,NY,500,175,0
+R0005724,7/1/2016,,"Lichota, Christine M",IND,Z,Old Brookville,NY,11545,Financial Controller,Adam's European Contracting,589,Johnson Avenue,Brooklyn,NY,400,0,0
+R0005722,7/1/2016,,"Lichota, Luke",IND,Z,Old Brookville,NY,11545,Vice President,Adam's European Contracting,589,Johnson Avenue,Brooklyn,NY,400,0,0
+R0005704,6/1/2016,,"Lieber, John",IND,K,Brooklyn,NY,11226,Real Estate Executive,WTC Properties LLC,7,WTC 250 Greenwich ST,New York,NY,250,0,0
+R0005003,4/6/2016,,"Liebeskind, Luz",IND,Z,Syosset,NY,11791,CFO,Hebrew Home at Riverdale,5901,Palisade Avenue,Bronx,NY,400,0,0
+R0004881,3/7/2016,,"Lima, James",IND,M,New York,NY,10011,Consultant,Self Employed,120,Fifth Avenue,New York,NY,250,175,0
+R0005176,4/18/2016,,"Limongi, Shirley",IND,Q,Sunnyside,NY,11104,Communications,New York City Council,250,Broadway,New York,NY,50,50,0
+R0004006,4/19/2015,,"Linden, Lisa",IND,M,New York,NY,10025,Public Relations,LAK Public Relations,1251,Avenue of the Americas,New York,NY,1000,175,0
+R0003890,4/2/2015,,"Llambelis, Lillian",IND,M,New York,NY,10025,Attorney,City of New York,30-30,Thomson Avenue,Long Island City,NY,100,100,0
+R0004993,4/12/2016,,"Llambelis, Lillian",IND,M,New York,NY,10025,Attorney,City of New York,30-30,Thomson Avenue,Long Island City,NY,100,75,100
+R0005299,5/2/2016,,"Locantro, William",IND,M,New York,NY,10075,Electrical Contracting,"Absolute Electric, Inc.",146,W 29th Street,New York,NY,1400,0,0
+R0003749,3/21/2015,,"LoCicero, Jo",IND,M,New York,NY,10023,Retired,,,,,,500,0,0
+R0003937,4/15/2015,,"LoCicero, Jo",IND,M,New York,NY,10023,Retired,,,,,,500,0,500
+R0003747,3/21/2015,,"LoCicero, John B",IND,M,New York,NY,10023,President,"LoCicero & Tan, Inc.",123,William Street,New York,NY,250,0,0
+R0005359,6/11/2016,,"LoCicero, John B",IND,M,New York,NY,10023,President,"LoCicero & Tan, Inc.",123,William Street,New York,NY,150,0,250
+R0004272,5/13/2015,,"Loise, Michael",IND,Z,Oceanside,NY,11572,Vice President,M&S Mechanical CORP,855,Conklin Street,Farmingdale,NY,250,0,0
+R0005364,6/16/2016,,"Lonergan, Kristen J",IND,Q,Forest Hills,NY,11375,Attorney,Greenberg Traurig LLP,200,Park Avenue,New York,NY,250,175,0
+R0003837,4/2/2015,,"Lopez, Arnaldo",IND,M,New York,NY,10025,Development Officer,Pregones Theater,571-575,Walton Avenue,Bronx,NY,50,50,0
+R0004992,4/12/2016,,"Lopez, Arnaldo",IND,M,New York,NY,10025,Development Officer,Pregones Theater,571-575,Walton Avenue,Bronx,NY,50,50,50
+R0005081,4/18/2016,,"Lopez, Wanda E",IND,M,New York,NY,10035,Chiropractor,self-employed,120,E 56th Street,New York,NY,100,100,0
+R0003697,1/31/2015,,"Lopez-Rosado, Esteban A",IND,Z,Guaynabo,PR,966,Lawyer,"LGA Strategies, LLC",380,Escorial Avenue,Caparra Heights,PR,2500,0,0
+R0003825,4/1/2015,,"Low, Stephanie",IND,M,New York,NY,10029,Arts Manager,self-employed,1215,5th Avenue,New York,NY,250,175,0
+R0003755,3/25/2015,,"Lowenfeld, David",IND,X,Bronx,NY,10471,Real Estate Developer,World-Wide Group,950,Third Avenue,New York,NY,250,175,0
+R0004143,4/23/2015,,"Lowenfeld, David",IND,X,Bronx,NY,10471,Real Estate Developer,World-Wide Group,950,Third Avenue,New York,NY,400,0,250
+R0003826,4/1/2015,,"Lugo, Eric",IND,M,New York,NY,10016,Higher Ed Officer,Baruch College CUNY,1,Bernard Baruch Way,New York,NY,50,50,0
+R0004260,5/13/2015,,"Lundin, Britta",IND,Q,Forest Hills,NY,11375,VP,Young & Rubicam,3,Columbus Circle,New York,NY,250,175,0
+R0004071,4/20/2015,,"Lynch, Patricia",IND,Z,Greenwich,CT,6831,Owner,Patricia Lynch Associates,1,Penn Plaza,New York,NY,250,0,0
+R0005016,4/6/2016,,"Lynford, Tondra C",IND,M,New York,NY,10022,Clinical Psychotherapist MSW,Self Employed,785,5th Avenue,New York,NY,500,0,0
+R0005200,4/6/2016,4/20/2016,"Lynford, Tondra C",IND,M,New York,NY,10022,,,,,,,-500,0,0
+R0003430,1/27/2014,,"Lyston, Laura",IND,Z,Medford,NY,11763,Controller,YAI,460,W 34th Street,New York,NY,100,0,0
+R0003267,12/17/2013,,"M. Bari, Khan",IND,M,New York,NY,10025,Public Finance Specialist,NYC DOHMH,125,Worth ST,New York,NY,50,0,0
+R0003424,2/10/2014,,"Mack, Fredric",IND,M,New York,NY,10028,Real Estate Partner,The Mack Company,2115,Linwood Avenue,Fort Lee,NJ,1000,0,0
+R0003635,10/23/2014,,"Mack, Fredric",IND,M,New York,NY,10028,Real Estate Partner,The Mack Company,2115,Linwood Avenue,Fort Lee,NJ,1500,175,1000
+R0003704,2/24/2015,,"Mack, Fredric",IND,M,New York,NY,10028,Real Estate Partner,The Mack Company,2115,Linwood Avenue,Fort Lee,NJ,1000,0,2500
+R0005128,4/18/2016,,"Mack, Fredric",IND,M,New York,NY,10028,Real Estate Partner,The Mack Company,2115,Linwood Avenue,Fort Lee,NJ,1000,0,3500
+R0005377,6/17/2016,,"Mack, William B",IND,M,New York,NY,10280,Attorney,Greenberg Traurig LLP,200,Park Avenue,New York,NY,50,0,0
+R0003655,11/17/2014,,"Madruga, Jorge",IND,Z,Sands Point,NY,11050,RE Developer,Maddd Equities LLC,15,Verbena Ave,Floral Park,NY,2750,0,0
+R0003689,11/17/2014,1/29/2015,"Madruga, Jorge",IND,Z,Sands Point,NY,11050,,,,,,,-2500,0,0
+R0003839,4/2/2015,,"Magerkurth, Ian",IND,Q,Woodside,NY,11377,Vice President,Driscoll Group Inc,118-35,Queens Blvd,Forest Hills,NY,50,0,0
+R0003286,12/22/2013,,"Mahmood, Mohammad A",IND,Z,Dix Hills,NY,11746,CPA,M.A. Mahmood CPA PC,1261,Broadway,New York,NY,500,0,0
+R0003820,3/31/2015,,"Maldonado, Yolanda",IND,M,New York,NY,10029,Radiology Dept. staff,Bellevue Hospital,462,1st Avenue,New York,NY,100,100,0
+R0004453,8/5/2015,,"Malek, Shahin",IND,Q,Flushing,NY,11355,Taxi Driver,Self Employed,43-70,Kissena Blvd,Flushing,NY,100,100,0
+R0004836,2/18/2016,,"Manley, Jennifer E",IND,K,Brooklyn,NY,11201,Government Relations,"Davidoff Hutcher & Citron, LLP",605,Third Avenue,New York,NY,100,0,0
+R0003843,4/2/2015,,"Mann, Raju",IND,K,Brooklyn,NY,11205,Land Use Director,City Council,250,Broadway,New York,NY,100,0,0
+R0004246,5/13/2015,,"Manshel, Andrew M",IND,M,New York,NY,10025,EVP,Greater Jamaica Development Co,90-04,161st Street,Jamaica,NY,400,0,0
+R0004981,4/12/2016,,"Marazzi, Stefanie",IND,K,Brooklyn,NY,11215,Attorney,Slater & Beckerman LLP,61,Broadway,New York,NY,100,0,0
+R0004356,7/2/2015,,"Marcus, Linda",IND,M,New York,NY,10023,Unemployed,,,,,,4950,0,0
+R0004362,7/2/2015,7/9/2015,"Marcus, Linda",IND,M,New York,NY,10023,,,,,,,-4950,0,0
+R0004088,4/20/2015,,"Marmurstein, Zev",IND,K,Brooklyn,NY,11229,President,Twin America LLC,1430,Broadway,New York,NY,1000,175,0
+R0004615,1/4/2016,,"Martin, Clifton",IND,M,New York,NY,10280,Real Estate,"Times Equities, Inc.",55,Fifth Avenue,New York,NY,250,175,0
+R0003969,4/16/2015,,"Marvel, Jonathan",IND,M,New York,NY,10013,Principal Architect,Marvel Architects,145,Hudson Street,New York,NY,1000,0,0
+R0004930,3/21/2016,,"Marvel, Jonathan",IND,K,Brooklyn,NY,11201,Principal Architect,Marvel Architects,145,Hudson Street,New York,NY,400,0,1000
+R0004440,4/16/2015,8/10/2015,"Marvel, Jonathan",IND,M,New York,NY,10013,,,,,,,-600,0,0
+R0005280,3/21/2016,5/12/2016,"Marvel, Jonathan",IND,K,Brooklyn,NY,11201,,,,,,,-400,0,0
+R0004250,5/13/2015,,"Mascialino, John L",IND,M,New York,NY,10024,Attorney,Greenberg Traurig LLP,200,Park Avenue,New York,NY,250,0,0
+R0003324,12/28/2013,,"Masum Ali, Mir",IND,S,Staten Island,NY,10303,Color Specialist,Quad Graphic,138,W 50th Street,New York,NY,100,0,0
+R0003202,12/11/2013,,"Masum, Shahana",IND,S,Staten Island,NY,10303,Service Coordinator,OMNE,1651,Coney Island Avenue,Staten Island,NY,100,0,0
+R0003274,12/22/2013,,"Masum, Shahana",IND,S,Staten Island,NY,10303,Service Coordinator,OMNE,1651,Coney Island Avenue,Staten Island,NY,100,0,100
+R0004471,8/5/2015,,"Masum, Shahana",IND,S,Staten Island,NY,10303,Service Coordinator,OMNE,1651,Coney Island Avenue,Staten Island,NY,100,100,200
+R0003708,2/14/2015,,"Masyr, Jesse A",IND,M,New York,NY,10014,Attorney,"Fox Rothschild, LLP",100,Park Avenue,New York,NY,250,0,0
+R0003339,1/5/2014,,"Matalon, Jed",IND,K,Brooklyn,NY,11204,Vice President,DC37 Local 1407,125,Barclay ST,New York,NY,100,0,0
+R0003818,3/31/2015,,"Matos, Graciano Emil",IND,M,New York,NY,10029,Employment Coordinator,Hostos Community College,450,Grand Concourse Avenue,Bronx,NY,100,100,0
+R0005674,6/16/2016,,"Mauceri, James V",IND,Q,Howard Beach,NY,11414,Owner,"Mauceri Sign Co., Inc.",167-25,Rockaway Blvd.,Jamaica,NY,1000,175,0
+R0003974,4/17/2015,,"McDonald, George T",IND,M,New York,NY,10028,President & Founder,The Doe Fund,232,East 84th Street,New York,NY,500,0,0
+R0004442,4/17/2015,8/10/2015,"McDonald, George T",IND,M,New York,NY,10028,,,,,,,-100,0,0
+R0005104,4/18/2016,,"McGettrick, Patrick",IND,X,Bronx,NY,10461,Construction Foreman,SDC,3,East 54th Street,New York,NY,200,175,0
+R0004959,4/7/2016,,"McInerney, Thomas E",IND,Z,Westport,CT,6880,CEO,Bluff Point Associates,274,Riverside Avenue,Westport,CT,1000,0,0
+R0004132,4/20/2015,,"McLaughlin, Martin",IND,Z,Bay Head,NJ,8742,Partner,Connelly McLaughlin & Woloz,233,Broadway,New York,NY,250,0,0
+R0004123,4/20/2015,,"McLaughlin, Mary Ann",IND,Z,Bay Head,NJ,8742,Retired,,,,,,1000,0,0
+R0003159,12/5/2013,,"McLearen, Shawn P",IND,M,New York,NY,10028,Real Estate,Self Employed,168,East 82nd Street,New York,NY,100,0,0
+R0003891,4/2/2015,,"McLearen, Shawn P",IND,M,New York,NY,10028,Real Estate,Self Employed,168,East 82nd Street,New York,NY,50,0,100
+R0005042,4/14/2016,,"McMahon, Kevin",IND,Z,Zionsville,IN,46077,Sales,BraunAbility,631,West 11th Street,Winamac,IN,1000,0,0
+R0004055,4/20/2015,,"McMahon, Thomas L",IND,K,Brooklyn,NY,11201,Consulting,TLM Associates,233,Broadway,New York,NY,400,0,0
+R0004134,4/23/2015,,"Mechanic, Jonathan L",IND,M,New York,NY,10003,Partner,Fried Frank Harris Shriver LLP,1,New York Plaza,New York,NY,400,0,0
+R0004732,1/10/2016,,"Medina, Ruben",IND,Z,Elmsford,NY,10523,Managing Director,RC Solutions,75,S. Broadway,White Plains,NY,1000,0,0
+R0004211,4/23/2015,,"Meeks, James",IND,M,New York,NY,10017,Business,MOVE Systems,29-28,41st Avenue,Long Island City,NY,250,175,0
+R0003210,12/15/2013,,"Mehta, Krishna K",IND,Z,Manhasset,NY,11030,CPA,self employed,100,Ring Road,Garden City,NY,500,0,0
+R0003161,12/5/2013,,"Meier, Matthew W",IND,Z,Depew,NY,14043,Architect,HHL Architects,172,Allen Street,Buffalo,NY,100,0,0
+R0003148,12/2/2013,,"Meilman, Clifford",IND,M,New York,NY,10014,Real Estate,Meilman Real Estate,421-425,West 13th ST,New York,NY,2750,0,0
+R0003146,12/3/2013,,"Meilman, Richard",IND,Z,Mount Kisco,NY,10549,Real Estate,Meilman Real Estate,421,West 14th ST,New York,NY,2750,0,0
+R0004646,1/7/2016,,"Melcher, James L",IND,M,New York,NY,10023,Investment Advisor,Balestra Capital Ltd,58,West 40th,New York,NY,1000,175,0
+R0004949,4/6/2016,,"Mellow, Gail",IND,M,New York,NY,10011,President,LaGuardia Community College,3110,Thomson Avenue,Long Island City,NY,200,175,0
+R0005027,4/12/2016,,"Mellow, Gail",IND,M,New York,NY,10011,President,LaGuardia Community College,3110,Thomson Avenue,Long Island City,NY,200,0,200
+R0004877,3/4/2016,,"Melmed, Lisa",IND,K,Brooklyn,NY,11201,Consultant,Self Employed,360,Furman Street,Brooklyn,NY,500,175,0
+R0003186,12/11/2013,,"Mendez, Zenaida",IND,M,New York,NY,10019,Site Director,MNN,175,East 104th Street,New York,NY,100,0,0
+R0005105,4/18/2016,,"Mendez, Zenaida",IND,M,New York,NY,10019,Site Director,MNN,175,East 104th Street,New York,NY,50,50,100
+R0003835,4/2/2015,,"Merced, Jorge",IND,M,New York,NY,10025,Associate Artistic Director,Pregones Theater,571-575,Walton Avenue,Bronx,NY,50,50,0
+R0005174,4/18/2016,,"Merced, Jorge",IND,M,New York,NY,10025,Associate Artistic Director,Pregones Theater,571-575,Walton Avenue,Bronx,NY,50,50,50
+R0004171,4/24/2015,,"Messados, Basil",IND,Z,Hewlett,NY,11557,President,Queens Medallion Group,21-03,44th Avenue,Long Island City,NY,2000,0,0
+R0004180,4/20/2015,,"Miller, Alan G",IND,M,New York,NY,10028,Consultant,Miller Strategies,220,Fifth Avenue,New York,NY,250,175,0
+R0004299,6/3/2015,,"Miller, Elizabeth",IND,M,New York,NY,10023,Retired,,,,,,500,175,0
+R0005060,4/14/2016,,"Miller, Melvin",IND,M,New York,NY,10023,Lobbyist,self employed,215,West 75th Street,New York,NY,400,0,0
+R0004096,4/20/2015,,"Miller, Pamela A",IND,M,New York,NY,10028,Attorney,Arnold + Porter LLP,399,Park Avenue,New York,NY,250,175,0
+R0003787,3/20/2015,,"Mingione, Valerie A",IND,M,New York,NY,10038,Administrative Assistant,Leman Manhattan,1,Morris Street,New York,NY,1500,175,0
+R0004691,1/7/2016,,"Miranda, Frankie",IND,Q,Astoria,NY,11103,Manager,Hispanic Federation,55,Exchange Place,New York,NY,250,175,0
+R0004753,1/10/2016,,"Miranda, Lin-Manuel",IND,M,New York,NY,10033,President,5000 Broadway Productions,5030,Broadway,New York,NY,1000,175,0
+R0004268,5/13/2015,,"Mitchell, Jennifer D",IND,Z,Mamaroneck,NY,10543,,,,,,,250,0,0
+R0003308,12/28/2013,,"Mohammed, Alam",IND,Q,Sunnyside,NY,11104,Business,APEX INC,255,East 125th St,New York,NY,100,0,0
+R0003359,1/5/2014,,"Mohan, Charles H",IND,M,New York,NY,10128,Adjunct Lecturer,BMCC,199,Chambers Street,New York,NY,25,0,0
+R0003398,1/4/2014,,"Moideen, Febin",IND,Q,Astoria,NY,11102,Software Engineer,Identropy Inc,254,W 31st Street,New York,NY,100,0,0
+R0005162,4/15/2016,,"Molina, Alicia",IND,M,New York,NY,10013,Pro Bono Consultant,AID FOR AIDS,515,Greenwich Street,New York,NY,50,50,0
+R0005756,7/6/2016,,"Moloney, Daniel G",IND,M,New York,NY,10035,Director,International Transpac Group,234,E 121st Street,New York,NY,4000,0,0
+R0003814,4/2/2015,,"Moloney, Daniel J",IND,M,New York,NY,10021,Owner,Liffey Van Lines,234,E 121st,New York,NY,2000,175,0
+R0003154,12/4/2013,,"Morales, Victor M",IND,K,Brooklyn,NY,11220,Architect,self employed,6720,Ridge Boulevard,Brooklyn,NY,100,0,0
+R0003785,3/20/2015,,"Moreno, Angelicque M",IND,K,Brooklyn,NY,11201,Attorney,Avanzino & Moreno PC,26,Court Street,Brooklyn,NY,1500,175,0
+R0004017,4/20/2015,,"Moskovits, Toby S",IND,Q,Flushing,NY,11367,Principal Manager,Heritage Equity Partners,1274,49th Street,Brooklyn,NY,500,175,0
+R0003856,4/2/2015,,"Moss, Violet",IND,M,New York,NY,10029,Lobbyist,Bolton St. Johns,7,World Trade Center,New York,NY,75,0,0
+R0005053,4/14/2016,,"Moss, Violet",IND,M,New York,NY,10029,Lobbyist,Bolton St. Johns,7,World Trade Center,New York,NY,100,0,75
+R0004353,7/2/2015,,"Motechin, Norman",IND,K,Brooklyn,NY,11230,Administrator,Oxford Nursing Home,144,South Oxford St,Brooklyn,NY,250,175,0
+R0003883,4/2/2015,,"Murn, John",IND,Z,Huntington,NY,11743,President,RSA Buying Group,118,Allen Blvd,Farmingdale,NY,250,0,0
+R0004075,4/20/2015,,"Murphy, Lisa A",IND,Z,Island Park,NY,11558,Commissioner,Nassau County,70,Charles Lindbergh Blvd.,Uniondale,NY,2500,0,0
+R0004289,5/21/2015,,"Muss, Harriet",IND,Z,Lawrence,NY,11559,Unemployed,,,,,,3200,0,0
+R0004594,12/18/2015,,"Muss, Harriet",IND,Z,Lawrence,NY,11559,Unemployed,,,,,,2000,0,3200
+R0004628,1/5/2016,,"Muss, Harriet",IND,Z,Lawrence,NY,11559,Unemployed,,,,,,1750,0,5200
+R0004595,12/18/2015,12/18/2015,"Muss, Harriet",IND,Z,Lawrence,NY,11559,,,,,,,-2000,0,0
+R0004796,1/22/2016,,"Muss, Jacqueline",IND,M,New York,NY,10023,Marketing,Muss Development LLC,118-35,Queens Blvd,Forest Hills,NY,250,175,0
+R0004191,5/7/2015,,"Muss, Jason",IND,Q,Forest Hills,NY,11375,Owner,Muss Development LLC,118-35,Queens Boulevard,Forest Hills,NY,400,0,0
+R0004630,1/5/2016,,"Muss, Jessica",IND,Z,Lawrence,NY,11559,Unemployed,,,,,,250,0,0
+R0004187,5/7/2015,,"Muss, Joshua L",IND,Q,Forest Hills,NY,11375,Owner,Muss Development LLC,118-35,Queens Boulevard,Forest Hills,NY,400,0,0
+R0003404,1/5/2014,,"Najmi, Ali",IND,Q,Glen Oaks,NY,11004,Attorney,Self Employed,80-02,Kew Gardens Rd,Kew Gardens,NY,100,0,0
+R0004303,6/11/2015,,"Nargi, Deborah A",IND,X,Bronx,NY,10465,Administrative Assistant,"Yonkers Contracting Co., Inc",969,Midland Avenue,Yonkers,NY,250,175,0
+R0004451,8/8/2015,,"Nasir, Muhammad",IND,K,Brooklyn,NY,11230,Contractor,ARCO,929,Coney Island Avenue,Brooklyn,NY,175,175,0
+R0005700,5/31/2016,,"Naughton, Shane",IND,M,New York,NY,10012,CTO,Artech Holdings LLC,254,West 54th ST,New York,NY,500,175,0
+R0004193,5/4/2015,,"Neil, Laura K",IND,Z,Nyack,NY,10960,Marketing,Stone Barn Center for Food,360,Bedford Road,Pocantico Hills,NY,4950,0,0
+R0004307,6/16/2015,,"Nejame, Samir S",IND,Z,Selkirk,NY,12158,Partner,Wilson Elser,150,East 42nd Street,New York,NY,400,0,0
+R0003925,4/7/2015,,"Neu, James D",IND,K,Brooklyn,NY,11231,Partner,DBI,1261,Broadway,New York,NY,500,175,0
+R0004931,3/21/2016,,"Neu, James D",IND,K,Brooklyn,NY,11231,Partner,DBI,1261,Broadway,New York,NY,500,0,500
+R0004117,4/20/2015,,"Neufeld, Brandon L",IND,Z,Millwood,NY,10546,Taxi Medallion Broker,Westway Medallion Sales,657,10th Avenue,New York,NY,200,0,0
+R0004324,6/26/2015,,"Neumam, Steven",IND,Z,Cedarhurst,NY,11516,Real Estate Management,Repositioned State Corp,85,Delancy Street,New York,NY,1500,0,0
+R0004744,1/11/2016,,"Neumann, Adam",IND,M,New York,NY,10003,Co-Founder & Chief Executive O,WeWork,115,West 18th Street,New York,NY,4950,175,0
+R0005375,6/17/2016,,"Newman, Glenn",IND,K,Brooklyn,NY,11215,Attorney,Greenberg Traurig LLP,200,Park Avenue,New York,NY,400,175,0
+R0005166,4/16/2016,,"Nieves, Myrna E",IND,M,New York,NY,10029,College Professor,Boricua College,890,Washington Avenue,Bronx,NY,25,25,0
+R0003402,1/4/2014,,"Nofel, Abdelelah",IND,Z,Yonkers,NY,10701,Furniture Sales,Self Employed,168,Cook Avenue,Yonkers,NY,100,0,0
+R0003935,4/13/2015,,"Nolen, Wilson",IND,M,New York,NY,10128,Retired,,,,,,4950,175,0
+R0003334,12/28/2013,,"Noor, Asif",IND,S,Staten Island,NY,10314,Pharmacist,self employed,321,Wyckoff Avenue,Ridgewood,NY,100,0,0
+R0004009,4/16/2015,,"O'Brien, Stewart",IND,M,New York,NY,10021,Vice President,Assn. of Contracting Plumbers,44,W 28th Street,New York,NY,1000,175,0
+R0003142,11/18/2013,,"O'Kelly, Lisa",IND,M,New York,NY,10014,President,"Peregrine Notes, LLC",74,Bank ST,New York,NY,500,0,0
+R0004674,1/7/2016,,"O'Neill, James R",IND,Q,Forest Hills,NY,11375,CEO,Sports & Arts in School Founda,58-12,Queens Blvd,Woodside,NY,250,0,0
+R0005325,5/26/2016,,"O'Reilly, Owen G",IND,Q,Maspeth,NY,11378,Owner,MC & O Contracting Inc,55-15,69th Place,Maspeth,NY,1000,0,0
+R0004740,1/11/2016,,"O'Toole, Milagros B",IND,X,Bronx,NY,10463,Unemployed,,,,,,250,175,0
+R0003792,3/24/2015,,"Ocasio, Maria",IND,K,Brooklyn,NY,11204,VP of Ops,Golden Pear Funding,520,8th Avenue,New York,NY,1500,175,0
+R0004990,4/12/2016,,"Ohad, Ofer",IND,K,Brooklyn,NY,11249,Project Manager,DBI,1261,Broadway,New York,NY,2500,175,0
+R0003231,12/18/2013,,"Oleaga, Dario",IND,Z,Yonkers,NY,10705,Owner,Umbrella Lounge,440,W 202 St,New York,NY,2000,0,0
+R0003595,12/18/2013,12/23/2013,"Oleaga, Dario",IND,Z,Yonkers,NY,10705,,,,,,,-2000,0,0
+R0005184,4/18/2016,,"Oliveira, Ana L",IND,M,New York,NY,10025,President,N.Y. Women's Foundation,39,Broadway,New York,NY,500,175,0
+R0005300,5/3/2016,,"Ortiz, Diana",IND,Z,Bronxville,NY,10708,Associate Director,Exodus Transitional Comm.,2271,Third Avenue,New York,NY,100,0,0
+R0003192,12/11/2013,,"Padilla, Melba",IND,X,Bronx,NY,10462,Attorney,Law Offices of Steven Cohen,4197,Third Avenue,Bronx,NY,25,0,0
+R0004652,1/7/2016,,"Page, JoAnne",IND,Z,Freeport,NY,11520,President,"The Fortune Society, Inc.",29-76,Northern Blvd.,Long Island City,NY,250,0,0
+R0005360,6/16/2016,,"Palmer, David G",IND,Z,Castle Rock,CO,80108,Attorney,Greenberg Traurig LLP,1200,17th Street,Denver,CO,200,0,0
+R0004746,1/11/2016,,"Paltrow Neumann, Rebekah",IND,M,New York,NY,10003,Unemployed,,,,,,4950,175,0
+R0003772,3/24/2015,,"Panek, Ray",IND,K,Brooklyn,NY,11234,Attorney,Elefterakis Elefterakis Parek,111,John Street,New York,NY,1500,175,0
+R0003320,12/28/2013,,"Panna, Shirin",IND,K,Brooklyn,NY,11216,,,,,,,20,0,0
+R0005675,6/16/2016,,"Panvini, Ron",IND,Z,Franklin Square,NY,11010,Psychotherapist,Self Employed,160,West 73rd Street,New York,NY,1000,0,0
+R0004069,4/20/2015,,"Parikh, Nayankumar",IND,Z,Colonia,NJ,7067,President,Ashnu International Inc.,58-09,28th Avenue,Woodside,NY,250,0,0
+R0005275,5/7/2016,,"Paronyan, Kevin",IND,Q,Oakland Gardens,NY,11364,CEO,K & K Tiles Corp,5804,208th Street,Oakland Gardens,NY,1000,175,0
+R0004757,1/9/2016,,"Parris, Gilbert C",IND,Z,Valley Stream,NY,11581,Attorney,Self Employed,16,Court Street,Brooklyn,NY,100,0,0
+R0004013,4/16/2015,,"Pasquarelli, Gregg",IND,M,New York,NY,10011,Architect,SHoP Architects PC,233,Broadway,New York,NY,400,0,0
+R0004889,3/9/2016,,"Pasternak, Anne R",IND,Z,Putnam Valley,NY,10579,Director,Brooklyn Museum,200,Eastern Parkway,Brooklyn,NY,150,0,0
+R0004945,4/4/2016,,"Pechefsky, David",IND,K,Brooklyn,NY,11215,NYC Site Direction,Generation Citizen,175,Varick Street,New York,NY,500,175,0
+R0003203,12/12/2013,,"Pena, Amalia",IND,M,New York,NY,10025,Director,"Independent Network, Inc.",475,W 150th St,New York,NY,100,0,0
+R0005079,4/18/2016,,"Pena, Clark",IND,M,New York,NY,10035,Consultant,Self Employed,446,East 118th Street,New York,NY,50,50,0
+R0003219,12/18/2013,,"Pena-Mora, Feniosky",IND,M,New York,NY,10025,Professor,Columbia University,1130,Amsterdam Avenue,New York,NY,2000,0,0
+R0004819,2/5/2016,,"Penner, H. Robert",IND,Z,La Jolla,CA,92037,Senior Financial Analyst,Home Fed Corporation,1903,Wright Place,Carlsbad,CA,250,0,0
+R0004642,1/7/2016,,"Perelman, Stanley",IND,M,New York,NY,10023,Managing Member,Jani Real Estate,40,Worth Street,New York,NY,250,0,0
+R0003172,12/5/2013,,"Perez, Jesus",IND,M,New York,NY,10029,Associate,French-American Chamber of Com,1350,Broadway,New York,NY,25,0,0
+R0003194,12/11/2013,,"Perez-Vega, Bianka",IND,X,Bronx,NY,10471,Lawyer,self employed,2853A,Grand Concourse,Bronx,NY,100,0,0
+R0003908,4/2/2015,,"Perone, Brian R",IND,K,Brooklyn,NY,11220,Sales Manager,Clean Energy Fuels,4675,MacArthur Court,Newport Beach,CA,50,50,0
+R0003426,2/26/2014,,"Perrette, Jean-Briac J",IND,M,New York,NY,10011,President,Discovery Networks Internation,850,3rd Avenue,New York,NY,500,0,0
+R0003770,3/24/2015,,"Peters, Thomas P",IND,M,New York,NY,10014,Managing Director,Susquehannah,401,City Line Avenue,Bala Cynwyd,PA,2500,175,0
+R0003634,10/22/2014,,"Piperno, Frank",IND,Z,Lincroft,NJ,7738,Principal,Synergy Construction Inc.,350,7th Avenue,New York,NY,4950,0,0
+R0004372,7/8/2015,,"Poleto, David M",IND,Z,Lathan,NY,12110,Lobbyist,"Park Strategies, LLC",101,Park Avenue,New York,NY,250,0,0
+R0003783,3/20/2015,,"Pollak, Roman",IND,Z,Palisades Park,NJ,7650,Accountant,Case Cash Funding LLC,520,8th Avenue,New York,NY,1500,0,0
+R0003821,3/31/2015,,"Ports, Suki T",IND,M,New York,NY,10027,Retired,,,,,,50,50,0
+R0005088,4/18/2016,,"Ports, Suki T",IND,M,New York,NY,10027,Retired,,,,,,50,50,50
+R0004947,4/5/2016,,"Potamkin, Alan",IND,Z,Miami,FL,33143,President,Potamkin Companies,2333,Ponce De Leon Blvd,Coral Gables,FL,2500,0,0
+R0003859,4/2/2015,,"Praschak, Andrew L",IND,M,New York,NY,10023,Attorney,U.S. Env. Protection Agency,290,Broadway,New York,NY,50,50,0
+R0004837,2/18/2016,,"Praschak, Andrew L",IND,M,New York,NY,10023,Attorney,U.S. Env. Protection Agency,290,Broadway,New York,NY,100,100,50
+R0005091,4/18/2016,,"Praschak, Andrew L",IND,M,New York,NY,10023,Attorney,U.S. Env. Protection Agency,290,Broadway,New York,NY,100,25,150
+R0003227,12/18/2013,,"Pratts, Angela A",IND,X,Bronx,NY,10453,President,Elegant Transportation,1808,Randall Avenue,Bronx,NY,1000,0,0
+R0003830,4/2/2015,,"Pressley, Joey B",IND,K,Brooklyn,NY,11217,Councilmatic Aide,New York City Council,250,Broadway,New York,NY,100,100,0
+R0004850,2/29/2016,,"Procope, Jonelle",IND,M,New York,NY,10025,President / CEO,Apollo Theater,253,W 125th Street,New York,NY,400,0,0
+R0004111,4/20/2015,,"Prosky, Warren P",IND,Z,Hewlett,NY,11557,Fleet Operator,J & I Maintenance Corp.,341,Bergen Street,Brooklyn,NY,250,0,0
+R0003930,4/10/2015,,"Protass, Harlan",IND,M,New York,NY,10024,Attorney,Clayman & Rosenberg,305,Madison Avenue,New York,NY,100,100,0
+R0005019,4/6/2016,,"Prozer-Perelman, Nancy",IND,M,New York,NY,10023,Designer,SURFACE DESIGN,40,Worth ST,New York,NY,400,175,0
+R0004147,4/23/2015,,"Purcell, James P",IND,M,New York,NY,10022,Real Estate Management,Self Employed,234,E 121st Street,New York,NY,500,0,0
+R0005130,4/18/2016,,"Quent, James",IND,Q,Forest Hills,NY,11375,Lobbyist,Statewide Public Affairs,15,Elk Street,Albany,NY,500,0,0
+R0005600,4/18/2016,6/29/2016,"Quent, James",IND,Q,Forest Hills,NY,11375,,,,,,,-100,0,0
+R0004525,11/24/2015,,"Quinlan, Robert C",IND,M,New York,NY,10128,Founder,Quinlan Development Group,157,Columbus Avenue,New York,NY,1000,175,0
+R0005702,5/31/2016,,"Quinn, Jim",IND,Z,North Caldwell,NJ,7006,Not Employed,Not Employed,59,Beachmont Terrace,North Caldwell,NJ,1000,0,0
+R0003300,12/28/2013,,"Qureshi, Tahir",IND,S,Staten Island,NY,10303,Partner,Bismillah Travel & Tours,240-C,Granite Avenue,Staten Island,NY,50,0,0
+R0003280,12/21/2013,,"Rabbee, Shafquat",IND,Z,East Meadow,NY,11554,Finance,Citigroup,388,Greenwich St,New York,NY,200,0,0
+R0005180,4/18/2016,,"Rad, Dan",IND,Z,Oyster Bay,NY,11771,Member,Radson Development LLC,77,Cuttermill Road,Great Neck,NY,250,0,0
+R0003332,12/28/2013,,"Rahim, Abdul",IND,K,Brooklyn,NY,11238,Business Proprietor,Rainy Day Inc,210,Joralemon ST,Brooklyn,NY,200,0,0
+R0003284,12/22/2013,,"Rahman, MD. Mahbubur",IND,K,Brooklyn,NY,11218,Contractor,US Shelltech,556,Drew Street,Brooklyn,NY,500,0,0
+R0003292,12/22/2013,,"Ramadan, Rudina Odeh",IND,M,New York,NY,10032,Restaurateur,self employed,3952,Broadway,New York,NY,500,0,0
+R0003823,3/31/2015,,"Ramirez, Celia",IND,M,New York,NY,10035,Agent,East River North Renewal HDFC,430,E 118th St,New York,NY,50,50,0
+R0003915,4/2/2015,,"Ramos, Vanessa",IND,M,New York,NY,10028,Director,CHCF,110,William Street,New York,NY,50,0,0
+R0003396,1/4/2014,,"Ranginwala, Omar",IND,Z,Yonkers,NY,10708,Software Developer,Mobibuff LLC,1133,Broadway,New York,NY,100,0,0
+R0004714,1/9/2016,,"Raspberry, Tiffany",IND,K,Brooklyn,NY,11206,Lobbyist,"YorkGroup Associates, LLC",222,Broadway,New York,NY,400,0,0
+R0004005,4/16/2015,,"Ratner, Bruce C",IND,M,New York,NY,10075,Real Estate Developer,Forest City Ratner Companies,1,MetroTech Center,Brooklyn,NY,250,0,0
+R0003302,12/28/2013,,"Razia, Sultana",IND,K,Brooklyn,NY,11218,Doctor,Self Employed,2558,East 18th St,Brooklyn,NY,20,0,0
+R0005001,4/6/2016,,"Recchia, Domenic M",IND,K,Brooklyn,NY,11223,Attorney,Law Office Domenic M Recchia,172,Gravesend Neck Rd,Brooklyn,NY,400,0,0
+R0005005,4/6/2016,,"Reingold, Daniel A",IND,Z,Scarsdale,NY,10583,CEO,Hebrew Home,5901,Palisade Avenue,Bronx,NY,400,0,0
+R0005032,4/13/2016,,"Renella, Donna",IND,Z,Croton on Hudson,NY,10520,Consultant,"ABW Solutions, Inc.",230,Park Avenue,New York,NY,50,0,0
+R0005009,4/6/2016,,"Reoch, Kirsten R",IND,Z,Bloomfield,NJ,7003,Director,Park Avenue Armory,643,Park Avenue,New York,NY,100,0,0
+R0005800,7/11/2016,,"Resheske, Frances A",IND,K,Brooklyn,NY,11201,Senior VP Public Affairs,Consolidated Edison,4,Irving PLace,New York,NY,250,0,0
+R0004790,1/21/2016,,"Richard, Gregg",IND,Z,West Islip,NY,11795,CEO,P.C. Richard & Son,150,Price Parkway,Farmingdale,NY,400,0,0
+R0004815,2/5/2016,,"Richardson, Hale Y",IND,Z,Carlsbad,CA,92009,Land Dev. / Marketing,Home Fed Corporation,1903,Wright Place,Carlsbad,CA,200,0,0
+R0003764,1/31/2015,,"Rivera, Alberto J",IND,Z,San Juan,PR,926,SR VP & CFO,Coca-Cola Puerto Rico,174,Minillas Industrial Park,Bayamon,PR,299.62,0,0
+R0004690,1/7/2016,,"Roberts, Cheryl",IND,Z,Spencertown,NY,12165,Attorney,Greenburger Center for Social,55,5th Avenue,New York,NY,250,0,0
+R0003979,4/20/2015,,"Roberts, Walter M",IND,X,Bronx,NY,10456,Not-For-Profit Housing,"Hope Community, Inc.",174,E 104th Street,New York,NY,100,0,0
+R0005030,4/12/2016,,"Roberts, Walter M",IND,X,Bronx,NY,10456,Not-For-Profit Housing,"Hope Community, Inc.",174,E 104th Street,New York,NY,100,0,100
+R0003256,12/20/2013,,"Rodriguez Lopez, Lillian",IND,Z,Smyrna,GA,30082,Director Latin Affairs,The Coca-Cola Company,1,Coca-Cola Place,Atlanta,GA,100,0,0
+R0003167,12/5/2013,,"Rodriguez, Alexandro",IND,M,New York,NY,10029,retired,retired,,,,,100,0,0
+R0004091,4/20/2015,,"Rodriguez, Damian R",IND,X,Bronx,NY,10458,President,First Class Car Service,4980,Broadway,New York,NY,500,175,0
+R0005127,4/18/2016,,"Rodriguez, Yma B",IND,M,New York,NY,10128,Retired,,,,,,250,175,0
+R0004666,1/7/2016,,"Rodus, Jeffrey",IND,K,Brooklyn,NY,11234,Gov't Affairs Representative,Connelly McLaughlin & Woloz,233,Broadway,New York,NY,250,0,0
+R0003816,4/2/2015,,"Rolon, Rosalba",IND,X,Bronx,NY,10463,Artistic Director,Pregones Theater,571-575,Walton Avenue,Bronx,NY,50,0,0
+R0003852,4/2/2015,,"Rosado, Gustavo",IND,Z,New Windsor,NY,12553,Executive Director,El Barrio Operation Fightback,413,East 120th Street,New York,NY,100,0,0
+R0003609,10/8/2014,,"Rosario, Haydee",IND,X,Bronx,NY,10473,Attorney-Arbitrator/Mediator,self employed,896,PO BOX 896,Bronx,NY,200,175,0
+R0005040,4/13/2016,,"Rosario, Haydee",IND,X,Bronx,NY,10473,Attorney-Arbitrator/Mediator,self employed,896,PO BOX 896,Bronx,NY,100,0,200
+R0004953,4/7/2016,,"Rosen, Adam",IND,Z,Bayport,NY,11705,General Manager,Green Point Energy Inc.,231,Norman Avenue,Brooklyn,NY,250,0,0
+R0005708,6/23/2016,,"Rosen, Marvin F",IND,M,New York,NY,10024,Shareholder,Greenberg Traurig LLP,208,Park Avenue,New York,NY,400,175,0
+R0004398,7/10/2015,,"Rosen, Matthew",IND,M,New York,NY,10025,Attorney,Skadden Arps,4,Times Square,New York,NY,500,175,0
+R0004363,3/24/2015,,"Rosenfeld, Moses",IND,K,Brooklyn,NY,11249,CFO,Fortis Business Holdings,45,Main Street,Brooklyn,NY,2500,175,0
+R0005065,4/14/2016,,"Rosenthal, Russell",IND,Z,Atlantic Beach,NY,11509,Retired,,,,,,1000,0,0
+R0004860,3/3/2016,,"Rothenberg, Jennifer",IND,M,New York,NY,10007,President,Innovative Philanthropy,5,Hanover Square,New York,NY,1000,175,0
+R0004407,7/24/2015,,"Rubin, Gretchen C",IND,M,New York,NY,10075,Author,Self Employed,120,E 80th Street,New York,NY,1500,0,0
+R0003183,12/6/2013,,"Rubin, Judith O",IND,M,New York,NY,10075,retired,retired,,,,,3850,0,0
+R0004408,7/24/2015,,"Rubin, Judith O",IND,M,New York,NY,10075,retired,retired,,,,,1000,0,3850
+R0004822,2/15/2016,,"Rubin, Philip M",IND,M,New York,NY,10075,Writer,Self Employed,120,E 80th Street,New York,NY,1000,175,0
+R0003221,12/18/2013,,"Rubio, Henry D",IND,Q,Ridgewood,NY,11385,Principal,DOE,40,Rector ST,New York,NY,150,0,0
+R0004966,4/10/2016,,"Rudin, William C",IND,M,New York,NY,10021,Real Estate,Rudin Mgt Co. Inc.,345,Park Avenue,New York,NY,200,0,0
+R0004813,2/5/2016,,"Ruhe, Erin N",IND,Z,Temecula,CA,92592,VP,Home Fed Corporation,1903,Wright Place,Carlsbad,CA,250,0,0
+R0003874,4/2/2015,,"Rushefsky, Peter",IND,K,Brooklyn,NY,11217,Executive Director,Center Traditional Music Dance,32,Broadway,New York,NY,50,50,0
+R0003811,4/2/2015,,"Russi, Raul",IND,M,New York,NY,10002,CEO,Basics Inc,1064,Franklin Ave,Bronx,NY,250,0,0
+R0004735,1/10/2016,,"Russi, Raul",IND,M,New York,NY,10002,CEO,Basics Inc,1064,Franklin Ave,Bronx,NY,250,0,250
+R0005185,4/19/2016,,"Russi, Raul",IND,M,New York,NY,10002,CEO,Basics Inc,1064,Franklin Ave,Bronx,NY,250,0,500
+R0004800,1/10/2016,2/19/2016,"Russi, Raul",IND,M,New York,NY,10002,,,,,,,-100,0,0
+R0005277,4/19/2016,5/11/2016,"Russi, Raul",IND,M,New York,NY,10002,,,,,,,-250,0,0
+R0005676,6/16/2016,,"Russo, George",IND,Q,Ozone Park,NY,11417,Attorney,Self Employed,,,,,2000,0,0
+R0005379,6/17/2016,,"Russo, Steven C",IND,M,New York,NY,10025,Attorney,Greenberg Traurig LLP,200,Park Avenue,New York,NY,400,0,0
+R0003330,12/28/2013,,"Sadeia, Mohamed A",IND,S,Staten Island,NY,10303,Physical Therapist,MJHS,39,Broadway,New York,NY,100,0,0
+R0003269,12/22/2013,,"Said, Sara",IND,K,Brooklyn,NY,11201,Teacher,DOE,52,Chambers Street,New York,NY,50,0,0
+R0004862,3/3/2016,,"Salcedo, Nadya",IND,K,Brooklyn,NY,11238,Attorney,Self Employed,338,Prospect Place,Brooklyn,NY,250,175,0
+R0003351,1/5/2014,,"Saleh, Fateh N",IND,M,New York,NY,10034,,,,,,,100,0,0
+R0003400,1/4/2014,,"Salhab, Ali",IND,Z,Yonkers,NY,10701,Medical Technologist,St. John's Riverside Hospital,967,N Broadway,Yonokers,NY,100,0,0
+R0004012,4/14/2015,,"Samaras, Gregory",IND,Q,Bayside,NY,11361,President,Alumaline Inc.,150-17,12th Rd,Whitestone,NY,4950,175,0
+R0004045,4/20/2015,,"Samuels, William",IND,M,New York,NY,10003,Business Executive,Carlyle Capital Group,267,Fifth Avenue,New York,NY,2500,175,0
+R0003902,4/2/2015,,"Sanchez, Manuel A",IND,Z,Tuckahoe,NY,10707,Attorney,Self Employed,2116,Williamsbridge Road,Bronx,NY,50,0,0
+R0003832,4/2/2015,,"Sanders, Traci",IND,M,New York,NY,10031,General Analyst,New York City Council,250,Broadway,New York,NY,50,0,0
+R0004737,1/11/2016,,"Santiago, Carlos",IND,Z,Toluca Lake,CA,91602,Marketer,SSG,321,N Pass Ave,Burbank,CA,100,0,0
+R0003819,3/31/2015,,"Sarkissian, George",IND,M,New York,NY,10033,Deputy Director,New York City Council,250,Broadway,New York,NY,100,100,0
+R0004455,8/5/2015,,"Sarwar, Muhammad",IND,K,Brooklyn,NY,11235,Pharmacist,Neptune Pharmacy,3180,Coney Island Avenue,Brooklyn,NY,200,175,0
+R0003599,1/31/2014,,"Sawhney, Vivek",IND,Z,Old Tappan,NJ,7675,,,,,,,100,0,0
+R0003349,1/5/2014,,"Sayeed, Sarah",IND,X,Bronx,NY,10452,Dir. of Community Partnerships,Interfaith Center of NY,475,Riverside Drive,New York,NY,100,0,0
+R0004856,3/2/2016,,"Saylor, Elizabeth",IND,K,Brooklyn,NY,11215,Attorney,Emery Celli Brinckerhoff & Aba,600,Fifth Avenue,New York,NY,250,175,0
+R0004070,4/20/2015,,"Scarlett, Juanita L",IND,K,Brooklyn,NY,11216,Managing Director,"Park Strategies, LLC",101,Park Avenue,New York,NY,250,0,0
+R0005063,4/14/2016,,"Scarlett, Juanita L",IND,K,Brooklyn,NY,11216,Managing Director,"Park Strategies, LLC",101,Park Avenue,New York,NY,150,0,250
+R0004145,4/25/2015,,"Schafran, Brooke E",IND,M,New York,NY,10024,Community Relations,Capalino & Company,233,Broadway,New York,NY,400,0,0
+R0005754,7/8/2016,,"Schapps, Ellen",IND,Z,Greenwich,CT,6831,Adjunct Professor,Columbia Business School,435,W 116th Street,New York,NY,4950,0,0
+R0004848,2/26/2016,,"Scharfberg, Josh",IND,M,New York,NY,10021,Vice President,Allvision,420,Lexington Ave,New York,NY,250,175,0
+R0003215,12/17/2013,,"Schmidt, Michael",IND,Z,Mahopac,NY,10541,retired,retired,,,,,20,0,0
+R0003941,4/15/2015,,"Schneur, Eugene",IND,M,New York,NY,10017,Real Estate,Omni New York LLC,885,2nd Avenue,New York,NY,250,0,0
+R0004932,3/23/2016,,"Schneur, Eugene",IND,M,New York,NY,10017,Real Estate,Omni New York LLC,885,2nd Avenue,New York,NY,250,0,250
+R0003741,3/16/2015,,"Schrager, Ian",IND,M,New York,NY,10012,Hotel Development,self employed,818,Greenwich Street,New York,NY,500,175,0
+R0004041,4/20/2015,,"Schwab, Katherine W",IND,K,Brooklyn,NY,11238,Managing Director,"Manatt, Phelps & Phillips",7,Times Square,New York,NY,250,0,0
+R0005026,4/12/2016,,"Schwab, Katherine W",IND,K,Brooklyn,NY,11238,Managing Director,"Manatt, Phelps & Phillips",7,Times Square,New York,NY,100,0,250
+R0004970,4/11/2016,,"Schwartz, Liviu",IND,M,New York,NY,10021,Engineer,Silman,32,Old Slip,New York,NY,100,100,0
+R0003620,10/8/2014,,"Seddio, Frank R",IND,K,Brooklyn,NY,11234,Attorney,Self Employed,9306,Flatlands Avenue,Brooklyn,NY,1000,175,0
+R0004613,1/4/2016,,"Sederer, Lloyd",IND,M,New York,NY,10013,Medical Doctor,Self Employed,330,Fifth Avenue,New York,NY,500,175,0
+R0005362,6/16/2016,,"Segal, Jay A",IND,Z,New Rochelle,NY,10804,Attorney,Greenberg Traurig LLP,200,Park Avenue,New York,NY,400,0,0
+R0004977,4/11/2016,,"Senbahar, Izak",IND,M,New York,NY,10128,President,Alexico Group LLC,150,East 58th Street,New York,NY,250,175,0
+R0004668,1/4/2016,,"Shafton, Melissa Ann",IND,M,New York,NY,10009,Retail Brokerage,"Times Equities, Inc.",451,W 36th Street,New York,NY,250,175,0
+R0003260,12/21/2013,,"Shah, Hiren",IND,Z,Monroe Township,NJ,8831,Financial Consultant,Prime Time Capital Funding LLC,133,East Front Street,Plainfield,NJ,250,0,0
+R0003377,1/5/2014,,"Shah, Malini N",IND,Q,Bayside,NY,11360,President,Difference Inc.,3,E 54th St,New York,NY,250,0,0
+R0003367,1/5/2014,,"Shah, Vijay",IND,Z,Willston Park,NY,11596,"Physician, P.C.",self employed,17,Gordon Drive,Willston Park,NY,1000,0,0
+R0003373,1/5/2014,,"Shanmugam, Chellappa",IND,Q,New Hyde Park,NY,11040,President,Green Engineering Serives,31,Brussels Drive,New Hyde Park,NY,500,0,0
+R0003983,4/20/2015,,"Sharple, Coren",IND,M,New York,NY,10013,Architect,SHoP Architects,233,Broadway,New York,NY,400,175,0
+R0003987,4/20/2015,,"Sharples, William",IND,M,New York,NY,10279,Architect,SHoP Architects,233,Broadway,New York,NY,400,175,0
+R0004648,1/7/2016,,"Shenker, Cynthia D",IND,Z,Loudonville,NY,12211,Attorney,Shenker Russo & Clark LLP,121,State Street,Albany,NY,250,0,0
+R0004125,4/20/2015,,"Sherman, Ronald",IND,Z,Tenafly,NJ,7670,Executive,Midtown Operating Corp,42-50,24th Street,Long Island City,NY,4950,0,0
+R0004896,3/11/2016,,"Shorenstein, Marissa",IND,M,New York,NY,10023,President,AT&T,630,Fifth Avenue,New York,NY,400,0,0
+R0004256,5/13/2015,,"Sideris, John J",IND,Q,Whitestone,NY,11357,Plumber,Sideris Plumbing & Heating,40-20,Ditmars Blvd,Long Island City,NY,250,175,0
+R0005194,4/28/2016,,"Signorella, Nunzio",IND,M,New York,NY,10016,Healthcare,BOOM! Health,226,East 144th ST,Bronx,NY,50,0,0
+R0003758,3/25/2015,,"Sillerman, Laura B",IND,M,New York,NY,10021,Retired,,,,,,4950,175,0
+R0003179,12/9/2013,,"Silver, Melissa",IND,Z,Demarest,NJ,7627,Publicity,Big Beat/Atlantic Records,1290,Avenue of The Americas,New York,NY,3850,0,0
+R0004367,7/8/2015,,"Silverstein, Klara",IND,M,New York,NY,10022,Homemaker,,,,,,4500,175,0
+R0004061,4/20/2015,,"Silverstein, Lisa H",IND,M,New York,NY,10007,Real Estate Development,Silverstein Properties,250,Greenwich St,New York,NY,2500,175,0
+R0005743,7/7/2016,,"Silverstein, Lisa H",IND,M,New York,NY,10007,Real Estate Development,Silverstein Properties,250,Greenwich St,New York,NY,1000,0,2500
+R0004508,10/10/2015,,"Silverstein, Roger A",IND,M,New York,NY,10023,Real Estate Executive,Silverstein Properties,250,Greenwich St,New York,NY,2500,175,0
+R0005742,7/7/2016,,"Silverstein, Roger A",IND,M,New York,NY,10023,Real Estate Executive,Silverstein Properties,250,Greenwich St,New York,NY,2000,0,2500
+R0005672,6/16/2016,,"Simon, Carol",IND,Q,Forest Hills,NY,11375,Retired,,,,,,1000,175,0
+R0003375,1/5/2014,,"Singh, Gurdev",IND,Z,Old Westbury,NY,11568,President,Meetu Magic Inc,1407,Broadway,New York,NY,1000,0,0
+R0005727,7/1/2016,,"Skarzynski, Adam",IND,Z,Greenwich,CT,6831,President,Adam's European Contracting,589,Johnson Avenue,Brooklyn,NY,400,0,0
+R0005715,7/1/2016,,"Skarzynski, Jacek",IND,Q,Woodhaven,NY,11421,Vice President,Adam's European Contracting,589,Johnson Avenue,Brooklyn,NY,400,0,0
+R0005726,7/1/2016,,"Skarzynski, Malgorzata",IND,Z,Greenwich,CT,6831,CEO,Adam's European Contracting,589,Johnson Avenue,Brooklyn,NY,400,0,0
+R0005723,7/1/2016,,"Skarzynski, Michael",IND,Q,Maspeth,NY,11378,Project Manager,Adam's European Contracting,589,Johnson Avenue,Brooklyn,NY,400,175,0
+R0005725,7/1/2016,,"Skarzynski, Olga",IND,Q,Woodhaven,NY,11421,Bookkeeper,Adam's European Contracting,589,Johnson Avenue,Brooklyn,NY,400,175,0
+R0005353,6/2/2016,,"Smith, Shaneek F",IND,K,Brooklyn,NY,11236,Director,Yoswein New York,111,Broadway,New York,NY,200,175,0
+R0003660,11/17/2014,,"Soja, Lisa M",IND,Z,Chappaqua,NY,10514,,,,,,,3500,0,0
+R0004904,3/19/2016,,"Solomon, Peter J",IND,M,New York,NY,10065,Banker,Peter J Solomon Co.,1345,Avenue of the Americas,New York,NY,2500,175,0
+R0003872,4/2/2015,,"Soto, Jeffrey",IND,M,New York,NY,10029,Student,City As School,16,Clarkson St,New York,NY,50,50,0
+R0005323,5/26/2016,,"Spallino, Stephen",IND,Z,Jericho,NY,11753,Owner,"Basin Haulag, Inc.",57-01,Flushing Avenue,Maspeth,NY,500,0,0
+R0004281,5/21/2015,,"Spira, Eliezer",IND,K,Brooklyn,NY,11219,Property Management,Ador Housing,5318,New Utrecht Ave,Brooklyn,NY,500,175,0
+R0005190,4/24/2016,,"Stavisky, Kristen",IND,Z,West Nyack,NY,10994,Commissioner of Elections,Rockland County,11,New Hempstead Rd,New City,NY,1500,0,0
+R0003896,4/2/2015,,"Steglitz, Marc H",IND,Z,New Vernon,NJ,7976,COO,Solomon R. Guggenheim Fdn,1071,5th Avenue,New York,NY,50,0,0
+R0003170,12/5/2013,,"Stein, Harriet P",IND,M,New York,NY,10024,Coordinator,Union Settlement,1775,3rd Avenue,New York,NY,50,0,0
+R0005050,4/14/2016,,"Steinberg, Joseph S",IND,K,Brooklyn,NY,11201,Chairma,Leucadia National Corp.,520,Madison Avenue,New York,NY,250,175,0
+R0003726,3/4/2015,,"Stern Hyman, Chris",IND,M,New York,NY,10028,Attorney,Medical Mediation Group LLC,1040,Avenue of The Americas,New York,NY,250,175,0
+R0003235,12/18/2013,,"Stevens, Anthony R",IND,Z,Bogota,NJ,7603,Researcher,CUNY,160,Convent Avenue,New York,NY,100,0,0
+R0005071,4/22/2016,,"Stillman, Michael J",IND,M,New York,NY,10021,Restaurateur,Fourth Wall Restaurants,880,Third Avenue,New York,NY,500,175,0
+R0005178,4/18/2016,,"Strahl, Neil",IND,S,Staten Island,NY,10309,President,PTC,2890,Arthur Kill Road,Staten Island,NY,400,0,0
+R0004832,2/18/2016,,"Stubblefield, Keith",IND,K,Brooklyn,NY,11215,CFO,BAM,30,Lafayette Avenue,Brooklyn,NY,250,0,0
+R0004235,5/11/2015,,"Sturiale, Matthew",IND,K,Brooklyn,NY,11209,CEO,YAI,460,West 34th Street,New York,NY,400,0,0
+R0003790,3/18/2015,,"Subin, Herbert",IND,Z,Scarsdale,NY,10583,Attorney,Subin Associates,150,Broadway,New York,NY,1500,0,0
+R0003965,4/14/2015,,"Sunshine, Kenneth",IND,M,New York,NY,10075,President,Sunshine Sachs,136,Madison Avenue,New York,NY,500,0,0
+R0003840,4/2/2015,,"Sweeney, Will",IND,Q,Jackson Heights,NY,11372,Filmmaker,Colorlab Film Corp,27,W 20th Street,New York,NY,50,50,0
+R0003884,4/2/2015,,"Talavera, Sandra",IND,M,New York,NY,10029,Not Employed,,,,,,200,175,0
+R0004982,4/12/2016,,"Talavera, Sandra",IND,M,New York,NY,10029,Not Employed,,,,,,250,0,200
+R0003659,11/17/2014,,"Talley, Janice E",IND,Z,Montclair,NJ,7043,Director of Planning,Township of Montclair,205,Claremont Avenue,Montclair,NJ,2750,0,0
+R0005188,4/22/2016,,"Tan, David",IND,Z,Glenwood Landing,NY,11547,CTO,CHIPS Technology Group Inc.,5,Aerial Way,Syosset,NY,1000,0,0
+R0003731,3/9/2015,,"Tan, Eva",IND,M,New York,NY,10280,Consultant,"LoCicero & Tan, Inc.",123,William Street,New York,NY,250,0,0
+R0003188,12/11/2013,,"Tapia, Yudelka",IND,X,Bronx,NY,10457,Accountant,NYC Comptroller's Office,1,Centre Street,New York,NY,25,0,0
+R0004974,4/11/2016,,"Tarnoff, Gary R",IND,Z,Stamford,CT,6903,Attorney,Krammer Levin Naftalis Frankel,1177,Avenue of The Americas,New York,NY,250,0,0
+R0004481,8/14/2015,,"Tasca, Christina",IND,K,Brooklyn,NY,11209,Executive Director,Muslim Community Network,239,Thompson Street,New York,NY,30,30,0
+R0005199,4/28/2016,,"Tavares, Monica",IND,M,New York,NY,10029,Chief of Staff,City of New York,52,Chambers Street,New York,NY,50,0,0
+R0004073,4/20/2015,,"Taveras, Erasmo",IND,Z,Blauvelt,NY,10913,Executive,City Livery Leasing,1675,Carter Avenue,Bronx,NY,500,0,0
+R0003190,12/20/2013,,"Taveras, Seny",IND,X,Bronx,NY,10463,Chief of Staff,NYC Council,250,Broadway,New York,NY,50,0,0
+R0004883,3/1/2016,,"Taylor, Christine",IND,M,New York,NY,10021,EVP Corp Communications,MaacAndrews + Forbes Inc.,35,E 62nd Street,New York,NY,1000,175,0
+R0003971,4/16/2015,,"Teich, Howard",IND,M,New York,NY,10028,Attorney,Self Employed,260,Madison Avenue,New York,NY,500,175,0
+R0003911,4/2/2015,,"Tejada, Robert",IND,X,Bronx,NY,10458,Accountant,Self Employed,2853A,Grand Concourse,Bronx,NY,50,50,0
+R0003981,4/20/2015,,"Terrio, David",IND,M,New York,NY,10025,Finance & Accounting,BTQ Financial,219,W 106th Street,New York,NY,500,175,0
+R0004023,4/20/2015,,"Terry, Travis H",IND,Q,Forest Hills,NY,11375,Consultant,Capalino & Company,233,Broadway,New York,NY,400,0,0
+R0004678,1/8/2016,,"Terry, Travis H",IND,Q,Forest Hills,NY,11375,Consultant,Capalino & Company,233,Broadway,New York,NY,400,0,400
+R0004801,1/8/2016,2/19/2016,"Terry, Travis H",IND,Q,Forest Hills,NY,11375,,,,,,,-400,0,0
+R0004369,6/30/2015,,"Thompson, Lesley V",IND,M,New York,NY,10065,Public Relations,LVMH,1,East 57th Street,New York,NY,2000,175,0
+R0004136,4/23/2015,,"Thompson, Mark P",IND,M,New York,NY,10009,EVP,Capalino & Company,233,Broadway,New York,NY,400,0,0
+R0004640,1/7/2016,,"Tisch, Jonathan M",IND,M,New York,NY,10065,Chairman,Loews Hotels,667,Madison Avenue,New York,NY,2500,175,0
+R0003175,12/5/2013,,"Todd, Thad J",IND,Z,North Arlington,NJ,7031,retired,retired,,,,,100,0,0
+R0003344,1/5/2014,,"Tohin, Mohammed",IND,Q,Jamaica,NY,11432,Service,Four Seasons Hotel,57,E 57th Street,New York,NY,100,0,0
+R0004248,5/13/2015,,"Tompkins, Timothy M",IND,K,Brooklyn,NY,11221,President,Times Square Alliance,1560,Broadway,New York,NY,250,0,0
+R0004934,3/25/2016,,"Tompkins, Timothy M",IND,K,Brooklyn,NY,11221,President,Times Square Alliance,1560,Broadway,New York,NY,500,175,250
+R0003841,4/2/2015,,"Torres, Brenda",IND,M,New York,NY,10025,Director,Commonwealth of Puerto Rico,135,W 50th Street,New York,NY,100,100,0
+R0004459,8/8/2015,,"Uddin, Ahasan",IND,K,Brooklyn,NY,11218,Lead Instructor,Self Employed,3611,14th Avenue,Brooklyn,NY,100,100,0
+R0003337,1/5/2014,,"Uddin, Maf M",IND,Q,Jamaica,NY,11432,President Local 1407,DC 37,125,Barclay ST,New York,NY,100,0,0
+R0003196,12/10/2013,,"Uddin, Mazeda A",IND,Q,Jamaica,NY,11432,Chair,Women of ASSAL,,PO BOX 1698,New York,NY,25,0,0
+R0003342,1/5/2014,,"Uddin, Mazeda A",IND,Q,Jamaica,NY,11432,Chair,Women of ASSAL,,PO BOX 1698,New York,NY,100,0,25
+R0003346,1/5/2014,,"Uddin, Mohammed S",IND,Q,Jamaica,NY,11432,Waiter,Lindy's Restaurant,825,7th Avenue,New York,NY,100,0,0
+R0004568,11/30/2015,,"Unanue, Carmen",IND,Z,Alpine,NJ,7620,Retired,,,,,,600,0,0
+R0003903,4/2/2015,,"Vaccaro, Steve",IND,M,New York,NY,10128,Lawyer,Self Employed,17,Battery Place,New York,NY,550,175,0
+R0004656,1/7/2016,,"Valdes, America",IND,M,New York,NY,10019,Executive,Witkoff,40,West 57th Street,New York,NY,4950,0,0
+R0003853,4/2/2015,,"Valentin, Rhina",IND,M,New York,NY,10029,On Air Artist,La Reina del Barrio,2790,Goulden Avenue,Bronx,NY,25,25,0
+R0003438,3/11/2014,,"Valentin, Sergio",IND,Z,New Windsor,NY,12553,Director,El Barrio Operation Fightback,413,East 120th Street,New York,NY,200,0,0
+R0005167,4/17/2016,,"Valenzuela, Eve",IND,M,New York,NY,10029,Executive Assistant,"Hope Community, Inc.",174,East 104th Street,New York,NY,50,50,0
+R0003686,10/16/2014,,"Vallone, Tena",IND,Q,Astoria,NY,11105,Housewife,Housewife,,,,,500,0,0
+R0003678,11/25/2014,,"Vallone, Tena",IND,Q,Astoria,NY,11105,Housewife,Housewife,,,,,635.25,0,0
+R0003616,10/8/2014,,"Van Bramer, Barbara B",IND,Z,Valhalla,NY,10595,Homemaker,,,,,,250,0,0
+R0003631,10/15/2014,,"Van Bramer, Glenn C",IND,K,Brooklyn,NY,11201,Consultant,Yoswein New York,150,Broadway,New York,NY,250,0,0
+R0003714,2/19/2015,,"Van Bramer, Glenn C",IND,K,Brooklyn,NY,11201,Consultant,Yoswein New York,150,Broadway,New York,NY,150,0,250
+R0003611,10/8/2014,,"Van Bramer, James E",IND,Z,Valhalla,NY,10595,Consultant,Yoswein NY,150,Broadway,New York,NY,250,0,0
+R0005044,4/14/2016,,"Vargas, Wilfredo",IND,Q,Fresh Meadows,NY,11366,Not Employed,,,,,,50,50,0
+R0003936,4/15/2015,,"Vasquez, Carmen",IND,M,New York,NY,10029,retired,,,,,,50,50,0
+R0005096,4/18/2016,,"Vasquez, Carmen",IND,M,New York,NY,10029,retired,,,,,,35,35,50
+R0004975,4/11/2016,,"Vasquez, Carmen S",IND,M,New York,NY,10029,Administrator,City University of New York,2155,University Avenue,Bronx,NY,50,50,0
+R0003943,4/15/2015,,"Vaughn, Maurice S",IND,M,New York,NY,10017,Real Estate,Omni New York LLC,885,Second Avenue,New York,NY,250,0,0
+R0003913,4/2/2015,,"Velazquez, Norberto",IND,Z,Yonkers,NY,10701,Real Estate Developer,"JGV, Inc.",1325,Southern Blvd,Bronx,NY,50,0,0
+R0004742,1/11/2016,,"Venegas, Ricardo",IND,Z,Somerset,NJ,8873,Chief Financial Officer,"One Media Corp, Inc.",750,Third Avenue,New York,NY,50,0,0
+R0005023,4/12/2016,,"Vieira, Paul",IND,K,Brooklyn,NY,11234,President,IDL Communications & Electric,1076,Castleton Avenue,Staten Island,NY,250,0,0
+R0003739,3/18/2015,,"Vitacco, William",IND,Z,Bedford,NY,10506,Building Code Consultant,"W. Vitacco Assoc, LTD",299,Broadway,Bedford,NY,500,0,0
+R0005367,6/16/2016,,"Voce, Mary F",IND,M,New York,NY,10011,Lawyer,Greenberg Traurig LLP,200,Park Avenue,New York,NY,200,175,0
+R0004039,4/20/2015,,"Wagner, Claudia",IND,M,New York,NY,10025,Attorney,"Manatt, Phelps & Phillips",7,Times Square,New York,NY,250,0,0
+R0004548,11/17/2015,,"Walden, Keith",IND,K,Brooklyn,NY,11233,Account Executive,Winston Benefits,2399,Hwy 34 South,Manasquan,NJ,250,175,0
+R0003432,2/6/2014,,"Waldron, Bridget E",IND,Q,Maspeth,NY,11378,Social Worker,YAI,460,West 34th Sreet,New York,NY,100,0,0
+R0003710,2/17/2015,,"Walentas, Jane L",IND,K,Brooklyn,NY,11201,Artist,self employed,1,Main Street,Brooklyn,NY,1000,175,0
+R0005354,6/2/2016,,"Walentas, Jane L",IND,K,Brooklyn,NY,11201,Artist / Director,Jane's Carousel,45,Main Street,Brooklyn,NY,500,0,1000
+R0004179,4/24/2015,,"Walker, Ellen M",IND,M,New York,NY,10028,Attorney,Granoff Walker & Forlenza,747,Third Avenue,New York,NY,500,175,0
+R0004244,5/13/2015,,"Wallace, Edward C",IND,M,New York,NY,10025,Attorney,Greenberg Traurig LLP,200,Park Avenue,New York,NY,250,0,0
+R0003994,4/22/2015,,"Wambua, Mathew",IND,X,Bronx,NY,10463,Affordable Housing,Richman Group,800,Third Avenue,New York,NY,250,0,0
+R0005352,6/2/2016,,"Wambua, Mathew",IND,X,Bronx,NY,10463,Affordable Housing,Richman Group,800,Third Avenue,New York,NY,250,175,250
+R0003978,4/19/2015,,"Wamsler, Caroline",IND,M,New York,NY,10024,Art Historian,Self Employed,186,West 80th Street,New York,NY,1000,175,0
+R0005168,4/17/2016,,"Wamsler, Caroline",IND,M,New York,NY,10024,Art Historian,Self Employed,186,West 80th Street,New York,NY,500,0,1000
+R0004854,3/1/2016,,"Washburn, Annie",IND,M,New York,NY,10011,Unemployed,,,,,,500,175,0
+R0004334,6/26/2015,,"Weinberger, Israel",IND,K,Brooklyn,NY,11210,Real Estate,Repositioned State Corp,85,Delancy Street,New York,NY,1500,175,0
+R0004203,4/24/2015,,"Weingarten, Allen",IND,Z,Brookville,NY,11545,Taxi Owner Manager,Taxi Office LLC,54-11,Queens Blvd,Woodside,NY,2000,0,0
+R0004201,4/24/2015,,"Weingarten, Fred",IND,Z,Glen Head,NY,11545,Manager,Taxi Office LLC,54-11,Queens Blvd,Woodside,NY,2000,0,0
+R0004279,5/21/2015,,"Weiss, Steven J",IND,Z,Williamsville,NY,14221,Attorney,Cannon Heyman & Weiss,726,Exchange Street,Buffalo,NY,500,0,0
+R0003675,11/29/2014,,"Weissman, Jami",IND,Z,Bedford,NY,10506,Editorial Assistant,Modern Luxury,261,Madison Avenue,New York,NY,3500,0,0
+R0003428,4/4/2014,,"Weissman, Touran",IND,M,New York,NY,10021,Homemaker,,,,,,2500,0,0
+R0003658,11/17/2014,,"Weissman, Touran",IND,M,New York,NY,10021,Homemaker,,,,,,2450,175,2500
+R0004358,7/2/2015,,"Wertman, Adina",IND,Z,Great Neck,NY,11024,Learning Specialist,North Shore Hebrew Academy,400,N Service Rd,Lake Success,NY,1500,0,0
+R0005119,4/18/2016,,"White, Douglas H",IND,M,New York,NY,10025,Deputy Commissioner,FDNY,9,Metro Tech Center,Brooklyn,NY,500,175,0
+R0004760,1/7/2016,,"White, Sherri A",IND,M,New York,NY,10024,Real Estate,Witkoff Group,40,West 57th Street,New York,NY,4950,0,0
+R0004802,1/7/2016,2/19/2016,"White, Sherri A",IND,M,New York,NY,10024,,,,,,,-4550,0,0
+R0005752,7/7/2016,,"Wilcox Wambua, Marysa",IND,X,Bronx,NY,10463,Social Worker,Self Employed,2251,Edsall Avenue,Bronx,NY,500,175,0
+R0003869,4/2/2015,,"Williams Goldhagen, Sarah",IND,M,New York,NY,10029,Writer,Self Employed,236,E 111th ST,New York,NY,250,175,0
+R0003244,12/18/2013,,"Wirstshafter, Tom M",IND,M,New York,NY,10023,Executive,American Portfolios,4250,Veterans Memorial Highway,Holbrook,NY,1000,0,0
+R0003245,12/18/2013,1/13/2014,"Wirstshafter, Tom M",IND,M,New York,NY,10023,,,,,,,-680,0,0
+R0005317,5/23/2016,,"Wirth, Douglas A",IND,M,New York,NY,10034,Healthcare,Amida Care,14,Penn Plaza,New York,NY,250,0,0
+R0004658,1/7/2016,,"Witkoff, Alexander",IND,M,New York,NY,10075,Analyst,The Witkoff Group,40,West 57th Street,New York,NY,4950,175,0
+R0004173,4/24/2015,,"Woloz, Michael C",IND,Q,Astoria,NY,11105,Partner,Connelly McLaughlin & Woloz,233,Broadway,New York,NY,400,0,0
+R0004979,4/12/2016,,"Wright, Sheena",IND,M,New York,NY,10031,President & CEO,United Way of NYC,205,East 42nd Street,New York,NY,250,0,0
+R0004057,4/20/2015,,"York, George T",IND,Z,Great Neck,NY,11020,President,York Restoration,34-02,Laurel Hill Blvd.,Woodside,NY,500,0,0
+R0003618,10/8/2014,,"Yoswein, Joni A",IND,K,Brooklyn,NY,11201,President,Yoswein New York,150,Broadway,New York,NY,250,0,0
+R0003718,2/26/2015,,"Yoswein, Joni A",IND,K,Brooklyn,NY,11201,President,Yoswein New York,150,Broadway,New York,NY,150,0,250
+R0004109,4/20/2015,,"Zachter, Melvin",IND,S,Staten Island,NY,10314,Retired,,,,,,500,175,0
+R0003282,12/22/2013,,"Zahriyeh, Raied A",IND,S,Staten Island,NY,10301,Supervisor,Dynasty Meat Corp.,46-02,Queens Blvd,Sunnyside,NY,250,0,0
+R0003212,12/16/2013,,"Zeckendorf, Arthur W",IND,M,New York,NY,10023,Executive,Terra Holdings,770,Lexington Avenue,New York,NY,3850,0,0
+R0003150,12/4/2013,,"Zeckendorf, William L",IND,M,New York,NY,10023,Co-Chairman,Brown Harris Stevens,770,Lexington Avenue,New York,NY,4500,0,0
+R0003151,12/4/2013,12/9/2013,"Zeckendorf, William L",IND,M,New York,NY,10023,,,,,,,-650,0,0
+R0004995,4/12/2016,,"Ziff, Ann",IND,M,New York,NY,10128,Jewelry Designer,Tamsen Z,350,Park Avenue,New York,NY,4950,175,0
+R0004169,4/24/2015,,"Zuccotti, Susan",IND,K,Brooklyn,NY,11231,Author,Self Employed,36,Second Place,Brooklyn,NY,1000,175,0

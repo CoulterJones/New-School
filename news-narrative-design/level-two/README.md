@@ -1,5 +1,7 @@
 # NND2 Overview
 
+## [http://bit.ly/nnd2-fall-2016](http://bit.ly/nnd2-fall-2016)
+
 ### Who am I?
 
 Shane Shifflett, Data Reporter for The Wall Street Journal

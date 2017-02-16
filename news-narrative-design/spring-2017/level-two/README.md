@@ -21,7 +21,7 @@ shiffles@newschool.edu
 
 ### Dates
 
-* [Feb. 9]()
+* [Feb. 9](https://docs.google.com/document/d/1CJm74XP5PTb4wrNvVD0SgxmjvRO5A35inYYoh6u4Wgo/edit?usp=sharing)
 * [Feb. 23]()
 * TK
 

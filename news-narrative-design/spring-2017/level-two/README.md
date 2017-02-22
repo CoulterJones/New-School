@@ -23,7 +23,7 @@ shifflett.shane@gmail.com
 ### Dates
 
 * [Feb. 9](https://docs.google.com/document/d/1CJm74XP5PTb4wrNvVD0SgxmjvRO5A35inYYoh6u4Wgo/edit?usp=sharing)
-* [Feb. 23]()
+* [Feb. 23](https://github.com/CoulterJones/New-School/blob/master/news-narrative-design/spring-2017/level-two/bridges.ipynb)
 * TK
 
 ### Where will we meet?

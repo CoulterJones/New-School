@@ -1,6 +1,6 @@
 # NND2 Overview
 
-## [http://bit.ly/nnd2-spring-2017](https://github.com/CoulterJones/New-School/tree/master/news-narrative-design/spring-2017/level-two)
+## [http://bit.ly/nnd2-spring-2017](http://bit.ly/nnd2-spring-2017)
 
 ### Who am I?
 

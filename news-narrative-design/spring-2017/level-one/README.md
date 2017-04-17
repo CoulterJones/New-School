@@ -1,6 +1,6 @@
-# NND2 Overview
+# NND1 Overview
 
-## [http://bit.ly/nnd2-fall-2016](http://bit.ly/nnd2-fall-2016)
+## [http://bit.ly/spring-2017-nnd1](http://bit.ly/spring-2017-nnd1)
 
 ### Who am I?
 

@@ -19,11 +19,11 @@ shiffles@newschool.edu
 
 [GitHub](https://github.com/CoulterJones/New-School/tree/master/news-narrative-design/spring-2017/level-one)
 
-### Dates
+### Classes
 
-* [Class 1: Intro](https://docs.google.com/document/d/1s7TQgWlTHOzB7eX9DYDsmRMMdSCzYAijmj-ftzugAjo/edit?usp=sharing)
-* [Class 2: Backgrounding People](https://docs.google.com/presentation/d/1X8cpWuZhUIRBAIErcCVYSOTZ4DoXfoPkeFnP2qQT7Uc/edit?usp=sharing)
-* [Class 3: Charts](https://github.com/CoulterJones/New-School/blob/master/news-narrative-design/spring-2017/level-one/charts.ipynb)
+* [1: Intro](https://docs.google.com/document/d/1s7TQgWlTHOzB7eX9DYDsmRMMdSCzYAijmj-ftzugAjo/edit?usp=sharing)
+* [2: Backgrounding People](https://docs.google.com/presentation/d/1X8cpWuZhUIRBAIErcCVYSOTZ4DoXfoPkeFnP2qQT7Uc/edit?usp=sharing)
+* [3: Charts](https://github.com/CoulterJones/New-School/blob/master/news-narrative-design/spring-2017/level-one/charts.ipynb)
 
 
 

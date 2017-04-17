@@ -17,36 +17,13 @@ shiffles@newschool.edu
 
 ### Where to find materials?
 
-[GitHub](https://github.com/CoulterJones/New-School/tree/master/news-narrative-design/level-two)
+[GitHub](https://github.com/CoulterJones/New-School/tree/master/news-narrative-design/spring-2017/level-one)
 
 ### Dates
 
-* [Sept. 21](https://github.com/CoulterJones/New-School/blob/master/news-narrative-design/level-two/campaign-finance.ipynb)
-* [Nov. 3](https://docs.google.com/document/d/1-yyOG-PJN2tgqqfs2qrrQwF66lEIozAXDhmEZJC-hOI/edit?usp=sharing)
-* TK
+* [Class 1: Intro](https://docs.google.com/document/d/1s7TQgWlTHOzB7eX9DYDsmRMMdSCzYAijmj-ftzugAjo/edit?usp=sharing)
+* [Class 2: Backgrounding People](https://docs.google.com/presentation/d/1X8cpWuZhUIRBAIErcCVYSOTZ4DoXfoPkeFnP2qQT7Uc/edit?usp=sharing)
+* [Class 3: Charts](https://github.com/CoulterJones/New-School/blob/master/news-narrative-design/spring-2017/level-one/charts.ipynb)
 
-### Where will we meet?
-
-65 West 11th St., Room 102 @ 5:15pm
-
-### Basic outline we'll cover over three classes:
-
-* Data in context
-* Review issues to consider when writing about numbers
-* Understand rates and ratios and when to use them
-* Aggregate data work in spreadsheets
-* PivotTables
-* Filtering and subtotals
-
-### What you hopefully covered in prior semesters with an embed:
-
-* Overview of using data in journalism
-* Understand sourcing of data and origin of records	
-* Understand issues to consider when writing about numbers
-* Data as reporting tool, like interviewing people, means numbers can lie.
-* Basic spreadsheets and simple math
-* Use simple functions (SUM, AVERAGE, MIN, MAX)
-* Sorting and filtering in a spreadsheet
-* Calculate a percent change with demographic data from Census site 
 
 

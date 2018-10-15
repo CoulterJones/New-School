@@ -1,9 +1,9 @@
                             Policy Statistics
                                 Country-Wide
                                AS OF 08/31/2018
-                    Policies       Insurance          Written
-   State Name       In-force      In-force whole $  Premium in-force
-  ----------------  ---------     ----------------  ----------------
+                     Policies       Insurance          Written
+   State Name        In-force      In-force whole $  Premium in-force
+  ----------------   ---------     ----------------  ----------------
   Alaska                 2,432          666,119,400        2,187,477
   Alabama               54,593       12,915,216,300       37,383,443
   Arkansas              15,967        2,973,594,400       13,473,781
